@@ -1,0 +1,187 @@
+,Type,Year Built,Heating,Cooling,Parking,Lot,Price/sqft,Buyers Agency Fee,zpid
+0,Single family residence,Built in 2018,Natural gas,Central air,2 Attached garage spaces,"6,259 sqft",$266 price/sqft,3% buyers agency fee,247509225
+1,Single family residence,Built in 1959,Forced air,"Ceiling fan(s), central air",1 Attached garage space,"7,998 sqft",$263 price/sqft,3% buyers agency fee,13602165
+2,Single family residence,Built in 1984,Forced air,Central air,2 Attached garage spaces,"9,444 sqft",$214 price/sqft,2.5% buyers agency fee,13561330
+3,Single family residence,Built in 1961,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"9,350 sqft",$178 price/sqft,3% buyers agency fee,13600860
+4,Single family residence,Built in 2018,Forced air,Central air,3 Attached garage spaces,"5,501 sqft",$184 price/sqft,3% buyers agency fee,247511103
+5,Single family residence,Built in 1959,Forced air,None,1 Garage space,"6,430 sqft",$184 price/sqft,3% buyers agency fee,13619112
+6,Single family residence,Built in 1968,Forced air,None,2 Garage spaces,"7,440 sqft",$183 price/sqft,3% buyers agency fee,13615352
+7,Single family residence,Built in 2020,"Forced air, natural gas",Central air,2 Attached garage spaces,"7,788 sqft",$212 price/sqft,2.5% buyers agency fee,294979957
+8,Single family residence,Built in 1997,Forced air,Central air,2 Attached garage spaces,"5,384 sqft",$258 price/sqft,3% buyers agency fee,13629281
+9,Single family residence,Built in 2000,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"6,974 sqft",$343 price/sqft,3% buyers agency fee,59736095
+10,Single family residence,Built in 1997,"Forced air, solar",Attic fan,3 Attached garage spaces,"6,534 sqft",$174 price/sqft,3% buyers agency fee,13573798
+11,Single family residence,Built in 2011,Forced air,Central air,2 Attached garage spaces,"3,136 sqft",$198 price/sqft,3% buyers agency fee,114184528
+12,Single family residence,Built in 1978,"Forced air, natural gas",Central air,2 Attached garage spaces,"8,102 sqft",$149 price/sqft,2.5% buyers agency fee,13543937
+13,Single family residence,Built in 1950,"Electric, forced air",Central air,3 Garage spaces,"1,701 sqft",$250 price/sqft,3% buyers agency fee,13607304
+14,Single family residence,Built in 2020,Forced air,Central air,2 Attached garage spaces,"2,156 sqft",$244 price/sqft,3% buyers agency fee,338030102
+15,Single family residence,Built in 1998,"Forced air, natural gas",Ceiling fan(s),3 Attached garage spaces,0.49 Acres,$163 price/sqft,3% buyers agency fee,13555621
+16,Single family residence,Built in 1996,Forced air,"Ceiling fan(s), central air",3 Attached garage spaces,0.37 Acres,$184 price/sqft,3% buyers agency fee,13651688
+17,Single family residence,Built in 1909,Forced air,Central air,2 Garage spaces,"8,751 sqft",$236 price/sqft,2.0% buyers agency fee,13671198
+18,Single family residence,Built in 1984,Gravity,Other,1 Attached garage space,"4,791 sqft",$360 price/sqft,3% buyers agency fee,13543561
+19,Townhouse,Built in 1974,"Baseboard, electric, forced air, natural gas, passive solar",Ceiling fan(s),2 Attached garage spaces,"2,365 sqft",$180 price/sqft,3% buyers agency fee,13557461
+20,Single family residence,Built in 1963,Forced air,None,1 Attached garage space,"8,751 sqft",$174 price/sqft,3% buyers agency fee,13619653
+21,Single family residence,Built in 1968,Forced air,None,2 Garage spaces,"10,441 sqft",$148 price/sqft,3% buyers agency fee,13591035
+22,Single family residence,Built in 2015,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,1.24 Acres,$273 price/sqft,2.5% buyers agency fee,181721490
+23,Single family residence,Built in 2015,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"6,251 sqft",$180 price/sqft,3% buyers agency fee,181556706
+24,Single family residence,Built in 2016,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,0.33 Acres,$181 price/sqft,3% buyers agency fee,181738611
+25,Condominium,Built in 2005,"Forced air, natural gas",Central air,2 Attached garage spaces,,$227 price/sqft,3% buyers agency fee,69043953
+26,Single family residence,Built in 1983,"Forced air, natural gas",Central air,2 Attached garage spaces,"7,372 sqft",$329 price/sqft,2.8% buyers agency fee,13614336
+27,Single family residence,Built in 1942,Forced air,Central air,Garage,"4,275 sqft",$189 price/sqft,3% buyers agency fee,13610394
+28,Single family residence,Built in 1981,"Forced air, natural gas, wood",Ceiling fan(s),2 Attached garage spaces,"10,454 sqft",$191 price/sqft,3% buyers agency fee,13579980
+29,Single family residence,Built in 1983,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"6,804 sqft",$273 price/sqft,3% buyers agency fee,13566737
+30,Single family residence,Built in 1898,Forced air,Central air,Garage,"2,622 sqft",$351 price/sqft,2.5% buyers agency fee,13667169
+31,Single family residence,Built in 1915,Forced air,None,1 Garage space,"6,751 sqft",$232 price/sqft,3% buyers agency fee,13665230
+32,Single family residence,Built in 1993,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"7,126 sqft",$167 price/sqft,3% buyers agency fee,13560440
+33,Single family residence,Built in 1972,Forced air,Ceiling fan(s),2 Attached garage spaces,"8,360 sqft",$213 price/sqft,2.5% buyers agency fee,13581140
+34,Single family residence,Built in 1979,Forced air,None,2 Attached garage spaces,0.27 Acres,$271 price/sqft,3% buyers agency fee,13599823
+35,Single family residence,Built in 2020,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"3,825 sqft",$249 price/sqft,3% buyers agency fee,338032294
+36,Single family residence,Built in 2017,Natural gas,"Ceiling fan(s), central air",2 Attached garage spaces,"8,860 sqft",$262 price/sqft,2.75% buyers agency fee,181739895
+37,Condominium,Built in 2003,"Forced air, natural gas","Ceiling fan(s), central air",1 Garage space,,$326 price/sqft,3% buyers agency fee,2060748905
+38,Single family residence,Built in 1985,Forced air,"Attic fan, ceiling fan(s)",2 Attached garage spaces,0.45 Acres,$217 price/sqft,3% buyers agency fee,13579333
+39,Single family residence,Built in 2020,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"3,825 sqft",$186 price/sqft,2.5% buyers agency fee,338030560
+40,Single family residence,Built in 1901,"Hot water, radiant",Ceiling fan(s),2 Attached garage spaces,"10,500 sqft",$220 price/sqft,3% buyers agency fee,181641608
+41,Single family residence,Built in 2006,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"3,388 sqft",$172 price/sqft,3% buyers agency fee,79847876
+42,Single family residence,Built in 1964,Forced air,Ceiling fan(s),Garage,"6,891 sqft",$186 price/sqft,3% buyers agency fee,13588546
+43,Single family residence,Built in 1973,Forced air,Ceiling fan(s),2 Attached garage spaces,"10,001 sqft",$229 price/sqft,2.75% buyers agency fee,13578650
+44,Single family residence,Built in 2006,"Baseboard, hot water, natural gas",Ceiling fan(s),3 Attached garage spaces,5 Acres,$223 price/sqft,2.8% buyers agency fee,80394784
+45,Single family residence,Built in 2007,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"5,501 sqft",$160 price/sqft,3% buyers agency fee,82241127
+46,Single family residence,Built in 1989,"Electric, see prop desc remarks",Central air,2 Attached garage spaces,0.64 Acres,$236 price/sqft,2.75% buyers agency fee,13661251
+47,Single family residence,Built in 1970,Forced air,Ceiling fan(s),"No garage, garage amenities (none), gravel driveway, rv access/parking","6,500 sqft",$201 price/sqft,3% buyers agency fee,13626299
+48,Single family residence,Built in 1985,"Forced air, natural gas",Central air,1 Attached garage space,"4,051 sqft",$244 price/sqft,3% buyers agency fee,13564988
+49,Single family residence,Built in 2007,Forced air,Central air,2 Attached garage spaces,"5,311 sqft",$189 price/sqft,3% buyers agency fee,82241528
+50,Duplex,Built in 1898,Forced air,None,No data,,,2.5% buyers agency fee,13665522
+51,Single family residence,Built in 1985,Forced air,Central air,"No garage, garage amenities (none), concrete driveway","4,500 sqft",$330 price/sqft,3% buyers agency fee,13621920
+52,Single family residence,Built in 1978,Natural gas,"Attic fan, ceiling fan(s)",2 Attached garage spaces,0.31 Acres,$173 price/sqft,2.5% buyers agency fee,13652262
+53,Single family residence,Built in 2000,Radiant,Central air,3 Attached garage spaces,12.93 Acres,$231 price/sqft,3% buyers agency fee,13535683
+54,Single family residence,Built in 2005,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,0.74 Acres,$153 price/sqft,2.5% buyers agency fee,80383099
+55,Condominium,Built in 1973,Forced air,Central air,1 Garage space,,$298 price/sqft,2% buyers agency fee,13582293
+56,Single family residence,Built in 1992,Forced air,Central air,2 Attached garage spaces,"7,705 sqft",$176 price/sqft,3% buyers agency fee,13651615
+57,Single family residence,Built in 2015,Forced air,"Ceiling fan(s), central air",3 Garage spaces,0.29 Acres,$248 price/sqft,2.5% buyers agency fee,247510511
+58,Single family residence,Built in 1957,Forced air,None,1 Parking space,"6,100 sqft",$296 price/sqft,2.5% buyers agency fee,13628694
+59,Single family residence,Built in 2012,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"8,966 sqft",$148 price/sqft,3% buyers agency fee,119310357
+60,Single family residence,Built in 1972,Forced air,None,2 Garage spaces,"6,000 sqft",$207 price/sqft,2.8% buyers agency fee,13611715
+61,Single family residence,Built in 1990,Forced air,"Ceiling fan(s), central air",3 Attached garage spaces,0.40 Acres,$187 price/sqft,2.8% buyers agency fee,13557664
+62,Single family residence,Built in 2007,"Forced air, natural gas",Central air,4 Attached garage spaces,1.56 Acres,$414 price/sqft,3.0% buyers agency fee,84638480
+63,Single family residence,Built in 2004,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,"7,895 sqft",$195 price/sqft,3% buyers agency fee,69038954
+64,Single family residence,Built in 2018,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"5,501 sqft",$177 price/sqft,3% buyers agency fee,247511137
+65,Single family residence,Built in 1988,Forced air,None,2 Attached garage spaces,"5,532 sqft",$180 price/sqft,3% buyers agency fee,13540822
+66,Single family residence,Built in 2005,Natural gas,Central air,2 Attached garage spaces,"5,000 sqft",$175 price/sqft,2.5% buyers agency fee,69042832
+67,Single family residence,Built in 2005,Forced air,Central air,3 Attached garage spaces,"8,049 sqft",$151 price/sqft,2.5% buyers agency fee,69039609
+68,Single family residence,Built in 2001,Natural gas,None,No garage,"8,189 sqft",$198 price/sqft,2% buyers agency fee,59739161
+69,Single family residence,Built in 1998,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"8,999 sqft",$156 price/sqft,2.5% buyers agency fee,13539355
+70,Single family residence,Built in 1983,Natural gas,Central air,2 Attached garage spaces,"6,500 sqft",$215 price/sqft,2% buyers agency fee,13570540
+71,Single family residence,Built in 1983,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,2.30 Acres,$166 price/sqft,2.5% buyers agency fee,13599326
+72,Single family residence,Built in 1986,"Forced air, natural gas",Central air,2 Attached garage spaces,"8,559 sqft",$157 price/sqft,3% buyers agency fee,13571223
+73,Single family residence,Built in 1987,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,1.02 Acres,$236 price/sqft,3% buyers agency fee,13637667
+74,Single family residence,Built in 1963,"Forced air, natural gas","Attic fan, ceiling fan(s)",2 Attached garage spaces,0.28 Acres,$253 price/sqft,3% buyers agency fee,13594330
+75,Single family residence,Built in 1924,Forced air,Central air,No garage,"3,360 sqft",$429 price/sqft,2.5% buyers agency fee,13665726
+76,Single family residence,Built in 1978,"Forced air, natural gas","Ceiling fan(s), evaporative cooling",2 Attached garage spaces,0.49 Acres,$150 price/sqft,3% buyers agency fee,13577733
+77,Condominium,Built in 1995,Forced air,Central air,2 Attached garage spaces,,$309 price/sqft,3% buyers agency fee,13636197
+78,Condominium,Built in 1975,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,,$188 price/sqft,3% buyers agency fee,13586477
+79,Townhouse,Built in 2008,"Forced air, natural gas",Central air,2 Attached garage spaces,"1,511 sqft",$204 price/sqft,3% buyers agency fee,87934256
+80,Condominium,Built in 2006,"Electric, forced air",Central air,1 Garage space,,$249 price/sqft,3% buyers agency fee,72303511
+81,Single family residence,Built in 1987,Natural gas,None,2 Attached garage spaces,"5,048 sqft",$245 price/sqft,2% buyers agency fee,13562583
+82,Single family residence,Built in 1997,"Baseboard, forced air","Ceiling fan(s), central air",2 Attached garage spaces,"9,326 sqft",$160 price/sqft,2.8% buyers agency fee,13649905
+83,Single family residence,Built in 1955,"Forced air, natural gas",Central air,6 Garage spaces,5.06 Acres,$669 price/sqft,2.5% buyers agency fee,13535792
+84,Single family residence,Built in 1973,Natural gas,None,2 Attached garage spaces,"8,376 sqft",$208 price/sqft,2% buyers agency fee,13600409
+85,Single family residence,Built in 2000,"Hot water, radiant","Ceiling fan(s), central air",4 Attached garage spaces,0.42 Acres,$140 price/sqft,2.75% buyers agency fee,13659853
+86,Single family residence,Built in 2000,Forced air,Central air,3 Attached garage spaces,0.38 Acres,$179 price/sqft,3% buyers agency fee,59740591
+87,Single family residence,Built in 1996,"Forced air, propane","Ceiling fan(s), central air",3 Attached garage spaces,39.12 Acres,$223 price/sqft,3.00% buyers agency fee,13674037
+88,Single family residence,Built in 1988,Forced air,Ceiling fan(s),3 Attached garage spaces,"9,993 sqft",$153 price/sqft,3% buyers agency fee,13652758
+89,Single family residence,Built in 2003,"Forced air, propane, wood",Ceiling fan(s),2 Attached garage spaces,5 Acres,$301 price/sqft,2.75% buyers agency fee,64675332
+90,Single family residence,Built in 1965,"Forced air, natural gas",Ceiling fan(s),7 Attached garage spaces,1.21 Acres,$279 price/sqft,2.8% buyers agency fee,13568468
+91,Single family residence,Built in 1958,Natural gas,None,1 Attached garage space,"7,318 sqft",$303 price/sqft,2.5% buyers agency fee,13609503
+92,Single family residence,Built in 2016,Forced air,Central air,3 Attached garage spaces,"6,600 sqft",$215 price/sqft,3% buyers agency fee,181735368
+93,Single family residence,Built in 2020,Forced air,Central air,2 Attached garage spaces,"4,427 sqft",$192 price/sqft,3% buyers agency fee,319913166
+94,Single family residence,Built in 1972,"Forced air, natural gas",Central air,1 Attached garage space,"6,112 sqft",$201 price/sqft,2.5% buyers agency fee,13611657
+95,Single family residence,Built in 2003,"Forced air, natural gas","Attic fan, ceiling fan(s), central air",2 Attached garage spaces,"6,351 sqft",$234 price/sqft,3% buyers agency fee,64908460
+96,Single family residence,Built in 1899,Forced air,Ceiling fan(s),No data,"2,540 sqft",$276 price/sqft,3% buyers agency fee,13605493
+97,Single family residence,Built in 1985,"Baseboard, electric, wood",Ceiling fan(s),3 Attached garage spaces,5.02 Acres,$290 price/sqft,3% buyers agency fee,13534679
+98,Single family residence,Built in 1990,"Forced air, hot water","Ceiling fan(s), central air",3 Attached garage spaces,0.40 Acres,$257 price/sqft,3% buyers agency fee,13669037
+99,Single family residence,Built in 1962,"Forced air, hot water","Ceiling fan(s), central air",2 Attached garage spaces,"8,412 sqft",$289 price/sqft,2.5% buyers agency fee,13660221
+100,Single family residence,Built in 1964,Forced air,"Ceiling fan(s), central air",2 Garage spaces,"9,210 sqft",$150 price/sqft,3% buyers agency fee,13619748
+101,Single family residence,Built in 2014,Forced air,"Attic fan, central air",3 Attached garage spaces,"5,501 sqft",$196 price/sqft,2.5% buyers agency fee,124229212
+102,Single family residence,Built in 1970,Forced air,Ceiling fan(s),2 Attached garage spaces,"10,001 sqft",$179 price/sqft,3% buyers agency fee,13587610
+103,Single family residence,Built in 1979,Forced air,Ceiling fan(s),2 Attached garage spaces,"6,500 sqft",$205 price/sqft,3% buyers agency fee,13585288
+104,Single family residence,Built in 1998,Forced air,Ceiling fan(s),2 Attached garage spaces,0.77 Acres,$186 price/sqft,2.5% buyers agency fee,13554676
+105,Single family residence,Built in 1900,"Forced air, natural gas",Ceiling fan(s),No data,,,3% buyers agency fee,2061534815
+106,Single family residence,Built in 2020,"Forced air, natural gas",Central air,2 Attached garage spaces,"2,178 sqft",$265 price/sqft,3% buyers agency fee,2060896234
+107,Single family residence,Built in 1994,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"7,000 sqft",$186 price/sqft,3.0% buyers agency fee,13591049
+108,Condominium,Built in 1973,"Baseboard, hot water",Wall unit(s),1 Garage space,,$273 price/sqft,3% buyers agency fee,13582270
+109,Single family residence,Built in 1996,"Forced air, natural gas",Central air,2 Attached garage spaces,"5,501 sqft",$244 price/sqft,3% buyers agency fee,13650316
+110,Condominium,Built in 1974,Forced air,None,1 Garage space,,$231 price/sqft,3% buyers agency fee,13594642
+111,Townhouse,Built in 1986,Forced air,Ceiling fan(s),1 Attached garage space,"1,350 sqft",$250 price/sqft,3% buyers agency fee,13660276
+112,Single family residence,Built in 1994,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,0.43 Acres,$173 price/sqft,3% buyers agency fee,13650087
+113,Single family residence,Built in 1997,Forced air,Central air,2 Attached garage spaces,0.34 Acres,$216 price/sqft,3% buyers agency fee,59739733
+114,Single family residence,Built in 2020,No data,No data,2 Attached garage spaces,"3,484 sqft",$60 price/sqft,3% buyers agency fee,338029871
+115,Single family residence,Built in 2022,Forced air,"Ceiling fan(s), central air",4 Attached garage spaces,5.01 Acres,$257 price/sqft,2.5% buyers agency fee,181574069
+116,Single family residence,Built in 2018,Forced air,Central air,2 Attached garage spaces,"3,098 sqft",$228 price/sqft,2.75% buyers agency fee,294978899
+117,Single family residence,Built in 1993,"Forced air, natural gas","Ceiling fan(s), other",3 Attached garage spaces,"5,663 sqft",$197 price/sqft,2.5% buyers agency fee,13556214
+118,Single family residence,Built in 2001,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"6,266 sqft",$269 price/sqft,3% buyers agency fee,80394057
+119,Single family residence,Built in 1996,Natural gas,Central air,2 Attached garage spaces,"10,469 sqft",$163 price/sqft,2% buyers agency fee,13621499
+120,Single family residence,Built in 1958,Forced air,Ceiling fan(s),"No garage, gravel driveway","5,800 sqft",$304 price/sqft,2.75% buyers agency fee,13611682
+121,Single family residence,Built in 1959,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"8,772 sqft",$188 price/sqft,3% buyers agency fee,108396478
+122,Single family residence,Built in 1989,Forced air,Central air,2 Attached garage spaces,0.57 Acres,$341 price/sqft,3.0% buyers agency fee,13659073
+123,Single family residence,Built in 1985,Natural gas,Central air,2 Attached garage spaces,"6,190 sqft",$256 price/sqft,2% buyers agency fee,13596763
+124,Single family residence,Built in 2009,"Forced air, natural gas, radiant","Ceiling fan(s), central air",4 Attached garage spaces,2.51 Acres,$307 price/sqft,2.8% buyers agency fee,92139481
+125,Single family residence,Built in 1893,Forced air,"Ceiling fan(s), wall unit(s)",1 Garage space,"9,583 sqft",$308 price/sqft,2.5% buyers agency fee,13617515
+126,Single family residence,Built in 1984,Forced air,None,2 Attached garage spaces,"5,083 sqft",$265 price/sqft,3% buyers agency fee,13632382
+127,Single family residence,Built in 2007,Forced air,"Ceiling fan(s), central air",3 Attached garage spaces,"6,490 sqft",$205 price/sqft,2.8% buyers agency fee,82403512
+128,Single family residence,Built in 1968,Baseboard,Ceiling fan(s),Carport,"5,750 sqft",$241 price/sqft,3% buyers agency fee,13603344
+129,Single family residence,Built in 2019,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"8,733 sqft",$195 price/sqft,3% buyers agency fee,294978847
+130,Single family residence,Built in 2007,Forced air,Ceiling fan(s),2 Attached garage spaces,"6,721 sqft",$197 price/sqft,3% buyers agency fee,82403405
+131,Single family residence,Built in 1978,"Forced air, wood","Ceiling fan(s), central air",2 Attached garage spaces,"9,000 sqft",$208 price/sqft,3% buyers agency fee,13544139
+132,Single family residence,Built in 2021,"Forced air, natural gas",Central air,3 Garage spaces,"7,956 sqft",$272 price/sqft,3% buyers agency fee,338032113
+133,Single family residence,Built in 2011,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"7,191 sqft",$205 price/sqft,3% buyers agency fee,118175899
+134,Single family residence,Built in 2023,Forced air,Central air,4 Attached garage spaces,3.69 Acres,$595 price/sqft,2.5% buyers agency fee,319903945
+135,Single family residence,Built in 2013,"Forced air, natural gas",Central air,3 Attached garage spaces,"8,520 sqft",$179 price/sqft,2.5% buyers agency fee,121867163
+136,Single family residence,Built in 1959,"Forced air, natural gas","Ceiling fan(s), central air",1 Attached garage space,"7,501 sqft",$193 price/sqft,3% buyers agency fee,13601287
+137,Single family residence,Built in 2002,Forced air,Central air,3 Attached garage spaces,0.36 Acres,$200 price/sqft,2.8% buyers agency fee,59986387
+138,Single family residence,Built in 2002,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"5,542 sqft",$175 price/sqft,2.5% buyers agency fee,59740441
+139,Single family residence,Built in 1977,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"8,717 sqft",$179 price/sqft,3% buyers agency fee,13652839
+140,Single family residence,Built in 1910,Forced air,None,No data,"5,000 sqft",$207 price/sqft,2.8% buyers agency fee,243806641
+141,Single family residence,Built in 1972,Forced air,Central air,2 Attached garage spaces,0.26 Acres,$163 price/sqft,3% buyers agency fee,13568795
+142,Condominium,Built in 1985,Forced air,See prop desc remarks,1 Garage space,,$247 price/sqft,3% buyers agency fee,2081040120
+143,Single family residence,Built in 1997,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"4,599 sqft",$192 price/sqft,3% buyers agency fee,13621976
+144,Single family residence,Built in 1954,"Forced air, natural gas",Central air,No data,"6,000 sqft",$352 price/sqft,3% buyers agency fee,13627284
+145,Townhouse,Built in 2003,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"4,549 sqft",$130 price/sqft,3% buyers agency fee,64498841
+146,Single family residence,Built in 2018,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,"5,124 sqft",$275 price/sqft,2.5% buyers agency fee,247510693
+147,Single family residence,Built in 1951,"Forced air, natural gas",None,1 Garage space,"6,721 sqft",$315 price/sqft,3% buyers agency fee,13618691
+148,Single family residence,Built in 2005,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"2,122 sqft",$165 price/sqft,3% buyers agency fee,69308060
+149,Townhouse,Built in 1979,"Forced air, natural gas",Central air,2 Attached garage spaces,"4,286 sqft",$345 price/sqft,3.0% buyers agency fee,13658392
+150,Townhouse,Built in 2006,Forced air,"Ceiling fan(s), central air",2 Garage spaces,"1,681 sqft",$227 price/sqft,3% buyers agency fee,71718596
+151,Single family residence,Built in 2009,"Forced air, natural gas",Ceiling fan(s),2 Attached garage spaces,"3,476 sqft",$185 price/sqft,3% buyers agency fee,92136064
+152,Single family residence,Built in 1997,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"6,433 sqft",$205 price/sqft,3.0% buyers agency fee,13593786
+153,Single family residence,Built in 1998,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"7,010 sqft",$202 price/sqft,3% buyers agency fee,13562399
+154,Single family residence,Built in 2018,Natural gas,Central air,2 Attached garage spaces,"6,259 sqft",$266 price/sqft,3% buyers agency fee,247509225
+155,Single family residence,Built in 1959,Forced air,"Ceiling fan(s), central air",1 Attached garage space,"7,998 sqft",$263 price/sqft,3% buyers agency fee,13602165
+156,Single family residence,Built in 1984,Forced air,Central air,2 Attached garage spaces,"9,444 sqft",$214 price/sqft,2.5% buyers agency fee,13561330
+157,Single family residence,Built in 1961,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"9,350 sqft",$178 price/sqft,3% buyers agency fee,13600860
+158,Single family residence,Built in 2018,Forced air,Central air,3 Attached garage spaces,"5,501 sqft",$184 price/sqft,3% buyers agency fee,247511103
+159,Single family residence,Built in 1959,Forced air,None,1 Garage space,"6,430 sqft",$184 price/sqft,3% buyers agency fee,13619112
+160,Single family residence,Built in 1968,Forced air,None,2 Garage spaces,"7,440 sqft",$183 price/sqft,3% buyers agency fee,13615352
+161,Single family residence,Built in 2020,"Forced air, natural gas",Central air,2 Attached garage spaces,"7,788 sqft",$212 price/sqft,2.5% buyers agency fee,294979957
+162,Single family residence,Built in 2018,Natural gas,Central air,2 Attached garage spaces,"6,259 sqft",$266 price/sqft,3% buyers agency fee,247509225
+163,Single family residence,Built in 1959,Forced air,"Ceiling fan(s), central air",1 Attached garage space,"7,998 sqft",$263 price/sqft,3% buyers agency fee,13602165
+164,Single family residence,Built in 1984,Forced air,Central air,2 Attached garage spaces,"9,444 sqft",$214 price/sqft,2.5% buyers agency fee,13561330
+165,Single family residence,Built in 1961,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"9,350 sqft",$178 price/sqft,3% buyers agency fee,13600860
+166,Single family residence,Built in 2018,Forced air,Central air,3 Attached garage spaces,"5,501 sqft",$184 price/sqft,3% buyers agency fee,247511103
+167,Single family residence,Built in 1959,Forced air,None,1 Garage space,"6,430 sqft",$184 price/sqft,3% buyers agency fee,13619112
+168,Single family residence,Built in 1968,Forced air,None,2 Garage spaces,"7,440 sqft",$183 price/sqft,3% buyers agency fee,13615352
+169,Single family residence,Built in 2020,"Forced air, natural gas",Central air,2 Attached garage spaces,"7,788 sqft",$212 price/sqft,2.5% buyers agency fee,294979957
+170,Single family residence,Built in 2018,Natural gas,Central air,2 Attached garage spaces,"6,259 sqft",$266 price/sqft,3% buyers agency fee,247509225
+171,Single family residence,Built in 1959,Forced air,"Ceiling fan(s), central air",1 Attached garage space,"7,998 sqft",$263 price/sqft,3% buyers agency fee,13602165
+172,Single family residence,Built in 1984,Forced air,Central air,2 Attached garage spaces,"9,444 sqft",$214 price/sqft,2.5% buyers agency fee,13561330
+173,Single family residence,Built in 1961,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"9,350 sqft",$178 price/sqft,3% buyers agency fee,13600860
+174,Single family residence,Built in 2018,Forced air,Central air,3 Attached garage spaces,"5,501 sqft",$184 price/sqft,3% buyers agency fee,247511103
+175,Single family residence,Built in 1959,Forced air,None,1 Garage space,"6,430 sqft",$184 price/sqft,3% buyers agency fee,13619112
+176,Single family residence,Built in 1968,Forced air,None,2 Garage spaces,"7,440 sqft",$183 price/sqft,3% buyers agency fee,13615352
+177,Single family residence,Built in 2020,"Forced air, natural gas",Central air,2 Attached garage spaces,"7,788 sqft",$212 price/sqft,2.5% buyers agency fee,294979957
+178,Single family residence,Built in 2018,Natural gas,Central air,2 Attached garage spaces,"6,259 sqft",$266 price/sqft,3% buyers agency fee,247509225
+179,Single family residence,Built in 1959,Forced air,"Ceiling fan(s), central air",1 Attached garage space,"7,998 sqft",$263 price/sqft,3% buyers agency fee,13602165
+180,Single family residence,Built in 1984,Forced air,Central air,2 Attached garage spaces,"9,444 sqft",$214 price/sqft,2.5% buyers agency fee,13561330
+181,Single family residence,Built in 1961,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,"9,350 sqft",$178 price/sqft,3% buyers agency fee,13600860
+182,Single family residence,Built in 2018,Forced air,Central air,3 Attached garage spaces,"5,501 sqft",$184 price/sqft,3% buyers agency fee,247511103
+183,Single family residence,Built in 1959,Forced air,None,1 Garage space,"6,430 sqft",$184 price/sqft,3% buyers agency fee,13619112
+184,Single family residence,Built in 1968,Forced air,None,2 Garage spaces,"7,440 sqft",$183 price/sqft,3% buyers agency fee,13615352
+185,Single family residence,Built in 2020,"Forced air, natural gas",Central air,2 Attached garage spaces,"7,788 sqft",$212 price/sqft,2.5% buyers agency fee,294979957
