@@ -1,0 +1,1752 @@
+,Type,Year Built,Heating,Cooling,Parking,Lot,Price/sqft,Buyers Agency Fee,zpid
+0,Single family residence,2018,Natural gas,Central air,2 Attached garage spaces,6259,266,3%,247509225
+1,Single family residence,1959,Forced air,"Ceiling fan(s), central air",1 Attached garage space,7998,263,3%,13602165
+2,Single family residence,1968,Forced air,"Ceiling fan(s), other",2 Garage spaces,60984,464,2.5%,13535937
+3,Single family residence,1983,"Forced air, natural gas",Evaporative cooling,2 Attached garage spaces,10454,176,2.8%,13097640
+4,Single family residence,1984,Forced air,Central air,2 Attached garage spaces,9444,214,2.5%,13561330
+5,Single family residence,1968,Forced air,Central air,1 Attached garage space,11761,242,2.8%,12967801
+6,Single family residence,1980,"Forced air, natural gas",Central air,2 Attached garage spaces,7405,153,2.8%,13040426
+7,Single family residence,1955,Forced air,Evaporative cooling,1 Carport space,6600,250,2.8%,13383661
+8,Single family residence,1946,Forced air,Central air,3 Garage spaces,6250,382,2.8%,13342434
+9,Single family residence,2001,Forced air,Ceiling fan(s),2 Attached garage spaces,897,163,3%,2062540395
+10,Single family residence,2019,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,4000,166,3%,2082166256
+11,Condominium,1981,Forced air,Central air,1 Parking space,55007,253,2.8%,13054312
+12,Single family residence,1891,"Forced air, natural gas",Central air,2 Garage spaces,6650,420,2.80%,13321721
+13,"Residential-detached, residential",1966,Forced air,No data,1 Attached garage space,13939,159,3.00%,13926414
+14,Single family residence,1980,Baseboard,None,2 Attached garage spaces,7318,162,2.5%,13070129
+15,Single family residence,2006,Forced air,Central air,2 Carport spaces,3049,285,2.8%,72293761
+16,Single family residence,1998,Forced air,Ceiling fan(s),1 Garage space,232610,210,3%,13674048
+17,Townhouse,2002,No data,No data,1 Attached garage space,522,285,,61264728
+18,Single family residence,1955,No data,No data,"Rv access/parking, no garage",9016,177,2.75%,14007383
+19,Condominium,2002,Forced air,Central air,1 Carport space,55007,336,2.8%,61207983
+20,Single family residence,1948,Forced air,Central air,1 Attached garage space,6250,515,2.8%,13360081
+21,Single family residence,1971,Forced air,"Attic fan, central air",2 Attached garage spaces,9801,163,3%,13587738
+22,"Residential-detached, residential",1985,Forced air,Central air,2 Attached garage spaces,6969,283,2.80%,13859397
+23,Stick built,2022,No data,Ceiling fan(s),2 Attached garage spaces,43560,318,,307625540
+24,Single family residence,1994,Forced air,Central air,5 Attached garage spaces,19166,231,2.8%,13621169
+25,Single family residence,2016,Forced air,Air conditioning-room,3 Attached garage spaces,8886,168,2.8%,123457010
+26,Townhouse,2015,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,3430,201,3%,181568582
+27,Single family residence,1979,"Forced air, natural gas",None,2 Attached garage spaces,8907,319,2.5%,13833169
+28,Single family residence,1973,Forced air,Central air,2 Attached garage spaces,7841,160,2.8%,13040396
+29,Single family residence,1950,Baseboard,None,2 Parking spaces,152460,291,2.5%,13268185
+30,"Residential-detached, residential",1992,"Forced air, radiator, 2 or more heat sources",Central air,3 Attached garage spaces,190357,304,2.80%,13240750
+31,Single family residence,1987,"Propane, forced air",No data,3 Garage spaces,98881,330,,2060711663
+32,Manufactured home,1999,Forced air,Air conditioning-room,2 Parking spaces,55007,216,2.5%,14093726
+33,Single family residence,1994,Forced air,"Ceiling fan(s), central air",3 Attached garage spaces,16117,161,3%,13571913
+34,Stick built,2017,No data,"Refrigerated air, ceiling fan(s)",2 Attached garage spaces,4356,419,,247251009
+35,"Residential-detached, residential",2005,Forced air,Central air,2 Attached garage spaces,11326,249,2.50%,68058719
+36,Single family residence,2005,Forced air,"Ceiling fan(s), central air",6 Garage spaces,217800,143,2.5%,13530558
+37,Single family residence,2005,"Forced air, natural gas",Central air,3 Attached garage spaces,8712,173,2.8%,82024405
+38,Single family residence,1979,"Forced air, natural gas",None,No data,1306800,405,3%,13478548
+39,Single family residence,2004,Forced air,Central air,3 Attached garage spaces,11326,196,2.8%,58888250
+40,Condominium,2000,Forced air,Central air,2 Garage spaces,55007,303,2.5%,51407506
+41,Single family residence,1998,Forced air,"Ceiling fan(s), central air",9 Attached garage spaces,217800,231,3%,13554128
+42,Townhouse,1978,"Forced air, natural gas",None,1 Garage space,1742,514,2.50%,13508794
+43,"Residential-detached, residential",1964,Forced air,Ceiling fan(s),1 Attached garage space,6969,314,2.80%,14058545
+44,Residential,1959,Forced air gas,Central air,2 Attached garage spaces,10715,186,,218698447
+45,"Residential-detached, residential",1993,Forced air,Central air,3 Attached garage spaces,9583,191,3.00%,13892679
+46,"Residential-detached, residential",2017,"Forced air, humidity control",Central air,3 Attached garage spaces,7840,208,2.50%,246632964
+47,Residential,1954,Forced air gas,Central air,1 Garage space,11761,227,,218693855
+48,Single family residence,1971,Forced air,"Central air, none",1 Attached garage space,7941,289,2.5%,13704458
+49,Townhouse,1973,Forced air,Central air,2 Attached garage spaces,55007,299,2.8%,13000843
+50,Single family residence,2000,Propane,Central air,2 Garage spaces,207346,227,2.8%,13530052
+51,Single family residence,1972,Forced air,Central air,2 Attached garage spaces,8274,232,2.8%,12979931
+52,Single family residence,1966,Hot water,Attic fan,2 Attached garage spaces,9644,227,2.8%,13789376
+53,Single family residence,2004,Forced air,"Ceiling fan(s), central air",2 Attached garage spaces,7163,315,3%,64459430
+54,"Residential-detached, residential",2021,"Forced air, hot water","Central air, ceiling fan(s)",2 Attached garage spaces,5662,190,3.00%,338265763
+55,Single family residence,1997,No data,No data,2 Attached garage spaces,5619,203,2.5%,14041793
+56,Manufactured home,1992,Forced air,Other,3 Parking spaces,55007,131,2.80%,2061585375
+57,Single family residence,1987,"Forced air, natural gas",None,2 Attached garage spaces,5271,213,2.5%,13467829
+58,Single family residence,2005,Forced air,Central air,3 Attached garage spaces,9583,200,2.5%,67450235
+59,Single family residence,1997,"Forced air, solar",Attic fan,3 Attached garage spaces,6534,174,3%,13573798
+60,Condominium,1974,"Forced air, natural gas","Ceiling fan(s), central air",1 Garage space,55007,163,3%,13594599
+61,Single family residence,2000,Forced air,Central air,3 Attached garage spaces,6185,207,2.8%,13447986
+62,Single family residence,1993,Forced air,Central air,2 Attached garage spaces,6011,243,2.8%,13494766
+63,Townhouse,2004,"Forced air, natural gas",Central air,1 Garage space,1017,229,3%,67151250
+64,Single family residence,1975,"Baseboard, hot water, natural gas",Evaporative cooling,6 Attached garage spaces,130680,398,,13976821
+65,Single family residence,1935,"Forced air, natural gas",Central air,2 Garage spaces,5501,158,2.5%,14038455
+66,Stick built,1901,No data,No data,No data,2178,268,,194383494
+67,Single family residence,1963,Wood stove,None,10 Parking spaces,44431,332,2.5%,13982934
+68,Single family residence,2018,Forced air,Central air,4 Attached garage spaces,123710,198,2.8%,250246078
+69,Single family residence,1980,"Baseboard, electric, solar",Central air,2 Attached garage spaces,5662,190,2.8%,13098264
+70,Multi family,1997,"Forced air, natural gas",Central air,2 Attached garage spaces,4065,245,2.8%,12966792
+71,Stick built,2000,No data,"Evaporative cooling, ceiling fan(s)",2 Attached garage spaces,10018,184,,111198447
+72,"Residential-detached, residential, manufactured home",1972,Forced air,Central air,2 Garage spaces,55007,256,3.00%,14058474
+73,Single family residence,1985,"Forced air, wood stove","Central air, other",2 Attached garage spaces,4033,360,2.8%,13236999
+74,Single family residence,1986,Forced air,Central air,2 Attached garage spaces,5915,242,2.5%,13553561
+75,Single family residence,1925,Wood,None,2 Parking spaces,33541,657,2.8%,13845583
+76,Single family residence,1963,Baseboard,None,3 Attached garage spaces,64033,327,2.8%,13845373
+77,Single family residence,1969,"Baseboard, wood",None,"No garage, gravel driveway",235224,174,2.8%,13488808
+78,Single family residence,1997,Electric,None,2 Attached garage spaces,43560,335,2.8%,13268559
+79,Manufactured home,1970,Hot water,Other,2 Carport spaces,55007,119,2.8%,13262506
+80,Single family residence,2004,Forced air,No data,Parking pad,5227,464,,67827360
+81,Residential,1998,Forced air gas,Evaporative cooling,2 Attached garage spaces,10890,205,,14021106
+82,Single family residence,1986,"Forced air, natural gas, wood",Ceiling fan(s),2 Attached garage spaces,10890,187,1.5%,13630121
+83,"Attached dwelling, townhouse",2023,Forced air,Central air,2 Attached garage spaces,1306,271,2.00%,338122150
+84,Condominium,1974,Baseboard,No data,"Underground, unassigned",55007,771,,194071738
+85,Townhouse,1973,Forced air,Central air,2 Parking spaces,55007,265,2.5%,13411094
+86,Single family residence,2022,No data,No data,2 Attached garage spaces,46174,234,2.5%,98325399
+87,Stick built,1977,No data,"Window unit(s), ceiling fan(s)",2 Garage spaces,130680,297,,117919556
+88,Townhouse,1911,Hot water,None,2 Garage spaces,2340,431,2.5%,13334224
+89,Single family residence,1900,Forced air,Central air,1 Garage space,3910,467,2.8%,13326390
+90,Stick built,2003,No data,No data,No data,1568160,536,,2097987741
+91,Residential,1984,"Wood, other-see remarks",None,No garage,687812,387,,194792645
+92,"Attached dwelling, single family residence, townhouse",1997,Forced air,Central air,2 Attached garage spaces,3484,217,3.00%,13869074
+93,Single family residence,1903,Forced air,Central air,3 Garage spaces,4687,393,2.8%,13345470
+94,Single family residence,1965,Forced air,Central air,1 Attached garage space,6969,270,2.8%,12981284
+95,Single family residence,1958,Forced air,Evaporative cooling,1 Attached garage space,6708,239,2.8%,13151652
+96,Townhouse,1982,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,1746,255,3.0%,13578162
+97,Townhouse,2006,No data,Central air,2 Attached garage spaces,435,392,,72304384
+98,Single family residence,2013,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,6834,145,2.5%,121868046
+99,Condominium,1973,Baseboard,Air conditioning-room,1 Carport space,55007,200,2.8%,13058190
+100,"Residential-detached, residential",1920,Forced air,Room air conditioner,3 Garage spaces,9147,285,2.80%,13142982
+101,Single family residence,1900,Baseboard,None,No data,1562,533,2.8%,245913032
+102,Single family residence,2000,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,3978,179,3%,13541637
+103,Modular,2000,No data,No data,2 Garage spaces,18295,201,,115560815
+104,Single family residence,1910,"Forced air, propane","Ceiling fan(s), wall unit(s)",2 Garage spaces,19602,133,3%,13530538
+105,Single family residence,1900,"Forced air, hot water, natural gas, pellet stove",Central air,1 Garage space,13504,146,2.8%,194091085
+106,Single family residence,1972,Forced air,Central air,2 Attached garage spaces,8910,248,2.8%,13428621
+107,Single family residence,1971,Forced air,Central air,2 Attached garage spaces,9583,250,2.8%,13836903
+108,Single family residence,1982,"Forced air, natural gas",Central air,2 Attached garage spaces,9104,184,2.8%,13116479
+109,Single family residence,1900,Forced air,Other,No data,6098,139,2.50%,62718278
+110,Single family residence,2022,"Forced air, natural gas",Central air,3 Attached garage spaces,6600,233,3%,337041378
+111,Condominium,1964,Baseboard,None,1 Carport space,55007,310,2.8%,2060666732
+112,Townhouse,2001,Forced air,Central air,1 Parking space,2613,295,2.5%,58651411
+113,Condominium,1975,"Forced air, natural gas","Ceiling fan(s), central air",1 Garage space,55007,203,3.0%,13670966
+114,Type:,Year built:,Heating:,Cooling:,Parking:,55007,Price/sqft:,Buyers Agency Fee:,109720955
+115,Single family residence,1994,"Forced air, natural gas, wood stove",None,2 Attached garage spaces,43560,293,2.5%,13983551
+116,Single family residence,1953,Forced air,Central air,2 Garage spaces,7971,195,2.5%,13032758
+117,Stick built,1890,No data,Window unit(s),No data,17424,230,,2060711625
+118,Condominium,2017,Forced air,Central air,1 Parking space,55007,"1,365",2.8%,2082766662
+119,"Residential-detached, residential",1971,"Forced air, hot water","Central air, room air conditioner",2 Attached garage spaces,24394,152,3.00%,157441791
+120,Single family residence,1995,Baseboard,Evaporative cooling,2 Attached garage spaces,12632,230,,13953097
+121,Single family residence,1954,Forced air,Central air,1 Attached garage space,6186,283,2.8%,13147996
+122,Single family residence,1955,"Forced air, natural gas","Attic fan, central air",1 Attached garage space,7144,504,2.8%,13150438
+123,Manufactured home,1972,Forced air,"Air conditioning-room, evaporative cooling",1 Garage space,55007,314,2.8%,14094414
+124,Single family residence,1948,"Forced air, gas",Evaporative cooling,Garage,7405,138,,104597509
+125,Condominium,1980,Baseboard,No data,"Assigned, one space",55007,575,,194086035
+126,Single family residence,1909,Forced air,Central air,2 Garage spaces,8751,236,2.0%,13671198
+127,Single family residence,1958,Forced air,Evaporative cooling,2 Attached garage spaces,37897,99,,13972194
+128,Stick built,1921,No data,No data,1 Garage space,10890,140,,115561167
+129,Single family residence,1945,"Forced air, gas, wood stove",Evaporative cooling,Rv access/parking,8276,338,,62912181
+130,Single family residence,1965,"Natural gas, forced air",Central air,1 Garage space,16553,109,,81505711
+131,"Residential, single family residence",2010,Forced air,Central air,3 Attached garage spaces,14375,132,,139016454
+132,Single family residence,1986,Electric,Central air,2 Attached garage spaces,8276,123,,77140398
+133,"Residential, single family residence",2000,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,13504,147,,94401765
+134,Single family residence,1976,"Natural gas, forced air",Central air,2 Attached garage spaces,19602,105,,85534790
+135,"Residential, single family residence",1950,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,16988,106,,1260366
+136,Single family residence,1992,"Natural gas, forced air",Central air,3.5 Attached garage spaces,11761,109,,73285967
+137,"Residential, single family residence",1920,Forced air,Central air,No data,3876,89,,85698750
+138,"Residential, single family residence",1918,Forced air,Central air,2 Garage spaces,4791,177,,1106338
+139,Single family residence,1956,"Wood, forced air, propane tank owned",Window unit(s),1 Attached garage space,36155,,2.5%,85595046
+140,"Residential, single family residence",2002,Forced air,Central air,3 Attached garage spaces,39640,115,,1174891
+141,"Residential, single family residence",2003,Forced air,Central air,2 Attached garage spaces,7840,112,,85464743
+142,Single family residence,1999,"Electric, heat pump, forced air",Central air,1 Garage space,10560,64,,77123330
+143,"Residential, single family residence",1994,Forced air,Central air,3 Attached garage spaces,43996,138,,1162178
+144,"Residential, single family residence",1984,Forced air,"Central air, ceiling fan(s)",4 Attached garage spaces,43560,155,,128499312
+145,Single family residence,1890,Forced air,Central air,4 Garage spaces,75359,,3%,77091612
+146,Single family residence,1991,"Natural gas, forced air",Central air,2 Attached garage spaces,19602,,3.0%,138638150
+147,"Residential, single family residence",1966,Forced air,Central air,2 Attached garage spaces,23958,106,,1148557
+148,Single family residence,1973,Natural gas,Central air,2 Attached garage spaces,18295,,3%,50623134
+149,Single family residence,1992,"Natural gas, conventional, forced air, high efficiency furnace",Central air,2 Attached garage spaces,14810,,2.5%,77054500
+150,Single family residence,2001,"Natural gas, forced air",Central air,2 Attached garage spaces,7405,,3%,50626545
+151,Single family residence,1999,Heat pump,Central air,1 Garage space,78408,114,,85421559
+152,"Residential, single family residence",2000,Forced air,Central air,2 Attached garage spaces,10018,136,,115580398
+153,"Residential, single family residence",1967,Heat pump,Heat pump,3 Attached garage spaces,20909,128,,102834542
+154,"Single family residence, residential",1920,No data,Central air,2 Attached garage spaces,13068,56,3.5%BA%,85778950
+155,"Residential, single family residence",1955,Forced air,Central air,2 Attached garage spaces,20038,120,,1263118
+156,Single family residence,1920,"Natural gas, conventional, forced air",Central air,No data,108900,,3.0%,85522127
+157,"Residential, single family residence",2000,Forced air,Central air,2 Attached garage spaces,55007,155,,85304222
+158,"Residential, single family residence",2002,Forced air,Central air,2 Attached garage spaces,168577,159,,85113844
+159,Single family residence,2020,"Natural gas, forced air",Central air,3 Attached garage spaces,15246,184,,316588360
+160,Single family residence,1900,"Natural gas, forced air",None,No data,6098,,3.0%,50606493
+161,"Residential, single family residence",2001,Forced air,Central air,3 Attached garage spaces,13504,150,,85612322
+162,"Residential, single family residence",1935,Forced air,Central air,2 Garage spaces,7492,125,,1249693
+163,Single family residence,1950,Natural gas,Central air,3 Garage spaces,6534,,3%,94611401
+164,Single family residence,2005,"Natural gas, forced air",Central air,2 Attached garage spaces,16988,149,,81499633
+165,Single family residence,1975,"Natural gas, forced air",Central air,2 Attached garage spaces,25265,,3.0%,77002866
+166,"Residential, single family residence",1960,Forced air,Central air,Open parking,4791,167,,85616295
+167,Single family residence,1957,"Natural gas, forced air","Central air, ceiling fan(s)",2 Attached garage spaces,7069,,3%,94423189
+168,Single family residence,1940,"Baseboard, other, space heater","Window unit(s), wall/window unit(s)",2 Garage spaces,10890,96,,85761594
+169,"Residential, single family residence",1988,"Forced air, heat pump",Central air,2 Attached garage spaces,10890,162,,1161640
+170,Single family residence,1905,Natural gas,Central air,No data,6534,,3%,85375097
+171,Single family residence,2003,"Natural gas, forced air",Central air,3 Attached garage spaces,12632,218,,73309195
+172,"Residential, single family residence",1990,Forced air,Central air,2 Attached garage spaces,18731,189,,73224156
+173,Single family residence,2021,Natural gas,Central air,3 Attached garage spaces,18295,,3%,180465529
+174,Single family residence,1991,"Natural gas, forced air",Central air,2 Attached garage spaces,7840,,2.5 %,70485208
+175,"Residential, single family residence",1965,Conversion,Central air,2 Attached garage spaces,11326,188,,1309106
+176,Single family residence,1920,"Natural gas, forced air, hot water",Central air,2 Attached garage spaces,98010,,3.5%,2060673959
+177,Single family residence,1900,"Natural gas, forced air",None,2 Attached garage spaces,151589,,3.0%,231344735
+178,"Residential, single family residence",1959,"Forced air, high efficiency (90%+ afue ), wood stove",Central air,4 Attached garage spaces,10001,160,,85458636
+179,Single family residence,1991,"Natural gas, forced air",Central air,3 Attached garage spaces,103673,104,,89778528
+180,"Residential, single family residence",1973,Forced air,Central air,2 Attached garage spaces,26572,249,,1151090
+181,Manufactured home,1994,"Natural gas, forced air",Window unit(s),No data,55007,,2.4%,85561604
+182,Single family residence,1942,"Natural gas, forced air",Central air,2 Garage spaces,4680,109,,73366083
+183,Single family residence,2022,"Natural gas, forced air",Central air,2 Attached garage spaces,7410,210,,2060678728
+184,"Residential, single family residence",1951,Forced air,Central air,2 Attached garage spaces,15682,92,,1298611
+185,Single family residence,2004,"Propane, forced air",Central air,3 Attached garage spaces,209959,,3%,65281157
+186,Single family residence,1950,Electric,Central air,No data,10454,,2.5%,50602192
+187,Single family residence,1900,Forced air,Central air,1 Garage space,10890,,3%,85730207
+188,"Residential, single family residence",1994,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,5410,193,,1208378
+189,Single family residence,1956,Forced air,Central air,Open parking,9147,,3.0%,77102320
+190,Single family residence,1978,"Heat pump, radiant",Central air,2 Attached garage spaces,57499,131,,85233767
+191,Single family residence,1962,"Natural gas, forced air","Central air, ceiling fan(s)",Open parking,9583,,3%,73203008
+192,"Residential, single family residence",1910,Forced air,Central air,2 Garage spaces,8712,143,,1114365
+193,"Residential, single family residence",1975,Baseboard,"Wall unit(s), window unit(s)",2 Attached garage spaces,15246,140,,85472543
+194,Single family residence,1900,Natural gas,Central air,No data,3920,,3%,85131112
+195,Single family residence,1914,"Natural gas, forced air",None,No data,4356,,3%,99220474
+196,Single family residence,1920,"Natural gas, forced air",Central air,3 Garage spaces,19166,,2.5%,50590357
+197,Condominium,1975,Forced air,Central air,1 Attached garage space,55007,,3%,50660194
+198,Condominium,1994,"Natural gas, forced air","Central air, hvac (16 seer+)",2 Attached garage spaces,55007,,3.0%,85587622
+199,Single family residence,1975,"Natural gas, forced air",Central air,Open parking,461736,,2.4%,2061983838
+200,"Residential, single family residence",1994,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,6098,156,,1238214
+201,"Residential, single family residence",1951,Forced air,Central air,1 Garage space,6952,114,,1240751
+202,"Residential, single family residence",1987,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,24829,180,,85450291
+203,"Residential, single family residence",2018,Forced air,Central air,3 Attached garage spaces,14810,145,,249701183
+204,"Residential, single family residence",1984,"Forced air, humidity control",Central air,2 Attached garage spaces,21344,190,,73268831
+205,Condominium,2022,Natural gas,Central air,2 Attached garage spaces,55007,,3.0%,2060677996
+206,"Residential, single family residence",1900,Forced air,Central air,4 Garage spaces,10772,79,,85287991
+207,Single family residence,1944,Forced air,Central air,1 Garage space,7405,,3%,85205718
+208,Single family residence,1959,"Electric, gravity",Central air,2 Garage spaces,99317,78,,94494760
+209,"Residential, single family residence",1900,Forced air,"Central air, ceiling fan(s)",1 Garage space,4791,112,,1071846
+210,"Residential, single family residence",2012,Forced air,Central air,2 Attached garage spaces,5488,114,,97859874
+211,"Residential, single family residence",1926,Forced air,Central air,1 Garage space,5453,68,,77128950
+212,Single family residence,1962,"Natural gas, forced air",Central air,2 Garage spaces,7500,183,,73296421
+213,"Residential, single family residence",1971,Forced air,Central air,2 Attached garage spaces,19166,105,,80675642
+214,Single family residence,2014,Forced air,Central air,2 Attached garage spaces,13504,123,,124209188
+215,"Residential, single family residence",1995,Forced air,"Central air, ceiling fan(s)",3 Attached garage spaces,13504,143,,99135396
+216,"Residential, condominium",2004,Forced air,Central air,2 Attached garage spaces,55007,186,,85457575
+217,"Residential, single family residence",1963,Forced air,Central air,2 Attached garage spaces,13939,88,,80675508
+218,Townhouse,2004,"Natural gas, forced air",Central air,2 Attached garage spaces,2190,179,,73316200
+219,"Residential, single family residence",1950,Forced air,Central air,No data,7840,147,,85289160
+220,Townhouse,2002,"Natural gas, forced air",Central air,2 Attached garage spaces,4704,109,,73380950
+221,"Residential, condominium",1995,Forced air,"Central air, ceiling fan(s)",1 Attached garage space,55007,134,,1191914
+222,"Residential, single family residence",1981,"Forced air, heat pump",Central air,2 Attached garage spaces,16553,113,,85445046
+223,"Residential, single family residence",1900,Forced air,Central air,3 Garage spaces,15682,128,,1096476
+224,"Residential, single family residence",1997,Heat pump,"Ceiling fan(s), heat pump",2 Garage spaces,9583,163,,73274346
+225,"Multi family, quadruplex",1900,No data,No data,No data,55007,,,1094929
+226,Single family residence,2005,Natural gas,Central air,3 Attached garage spaces,20038,,2%,82758653
+227,"Residential, single family residence",1985,Forced air,Central air,2 Attached garage spaces,20909,100,,1156189
+228,"Residential, single family residence",1962,Forced air,Central air,2 Attached garage spaces,27878,183,,1267173
+229,Single family residence,1889,"Natural gas, forced air",Central air,2 Garage spaces,54014,177,,73383147
+230,Single family residence,,Forced air,Central air,1 Garage space,217800,145,,214165670
+231,Single family residence,1928,Forced air,None,2 Garage spaces,4356,,3%,62626031
+232,Single family residence,1984,Heat pump,Central air,2 Attached garage spaces,17424,119,,85425635
+233,"Residential, condominium",2000,Forced air,Central air,2 Attached garage spaces,55007,119,,59811385
+234,Single family residence,1925,"Natural gas, forced air",Central air,1 Garage space,9626,,3.5%,85201484
+235,Single family residence,1984,"Natural gas, wood, forced air, multiple heating systems, propane tank rented","Central air, ceiling fan(s)",3 Garage spaces,509652,,2.4%,2061692352
+236,"Residential, single family residence",1950,Forced air,Central air,1 Garage space,5619,59,,1293551
+237,"Residential, single family residence",1920,Forced air,Central air,No data,13504,133,,1193200
+238,Single family residence,1971,"Natural gas, forced air",Central air,2.5 Attached garage spaces,20038,143,,73402895
+239,Single family residence,2017,Forced air,Central air,2 Attached garage spaces,9583,129,,119412616
+240,"Residential, single family residence",1962,Forced air,Central air,4 Attached garage spaces,268765,148,,2061051875
+241,Single family residence,1953,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,13068,,3.00%,85753454
+242,Single family residence,1930,"Natural gas, forced air",Central air,2 Garage spaces,19602,219,,99179107
+243,"Residential, single family residence",1979,Forced air,Central air,2 Attached garage spaces,4499,139,,85311895
+244,Single family residence,2002,"Natural gas, forced air",Central air,2 Garage spaces,60984,,3%,94510083
+245,Single family residence,1935,"Natural gas, forced air",Central air,2 Attached garage spaces,6534,,3%,94609552
+246,Multi family,2022,"Natural gas, forced air",Central air,2 Attached garage spaces,55007,193,,2061355982
+247,Single family residence,1990,"Natural gas, forced air",No data,2 Attached garage spaces,20473,113,,89782670
+248,"Residential, single family residence",1950,Forced air,Central air,1 Garage space,8276,72,,85700336
+249,Single family residence,1982,"Solar, forced air",No data,2 Attached garage spaces,91040,177,,85545651
+250,"Residential, single family residence",2004,Forced air,Central air,2 Attached garage spaces,12197,117,,73213600
+251,Single family residence,1917,"Natural gas, forced air",Central air,1 Garage space,5227,,3%,77012741
+252,Single family residence,1976,Electric,Central air,1 Attached garage space,284882,,2.5%,231398023
+253,Single family residence,1994,Electric,Central air,2 Garage spaces,54886,,2.5%,102875426
+254,Single family residence,1885,"Natural gas, hot water",Central air,2 Garage spaces,25700,,2.5%,50608146
+255,"Residential, single family residence",2017,Forced air,Central air,3 Attached garage spaces,9744,162,,2093846985
+256,"Residential, single family residence",2000,Forced air,Central air,2 Attached garage spaces,7405,164,,85317478
+257,Single family residence,1930,"Natural gas, forced air, high efficiency furnace",Central air,Open parking,4356,,3%,85736627
+258,"Residential, single family residence",1978,Heat pump,Central air,2 Attached garage spaces,12632,164,,73224627
+259,"Residential, single family residence",1961,Forced air,Window unit(s),2 Garage spaces,34412,99,,1182744
+260,"Residential, single family residence",1927,Forced air,Central air,Open parking,23958,83,,1128273
+261,"Residential, single family residence",1978,"Forced air, heat pump",Heat pump,4 Attached garage spaces,55757,104,,73269200
+262,Single family residence,1996,Forced air,Central air,2 Attached garage spaces,12197,,3%,77039977
+263,Single family residence,1935,"Natural gas, forced air",Central air,2 Attached garage spaces,55007,,3%,77099903
+264,Single family residence,1974,"Natural gas, forced air",Central air,2.5 Attached garage spaces,12197,121,,89783343
+265,"Residential, single family residence",2001,Forced air,"Central air, ceiling fan(s)",3 Attached garage spaces,14810,176,,85445936
+266,Single family residence,2008,"Electric, forced air, heat pump","Central air, ceiling fan(s)",2 Attached garage spaces,21780,,3%,97324678
+267,Single family residence,1926,"Natural gas, forced air",Central air,2 Garage spaces,4791,,3%,73204877
+268,Single family residence,1998,"Natural gas, forced air",Central air,3 Attached garage spaces,43560,146,,118698249
+269,Single family residence,1964,"Forced air, natural gas",Central air,1 Attached garage space,9147,,3%,73131288
+270,"Residential, single family residence",1961,Forced air,"Central air, ceiling fan(s)",1 Garage space,9801,188,,85317787
+271,Single family residence,1910,Natural gas,Central air,1.5 Garage spaces,6098,,3%,77077057
+272,Single family residence,1964,"Natural gas, forced air",Central air,1 Attached garage space,7840,,3%,85389546
+273,Multi family,2022,"Natural gas, forced air",Central air,2 Attached garage spaces,55007,190,,2060733058
+274,"Residential, single family residence",1962,Forced air,Central air,1 Attached garage space,7361,140,,1230994
+275,Single family residence,1944,"Natural gas, forced air",No data,2 Garage spaces,98010,157,,73377179
+276,"Residential, single family residence",1930,Forced air,Central air,2 Garage spaces,5227,78,,85099853
+277,"Stick/site built, single family residence",1996,"Fireplace(s), forced air, natural gas",Central air,No data,9583,,,69544231
+278,Single family residence,1995,"Forced air, heat pump","Central air, heat pump",1 Attached garage space,8276,242,3.00%,54342249
+279,Single family residence,2003,"Electric, forced air",Central air,2 Attached garage spaces,9583,225,,65332868
+280,Single family residence,2007,"Central, gas hot air furnace",Central air,3 Attached garage spaces,30928,192,,93074588
+281,Single family residence,1947,"Central, forced air",Central air,Open parking,10454,232,,5687826
+282,"Stick/site built, single family residence",1998,"Fireplace(s), forced air, heat pump, electric",Central air,2 Attached garage spaces,67954,,,5995103
+283,"Stick/site built, single family residence",1955,"Forced air, natural gas",Central air,1 Garage space,11326,,,5923651
+284,Single family residence,1986,"Natural gas, forced air",Central air,2 Garage spaces,15246,202,,49992311
+285,Single family residence,1985,"Natural gas, forced air",Central air,Open parking,10890,204,,49998157
+286,Single family residence,2006,"Electric, propane, heat pump",Central air,2 Attached garage spaces,16553,174,,107003368
+287,Single family residence,1920,"Forced air, gas pack, wood stove",Central air,"Asphalt, off street, on site",12632,62,2.40%,107088231
+288,Single family residence,1971,"Baseboard, electric, propane",None,"Concrete, driveway",14375,159,3.0%,102350856
+289,Single family residence,1994,Heat pump,Central air,2 Attached garage spaces,55007,138,,53680027
+290,Single family residence,1890,"Central, baseboard, gas hot air furnace, multizone a/c, zoned, natural gas","Central air, zoned, gas",Open parking,20909,76,,68701176
+291,Single family residence,1999,Heat pump,Central air,Unpaved,6098,189,2.50%,78231368
+292,"Stick/site built, single family residence",1959,"Forced air, natural gas",Central air,Open parking,10454,,,5909489
+293,Single family residence,1953,"Electric, heat age 0-3 yrs","A/c age 0-3 years, central air",Open parking,8276,237,,6398826
+294,Townhouse,1971,Electric,None,No data,55007,,,2060669151
+295,Single family residence,1977,"None, wood stove",No data,Open parking,23087,,,51661052
+296,"Stick/site built, single family residence",1986,"Forced air, propane, propane gas",Central air,2 Garage spaces,20909,,,70154647
+297,"Stick/site built, single family residence",1946,"Forced air, natural gas",Central air,2 Garage spaces,7405,,,5919502
+298,Single family residence,1991,Heat pump,Heat pump,1 Carport space,118919,350,,6054160
+299,Single family residence,1958,"Central, gas hot air furnace",Central air,2 Carport spaces,25265,156,,6148961
+300,Single family residence,1999,Heat pump,Heat pump,2 Attached garage spaces,21344,219,,71950180
+301,Single family residence,1976,"Central, electric",Central electric,Open parking,19166,220,,2061961649
+302,Single family residence,1993,"Electric, zoned, heat pump","Central air, dual",2 Garage spaces,25700,157,,71872763
+303,Condominium,1988,Heat pump,Wall/window unit(s),"Asphalt, gravel, lighted, on site, paved, shared",55007,423,2.40%,102020160
+304,Single family residence,1968,"Propane, heat age 6+ yrs","Central air, heat pump",2 Garage spaces,147233,204,,60076921
+305,Single family residence,2000,"Electric, forced air",Central air,1 Garage space,32234,211,,50120356
+306,Single family residence,1972,"Central, electric",Central electric,Open parking,40946,284,,230512773
+307,Single family residence,1950,"Natural gas, gas pack",Gas,Open parking,12197,154,,50007178
+308,Single family residence,1996,No data,Central air,2 Attached garage spaces,60113,146,,106987895
+309,Single family residence,1959,Central,Central air,Open parking,10454,,,6199225
+310,Single family residence,1966,"Electric, zoned, forced air, heat age 0-3 yrs","A/c age 0-3 years, dual",2 Garage spaces,24394,220,,6409469
+311,Single family residence,1900,"Heat pump, see remarks",Heat pump,Open parking,35719,,,2086813886
+312,Single family residence,1913,Heat pump,Central air,1 Carport space,25700,135,2.50%,2141895072
+313,Single family residence,2006,Heat pump,Heat pump,Open parking,17860,170,,5630877
+314,Single family residence,1991,Gas,Central air,2 Attached garage spaces,55007,123,,53671314
+315,Single family residence,1999,"Natural gas, forced air, heat age 0-3 yrs","Central air, a/c age 0-3 years",2 Garage spaces,6969,292,,50113119
+316,"Stick/site built, single family residence",1946,"Forced air, propane, propane gas",Central air,Open parking,6970,,,5759337
+317,Single family residence,1977,"Central, heat pump","Central air, heat pump",2 Carport spaces,89734,162,,71943228
+318,Single family residence,1981,"Natural gas, gas pack",Central air,Open parking,16117,317,,6448102
+319,Single family residence,1915,"Fireplace(s), forced air",Central air,1 Covered parking space,9147,83,3.00%,220548700
+320,"Stick/site built, single family residence",1991,"Forced air, natural gas",Central air,2 Attached garage spaces,11761,,,6045584
+321,Single family residence,1989,Central,Central air,2 Attached garage spaces,17860,192,,6141409
+322,Single family residence,1978,Gas pack,Central air,2 Attached garage spaces,19166,128,2.50%,236428293
+323,Single family residence,2022,"Central, heat pump, multizone a/c, zoned","Central air, heat pump, zoned",Open parking,12197,195,,5849494
+324,Single family residence,2021,"Electric, forced air, heat pump","Central air, heat pump",Open parking,18295,215,,337082616
+325,Single family residence,1980,Baseboard,None,Open parking,117612,129,,106956398
+326,Single family residence,1978,"Electric, forced air",Central air,1 Attached garage space,52708,105,,78334258
+327,Single family residence,1930,Forced air,Wall/window unit(s),Open parking,4356,257,3.00%,54310779
+328,Single family residence,1974,"Electric, propane",Central air,"Garage, other, see remarks",43560,122,2.50%,82675104
+329,Single family residence,2012,Heat pump,Central air,2 Attached garage spaces,27878,196,2.50%,113197249
+330,Single family residence,2022,Heat pump,Central air,2 Attached garage spaces,13504,156,2.50%,251301735
+331,Single family residence,1995,"Central, forced air",Central air,2 Attached garage spaces,21780,208,,6363189
+332,Single family residence,2007,Heat pump,Central air,2 Attached garage spaces,8712,155,,87749205
+333,"Stick/site built, single family residence",2021,"Forced air, heat pump, electric","Central air, heat pump",1 Attached garage space,5227,,,51238264
+334,"Stick/site built, single family residence",1974,"Wall furnace, natural gas",Central air,Open parking,13068,,,51240557
+335,Single family residence,2017,Heat pump,"Central air, heat pump",2 Attached garage spaces,31799,156,2.40%,224162255
+336,Single family residence,2018,Heat pump,Central air,4 Attached garage spaces,21344,208,2.80%,249889561
+337,"Stick/site built, single family residence",1987,"Heat pump, electric",Central air,2 Attached garage spaces,42689,,,5827409
+338,Single family residence,1974,Heat pump,Central air,2 Attached garage spaces,20038,217,2.50%,54333212
+339,Single family residence,2013,Heat pump,Central air,2 Attached garage spaces,15682,180,2.25%,122483643
+340,Single family residence,1975,Forced air,Central air,1 Carport space,55007,154,,53659904
+341,Single family residence,2011,Heat pump,Central air,2 Attached garage spaces,16117,155,2.00%,102118933
+342,Single family residence,1904,"Fireplace(s), forced air, heat pump, space heater","Central air, heat pump, wall/window unit(s)","Aggregate, covered, off street, none",18295,83,2.50%,2146978665
+343,Single family residence,1989,"Central, heat pump","Central air, heat pump",2 Garage spaces,10454,144,,6162261
+344,Singlefamily,1999,"Heat pump, other",Other,No data,27443,126,,114869824
+345,Single family residence,1946,Heat pump,Heat pump,2 Garage spaces,15682,168,,71399232
+346,Manufactured home,1994,"Heat pump, electric",Central air,Open parking,55007,,,5823707
+347,Single family residence,1927,Heat pump,No data,No data,30056,120,,217465385
+348,Single family residence,1993,"Central, heat pump","Central air, heat pump",Open parking,29185,251,,6059361
+349,Single family residence,1985,"Electric, heat pump",Central air,2 Garage spaces,36590,211,,69117301
+350,Single family residence,2017,Heat pump,Central air,2 Attached garage spaces,20038,158,3.00%,306859788
+351,Single family residence,1986,"Natural gas, forced air","Central air, dual",2 Garage spaces,12197,217,,6481625
+352,"Stick/site built, single family residence",1975,"None, see remarks, heating fuel (see remarks)",None,3 Attached garage spaces,116305,,,53139360
+353,Single family residence,1947,None,No data,Open parking,38333,139,,2060679231
+354,Single family residence,1960,"Central, heat pump","Central air, heat pump",3 Carport spaces,358499,203,,2072151904
+355,Single family residence,2019,"Central, forced air",Central air,2 Garage spaces,30056,218,,250202950
+356,Single family residence,2006,"Forced air, heat pump",Central air,2 Attached garage spaces,37026,169,2.50%,102227123
+357,Single family residence,2022,Heat pump,Heat pump,2 Attached garage spaces,29185,153,2.50%,199853504
+358,Single family residence,2016,"Electric, heat pump",Heat pump,Attached garage,20473,126,,306866175
+359,Single family residence,2019,"Electric, heat pump",Central air,Open parking,5227,203,,305927728
+360,Single family residence,1985,"Electric, heat pump, radiant",Central air,2 Attached garage spaces,106722,228,,6466276
+361,Single family residence,1926,Gas hot air furnace,No data,Detached,10454,78,,102172021
+362,Single family residence,2005,"Natural gas, forced air, heat age 0-3 yrs",A/c age 6+ years,3 Garage spaces,44867,232,,217799927
+363,Single family residence,1955,"Central, gas hot air furnace, natural gas","Central air, gas",2 Carport spaces,13068,238,,5661625
+364,Single family residence,1957,"Central, heat pump","Central air, heat pump",3 Carport spaces,16553,209,,5687020
+365,Single family residence,1976,"Electric, baseboard, heat pump",Central air,Open parking,19166,207,,6449297
+366,Single family residence,1987,Heat pump,No data,2 Attached garage spaces,55007,122,,53660988
+367,Single family residence,1992,Heat pump,Central air,1 Attached garage space,55007,168,,71870921
+368,Single family residence,1968,No data,Central air,1 Carport space,40075,125,,106992488
+369,Single family residence,2010,Heat pump,Central air,2 Attached garage spaces,11761,138,,98760763
+370,"Stick/site built, single family residence",1989,"Forced air, heat pump, electric, propane, propane gas",Central air,2 Attached garage spaces,95832,,,2060678718
+371,Single family residence,2000,"Central, gas hot air furnace",Central air,Open parking,12632,235,,65000378
+372,Single family residence,1998,"Central, gas hot air furnace, heat pump, propane","Central air, heat pump",Open parking,72745,125,,2061976128
+373,"Stick/site built, single family residence",1994,"Forced air, natural gas",Central air,1 Attached garage space,50965,,,6003740
+374,Single family residence,1974,Forced air,Central air,1 Carport space,12197,152,2.50%,51434110
+375,Single family residence,1946,"Central, heat pump","Central air, heat pump",Open parking,29621,199,,63258938
+376,Condominium,1984,Forced air,"Central air, electric",No garage,55007,70,,53708834
+377,Single family residence,1971,Floor furnace,Central air,2 Attached garage spaces,21344,147,3.00%,51230521
+378,Single family residence,1986,"Central, forced air",Central air,1 Carport space,20038,218,,6347719
+379,"Stick/site built, single family residence",1950,"None, no fuel",None,Open parking,11326,,,5771274
+380,"Stick/site built, single family residence",1966,"See remarks, heating fuel (see remarks)",Remarks,2 Garage spaces,19602,,,5978049
+381,Single family residence,2017,Heat pump,Heat pump,2 Attached garage spaces,12197,285,,306147581
+382,Single family residence,2020,"Natural gas, zoned, forced air, heat age 0-3 yrs","Central air, dual, a/c age 0-3 years",2 Garage spaces,20038,315,,248747945
+383,Single family residence,2019,Forced air,Central air,4 Attached garage spaces,232610,301,2.50%,307021670
+384,Single family residence,1928,Gas pack,Central air,Gravel,64469,83,2.40%,106944656
+385,"Single family residence, modular",2001,"Electric, forced air","A/c age 0-3 years, central air",Open parking,37897,148,,215426350
+386,"Stick/site built, single family residence",1986,"Heat pump, electric",Heat pump,6 Attached garage spaces,522720,,,2060678437
+387,Single family residence,2009,"Electric, heat pump",Central air,2 Garage spaces,8276,109,,96743218
+388,"Stick/site built, townhouse",2010,"Forced air, natural gas",Central air,1 Attached garage space,3049,,,2060665929
+389,Single family residence,2022,"Central, gas hot air furnace",Central air,2 Attached garage spaces,20909,188,,249574266
+390,"Stick/site built, single family residence",1960,"Fireplace(s), forced air, natural gas",Central air,Carport,36155,,,6008401
+391,Single family residence,2022,Heat pump,Central air,1 Attached garage space,6098,146,3.00%,2060952945
+392,Single family residence,2010,"Central, heat pump, electric","Central electric, central heat pump",Open parking,74923,310,,125503324
+393,Single family residence,1950,"Forced air, heat pump",Central air,"Covered, off street, paved",20038,37,3.00%,236431780
+394,Single family residence,2000,"Central, gas hot air furnace",Central air,2 Attached garage spaces,17860,150,,80458933
+395,Single family residence,1927,"Central, natural gas","Central air, gas",Open parking,30056,214,,5618720
+396,Single family residence,2020,"Natural gas, forced air, heat age 0-3 yrs, heat pump","A/c age 0-3 years, central air",2 Garage spaces,36590,193,,6427561
+397,Singlefamily,2022,"Heat pump, propane / butane",No data,No data,28314,400,,234063424
+398,Single family residence,1993,"Central, gas hot air furnace",Central air,2 Garage spaces,2874,220,,6351949
+399,Single family residence,1960,"Electric, forced air, heat age 0-3 yrs","A/c age 0-3 years, central air, heat pump",Open parking,7405,121,,114867420
+400,Single family residence,1920,"Gas hot air furnace, wood stove",No data,Parking space - 4+,1089000,293,,233615585
+401,"Stick/site built, single family residence",1949,"Forced air, natural gas",Central air,2 Garage spaces,8276,,,5771028
+402,Single family residence,1975,"Fireplace(s), gas pack",Central air,"Concrete, none",14375,134,2.40%,74991761
+403,Single family residence,2006,"Natural gas, 3 zone, forced air","Zoned, central air",3 Attached garage spaces,40075,351,,79885549
+404,Single family residence,1988,Gas pack,Central air,1 Covered parking space,33106,118,3.00%,75001199
+405,Single family residence,1991,Forced air,Central air,2 Attached garage spaces,7840,222,2.50%,54330661
+406,Single family residence,2018,Heat pump,Central air,2 Attached garage spaces,29621,202,2.40%,304711718
+407,Single family residence,2001,Gas,Wall/window unit(s),"Driveway, gravel, no garage, private",236095,213,3%,230017971
+408,Single family residence,1992,"Electric, heat pump","A/c age 0-3 years, central air",2 Carport spaces,43560,193,,69114206
+409,Single family residence,1990,"Electric, propane, heat pump",No data,2 Garage spaces,436036,212,,88956010
+410,Single family residence,1900,Zoned,No data,"Detached, garage on main level",30056,49,,6082519
+411,Single family residence,2001,"Forced air, fireplace(s), propane","Central air, electric, 1 unit","Driveway, gravel, no garage, private",108900,235,3%,114780419
+412,Single family residence,1967,Heat pump,Heat pump,4 Open parking spaces,7840,469,3.00%,78251444
+413,Single family residence,1989,"Central, heat pump","Central air, heat pump",Garage,55007,250,,228623256
+414,Single family residence,2022,"Electric, forced air","Central air, electric",2 Attached garage spaces,125453,155,,247885028
+415,Single family residence,1997,"Fireplace(s), heat pump",Heat pump,2 Attached garage spaces,8712,173,3.00%,2122645024
+416,Single family residence,1988,"Central, gas hot air furnace",Central air,3 Attached garage spaces,66647,234,,51663737
+417,"Single family residence, modular",2004,Heat pump,"Central air, heat pump",Paved,29185,117,3.00%,117556288
+418,Condominium,1987,Central,Central air,Assigned,55007,163,,6207532
+419,Singlefamily,,No data,No data,No data,55007,,,2060848097
+420,"Stick/site built, single family residence",1933,"Fireplace(s), forced air, electric",Central air,Open parking,8276,,,6028170
+421,Single family residence,1951,"Forced air, heat pump",Central air,2 Carport spaces,16553,247,2.50%,2061453588
+422,Single family residence,2006,Heat pump,Heat pump,Open parking,33541,327,,233120466
+423,"Stick/site built, single family residence",1936,"Forced air, natural gas",Central air,2 Garage spaces,27878,,,6034601
+424,Single family residence,1977,Central,Central air,2 Garage spaces,46174,233,,5652431
+425,Single family residence,,Gas pack,Central air,No garage,55007,,2.5%,10994768
+426,Single family residence,1973,"Natural gas, forced air, fireplace(s)",Central air,2 Carport spaces,60113,147,3%,11060613
+427,Single family residence,1979,"Central, electric, heat pump","Central air, heat pump",1 Garage space,55007,361,,68808800
+428,Single family residence,2015,Gas 1st lvl,Central air,2 Attached garage spaces,14810,113,,121279412
+429,Single family residence,1985,Electric,Central air,No garage,16117,102,,11734977
+430,Single family residence,2005,"Forced air, natural gas","Central air, electric",2 Garage spaces,23958,203,2.50%,68385249
+431,Single family detached,1994,Heat pump,Central air,2 Garage spaces,8276,209,3.00%,52189500
+432,Single family residence,2001,Electric,Central air,No garage,8276,155,,55342003
+433,Residential,2012,Heat pump,No data,2 Garage spaces,50965,149,2.5%,83205915
+434,Single family residence,2016,"Central, electric, fireplace(s)",Central air,1 Attached garage space,4791,211,3%,108784557
+435,Single family residence,1915,"Central, heat pump","Central air, heat pump, other/see remarks",2 Garage spaces,11326,88,2.5%,75257925
+436,Single family detached,1959,Electric,Central air,"Off street, converted garage",12632,332,2.50%,10872269
+437,Single family detached,1986,Electric,Central air,1 Garage space,14375,534,2.50%,10930839
+438,Single family residence,1979,"Electric, fireplace(s), forced air, heat pump","Central air, electric, heat pump","Paved, no garage",11326,151,2.50%,52168926
+439,Single family residence,1962,"Electric, heat pump, fireplace(s)",Central air,1 Carport space,31799,124,3%,11832692
+440,Single family detached,2011,Heat pump,Central air,2 Garage spaces,10018,147,2.50%,120736506
+441,Single family residence,1989,No data,No data,6 Open parking spaces,10890,166,3%,11162441
+442,Single family residence,,"Electric, forced air","Central air, electric",2 Garage spaces,11326,,2.5%,11026993
+443,Single family residence,1984,Central,Central air,No garage,8712,63,,11722743
+444,Single family residence,2014,"Electric, heat pump","Ceiling fan(s), central air",2 Attached garage spaces,51401,166,,123976096
+445,Single family residence,,"Electric, forced air",Central air,2 Attached garage spaces,13504,,2.5%,70244083
+446,Single family residence,1984,"Electric, forced air, fireplace(s)",Central air,Open parking,13939,170,3%,11041491
+447,Single family detached,1976,Electric,Central air,2 Garage spaces,7405,178,2.50%,10965541
+448,Residential,2016,Heat pump,Heat pump,2 Garage spaces,7405,110,2.5%,204978826
+449,Single family residence,1977,"Central, heat pump 1st lvl, heat pump 2nd lvl","Central air, heat pump 1st lvl, heat pump 2nd lvl",4 Parking spaces,18295,107,,11662347
+450,Single family detached,2006,Heat pump,Central air,2 Garage spaces,55007,190,2.50%,92562989
+451,Single family detached,1978,Electric,Central air,2 Carport spaces,15682,335,2.00%,10899437
+452,Single family residence,1972,Heat pump,Heat pump,None,31363,116,2.50%,72013660
+453,Mobile home,1985,"Forced air, propane","Central air, electric",1 Carport space,55007,,3%,11055140
+454,Single family residence,,"Forced air, natural gas","Central air, electric",2 Attached garage spaces,12197,,3%,11035598
+455,Single family residence,2017,"Central, electric",Central air,2 Attached garage spaces,32670,179,3%,262276127
+456,Single family residence,1980,"Central, heat pump 1st lvl, split system, fireplace(s)","Central air, heat pump 1st lvl, split system, attic fan",4 Parking spaces,251777,176,,11746535
+457,Single family residence,1959,Gas water heater,No data,Open parking,16553,75,,88991962
+458,Single family residence,,Electric,Central air,1 Attached garage space,43124,,3%,11029247
+459,Single family residence,2019,"Central, electric",Central air,2 Attached garage spaces,12197,196,3%,333123171
+460,Single family residence,1950,"Central, electric",Central air,8 Open parking spaces,26136,90,2.5%,2111026523
+461,Single family residence,2000,"Electric, heat pump, fireplace(s)",Central air,2 Garage spaces,323215,264,3%,11813007
+462,Single family detached,2000,No data,Central air,No data,48352,133,2.50%,55321742
+463,Single family residence,2010,Central,Central air,2 Attached garage spaces,17860,139,,88011559
+464,Single family residence,1966,Natural gas,Central air,2 Carport spaces,13504,,3%,11090567
+465,Single family residence,1956,"Central, gas pac, fireplace(s)","Central air, gas pac",Attached garage,20473,192,,11718053
+466,Single family residence,1844,"Central, electric, split system","Central air, split system",10 Parking spaces,2508620,172,,121974284
+467,Single family residence,2020,"Natural gas, forced air, zoned, fireplace(s)",Central air,2 Attached garage spaces,18295,154,3%,332953340
+468,Single family residence,,Natural gas,Central air,"No garage, none",55007,,3%,67580287
+469,Single family detached,2016,Heat pump,Central air,4 Garage spaces,76230,188,3.00%,199228654
+470,Townhouse,2005,"Central, gas hot air furnace, heat pump, multizone a/c, zoned","Central air, heat pump, zoned",1 Attached garage space,2178,180,,2060678408
+471,Single family residence,,Heat pump,Heat pump,No data,22216,123,3%,2060694864
+472,Single family residence,1985,"Central, electric, fireplace(s)",Central air,2 Attached garage spaces,20473,152,3.00%,10979488
+473,Mobile home,2003,"Electric, forced air","Central air, electric","No garage, none",55007,,3%,96486816
+474,Single family residence,1961,Central,Central air,No garage,11761,111,,11691533
+475,Residential,1967,Heat pump,Heat pump,2 Carport spaces,24394,132,2.5%,69185461
+476,Single family residence,2004,"Electric, heat pump 1st lvl, split system","Heat pump 1st lvl, split system",2 Attached garage spaces,13939,218,,55340167
+477,Single family residence,1989,None,None,Underground,55007,84,,68801261
+478,Single family residence,,"Propane, forced air, fireplace(s)",Central air,Carport,43560,96,2.5%,11770552
+479,Single family residence,2022,Electric,"Central air, electric",1 Attached garage space,13068,,3%,2060673785
+480,Condominium,1950,No data,Wall/window unit(s),1.5 Parking spaces,55007,353,3%,2064835696
+481,Single family residence,2004,"Central, electric",Central air,4 Garage spaces,243936,108,3%,72271584
+482,Single family residence,1959,"Central electric, heat pump","Central electric, heat pump, ceiling fan(s)",2 Carport spaces,23522,258,2.50%,66660886
+483,Single family residence,2001,"Central, electric",Central air,2 Attached garage spaces,9147,130,,55341423
+484,Single family residence,,Central gas,Heat pump,2 Garage spaces,55007,199,3%,10808858
+485,Single family residence,2017,Electric,Central air,2 Attached garage spaces,5662,153,,246224161
+486,Single family residence,1964,Central,Central air,2 Attached garage spaces,15682,170,,11714675
+487,Single family residence,,Natural gas,Central air,2 Attached garage spaces,47916,147,3%,83192006
+488,Single family detached,1992,No data,Central air,2 Garage spaces,11326,253,3.00%,10959086
+489,Single family residence,2009,"Central, electric",Central air,2 Attached garage spaces,15246,227,2.5%,80962983
+490,Single family detached,1978,Forced air,Central air,1 Garage space,10018,240,2.50%,10847045
+491,Single family residence,1975,Central,Central air,2 Attached garage spaces,13068,130,,11217297
+492,Single family residence,2009,Central,Central air,2 Attached garage spaces,11326,154,,114159926
+493,Single family residence,2018,"Central, fireplace(s)",Central air,3 Attached garage spaces,13068,252,2.5%,104405791
+494,Single family detached,2015,Heat pump,Central air,3 Garage spaces,15682,271,3.00%,110236456
+495,Single family residence,2010,"Central, gas hot air furnace",Central air,2 Attached garage spaces,14375,255,,102989716
+496,Single family residence,1964,Central,Central air,4 Attached garage spaces,13504,96,,75240068
+497,Condominium,2006,"Central, electric",Central air,Garage,55007,168,3%,2132070758
+498,Single family residence,2005,"Central gas, heat pump, zoned, natural gas","Heat pump, zoned",2 Attached garage spaces,54014,189,2.5%,70957545
+499,Single family residence,2018,"Gas 1st lvl, heat pump 2nd lvl, zoned",Central air,2 Attached garage spaces,10454,169,,300047826
+500,Single family detached,1885,Heat pump,Central air,Off street,3484,337,3.00%,10906125
+501,"Single family residence, mobile home",1992,"Electric, heat pump, fireplace(s)",Heat pump,Open parking,55007,98,3%,70192187
+502,Manufactured home,1994,Gas pac,Central air,No garage,55007,144,,144754857
+503,Single family residence,1997,"Central electric, heat pump","Central electric, heat pump, ceiling fan(s)",1 Attached garage space,4356,226,3.0%,68804848
+504,Single family residence,,"Electric, forced air","Central air, electric","No garage, none",9147,,3%,11006955
+505,Single family detached,1983,No data,No data,No data,6098,164,2.50%,10963380
+506,Single family residence,2019,"Central electric, heat pump","Central electric, ceiling fan(s)",2 Attached garage spaces,6098,200,3%,333040032
+507,Single family detached,1966,Electric,Central air,1 Carport space,21780,80,2.50%,102515169
+508,Single family residence,2013,Central,Central air,2 Attached garage spaces,55007,126,,144737416
+509,Single family residence,2022,"Central, split system","Central air, split system",2 Attached garage spaces,273992,271,,83196841
+510,Single family residence,1982,No data,No data,3 Carport spaces,9147,289,3%,11169919
+511,Single family detached,2014,Electric,Central air,1 Garage space,12197,615,2.50%,110208877
+512,Single family detached,2001,No data,No data,Off street,10018,205,2.50%,10867905
+513,Single family residence,2006,Central,Central air,2 Parking spaces,871,123,,71271575
+514,Single family residence,2001,"Electric, heat pump","Central air, electric",Open parking,240016,127,2.00%,88983593
+515,Single family residence,1988,Electric,Central air,No garage,4356,134,,11196494
+516,Single family residence,1984,Heat pump,Central air,2 Attached garage spaces,13504,144,2.50%,52155377
+517,Single family detached,2014,Natural gas,Central air,2 Garage spaces,4791,277,2.50%,125935184
+518,Single family residence,2018,"Central, gas hot air furnace",Central air,2 Attached garage spaces,9844,184,,243737475
+519,Mobile home,2019,"Central, electric, forced air",Central air,2 Attached garage spaces,55007,128,3%,262286058
+520,Single family residence,2016,"Central, gas hot air furnace, multizone a/c, zoned, natural gas","Central air, zoned, gas",1 Attached garage space,6098,211,,121205922
+521,Single family residence,2007,Natural gas,"Central air, electric",2 Attached garage spaces,9583,,2.5%,84742540
+522,Single family detached,1997,Forced air,Central air,2 Garage spaces,11326,182,2.50%,10968332
+523,Single family residence,,Electric,Central air,No garage,71874,,3%,325950596
+524,Single family residence,,Propane,None,2 Carport spaces,8712,,3%,11031068
+525,Single family residence,2022,"Forced air, gas pack","Central air, electric",1 Attached garage space,6098,158,3.00%,2060675891
+526,Manufactured on land,1977,No data,No data,1 Attached garage space,55007,139,2.5%,11127467
+527,Condominium,2017,"Central, electric",Central air,Assigned,55007,175,3%,2064788937
+528,Single family detached,1998,Forced air,Central air,2 Attached garage spaces,7840,185,2.50%,67599015
+529,Single family detached,2005,Heat pump,Central air,2 Attached garage spaces,10018,347,3.00%,82547876
+530,Single family residence,1985,Electric,Split system,No garage,12632,137,,11662119
+531,Residential,2006,Heat pump,Heat pump,2 Garage spaces,75359,103,2.5%,69177770
+532,Single family residence,1956,"Central, electric",Central air,8 Open parking spaces,10018,172,3%,2060757214
+533,Townhouse,,Forced air,"Central air, electric","No garage, none",55007,,3%,82541211
+534,Single family detached,1984,Electric,Central air,2 Attached garage spaces,13068,175,2.50%,10848145
+535,Single family residence,,"Forced air, natural gas",Central air,1 Garage space,55007,135,2.5%,72544347
+536,Single family residence,2014,"Central, electric",Central air,2 Attached garage spaces,17424,145,,92248796
+537,Single family residence,1982,Central,Central air,2 Open parking spaces,11761,210,2.5%,10982110
+538,Residential,1940,Natural gas,No data,2 Carport spaces,12632,93,2.5%,69180171
+539,Condominium,1982,"Central, electric",Central air,"Assigned, owner allowed golf cart",55007,337,3%,2060706710
+540,Single family residence,2012,"Central, electric",Central air,2 Attached garage spaces,6969,209,3%,108781125
+541,Single family residence,,"Electric, forced air","Central air, electric","See parking features, side/rear entry",20038,,2.5%,11091802
+542,Single family residence,2004,"Central, gas hot air furnace",Central air,3 Attached garage spaces,12197,194,,71260029
+543,Single family residence,2007,"Central, gas hot air furnace",Central air,3 Attached garage spaces,49658,209,,90070109
+544,Single family residence,2007,Central,Central air,4 Open parking spaces,19602,177,3%,92410829
+545,Single family residence,,Forced air,Central air,Carport,55007,,3%,10993448
+546,Mobile home,,Electric,Central air,"No garage, none",55007,,3%,11060075
+547,Single family residence,1998,"Central electric, heat pump","Central electric, heat pump, ceiling fan(s)",2 Attached garage spaces,13504,204,3.00%,68804561
+548,Single family detached,1960,No data,Central air,No data,10454,156,2.50%,10899676
+549,Single family residence,1958,Forced air,See remarks,1 Carport space,55007,99,2.50%,52178703
+550,Single family residence,2000,"Central, heat pump, zoned",Heat pump,3 Garage spaces,55007,489,,68822505
+551,Single family residence,1998,"Central electric, heat pump",Central air,1 Attached garage space,17424,246,2.5%,70958638
+552,Single family residence,,"Electric, see remarks",Window unit(s),No garage,55007,,3%,195150925
+553,Single family residence,2024,"Central, electric",Central air,1 Attached garage space,10890,182,3%,11101374
+554,Single family residence,2014,"Fireplace(s), forced air","Central air, other",3 Attached garage spaces,39204,115,2.50%,110177511
+555,Condominium,1992,Central electric,Central air,No garage,55007,163,2.500%,82562230
+556,Single family residence,2016,Electric,"Central air, electric",2 Attached garage spaces,43560,,2.5%,242979178
+557,Single family residence,1970,"Central, heat pump 1st lvl, fireplace(s)","Central air, attic fan",6 Parking spaces,21780,125,,144771591
+558,Single family residence,1996,"Heat pump, propane","Central air, heat pump",2 Garage spaces,13504,181,,108235565
+559,Townhouse,,"Electric, forced air","Central air, electric","See parking features, assigned parking 2 sp",55007,,3%,11047842
+560,Single family residence,2019,"Forced air, natural gas",Central air,2 Attached garage spaces,14810,,3%,195158901
+561,Single family residence,1990,"Electric, central","Electric, ceiling fan(s), central air",Open parking,40511,214,,14416165
+562,Single family residence,2001,Natural gas,Central air,2 Garage spaces,17424,129,2.50%,61919200
+563,Condominium,1989,Central,"Ceiling fan(s), central air",2 Garage spaces,55007,340,3%,2087926892
+564,Single family residence,2001,"Forced air, natural gas",None,2 Garage spaces,11761,196,2.00%,205779461
+565,Townhouse,2004,Electric,Central air,None,2652,147,2.00%,60022255
+566,Single family residence,1924,Natural gas,"Ceiling fan(s), central air, window unit(s)",Open parking,9104,148,3%,14839115
+567,Single family residence,1988,"Forced air, natural gas",None,2 Attached garage spaces,2613,164,2.50%,14905986
+568,Single family residence,1971,Central,Central air,2 Attached garage spaces,65340,71,,49852030
+569,Single family residence,2016,"Central, heat pump","Central air, heat pump",2 Attached garage spaces,10018,140,,103574166
+570,Single family residence,1970,Central,"Ceiling fan(s), central air",4 Attached garage spaces,20038,133,3%,14286059
+571,Single family residence,1966,No data,No data,Open parking,40075,54,,105317964
+572,Single family residence,1991,Electric,Central air,None,130680,122,3%,228821600
+573,Single family residence,2004,"Forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,11326,208,3%,68630510
+574,Single family residence,2003,Central,Central air,2 Covered parking spaces,20038,161,,76329582
+575,Single family residence,1996,"Central, heat pump","Ceiling fan(s), central air",2 Attached garage spaces,47916,117,2.5%,14863784
+576,Single family residence,1952,Central,Central air,No data,24829,73,,76337663
+577,Single family residence,1980,Central,Central air,2 Garage spaces,11326,145,3%,171113972
+578,Single family residence,1982,Central,Central air,2 Garage spaces,21344,138,3%,49829757
+579,Single family residence,1940,Natural gas,Other,Open parking,8712,216,3%,14458388
+580,Single family residence,1999,Central,"Ceiling fan(s), central air",Open parking,125453,174,3%,229289891
+581,Single family residence,1962,Central,Central air,2 Carport spaces,27443,91,,14934048
+582,Single family residence,1996,"Central, natural gas, zoned","Ceiling fan(s), central air, zoned",2 Garage spaces,23522,131,3%,14746706
+583,Single family residence,1996,Natural gas,"Ceiling fan(s), central air",2 Attached garage spaces,15682,120,3%,14708537
+584,Detached single family,1970,"Heat: central gas, fireplace(s)",A/c: central electric,Open parking,115870,40,,76599920
+585,Single family residence,1994,"Central, electric, zoned","Ceiling fan(s), central air, zoned",2 Garage spaces,13068,190,3%,60952244
+586,Single family residence,2003,"Electric, heat pump","Ceiling fan(s), central air",2 Attached garage spaces,31799,160,3%,83362763
+587,Single family residence,2018,"Electric, central","Electric, ceiling fan(s), central air",2 Attached garage spaces,23958,136,,99882795
+588,Single family residence,2020,"Central, heat pump",Central electric,Open parking,32670,,,228828341
+589,Single family residence,1996,"Central, forced air, natural gas","Ceiling fan(s), central air, electric",2 Garage spaces,77101,188,,14409390
+590,Single family residence,2015,"Electric, heat pump","Central air, electric",2 Carport spaces,80586,188,,243422287
+591,Single family residence,1900,"Central, forced air, natural gas","Ceiling fan(s), central air",2 Garage spaces,150718,229,3%,51087123
+592,Single family residence,2002,"Forced air, natural gas",Ceiling fan(s),2 Garage spaces,13068,194,3%,60835786
+593,Single family residence,1962,None,None,None,55007,,3%,14341282
+594,Single family residence,1995,"Central, natural gas","Ceiling fan(s), central air",2 Garage spaces,16553,203,3%,14832627
+595,Single family residence,2017,"Central, electric, generator",Central electric,Attached garage,130680,196,,228818411
+596,Single family residence,1985,Forced air,Central air,Attached garage,4356,104,,14498433
+597,Single family residence,2021,"Central, electric, zoned","Ceiling fan(s), central air",2 Garage spaces,9670,157,3%,2060714697
+598,Single family residence,1999,"Central, heat pump","Central heat pump, see remarks",Open parking,33541,135,,2062668900
+599,Single family residence,1979,"Forced air, natural gas","Ceiling fan(s), central air",3 Garage spaces,22216,138,3%,51100488
+600,Single family residence,2005,"Central, natural gas","Ceiling fan(s), central air",2 Garage spaces,10018,120,3%,71758514
+601,Single family residence,1987,Central,Ceiling fan(s),1 Garage space,44867,177,3%,14730238
+602,Single family residence,1986,Forced air,Central air,Attached garage,33106,101,,14973998
+603,Single family residence,1963,"Central, electric","Central air, zoned",1 Garage space,10354,153,3.0%,35872596
+604,Single family residence,2004,Central,"Ceiling fan(s), central air",2 Garage spaces,55007,,2.5%,80169217
+605,Single family residence,1999,"Central, electric, natural gas",Central air,2 Garage spaces,30056,187,3%,55490447
+606,Single family residence,1949,Central,Central air,1 Carport space,15246,194,3%,14849842
+607,Single family residence,1991,"Natural gas, central, hot water","Electric, central air",Garage,20038,176,,69897961
+608,Single family residence,1957,"Central, propane","Central air, electric",3 Garage spaces,247421,129,,118313919
+609,Single family residence,1998,Central,"Ceiling fan(s), central air",2 Garage spaces,158994,122,3%,14597181
+610,Single family residence,2005,"Forced air, natural gas",Central air,2 Garage spaces,13068,154,3%,70832564
+611,Single family residence,2006,Electric,Ceiling fan(s),2 Garage spaces,18295,142,3.00%,71126664
+612,Single family residence,2000,Central,Central air,2 Garage spaces,8102,121,2.5%,58507537
+613,Single family residence,1940,"Central, heat pump","Central air, electric",Off street,21344,126,,223793730
+614,Single family residence,2004,Central,Central electric,Open parking,49223,,,105420645
+615,Single family residence,1988,"Central, forced air, natural gas","Ceiling fan(s), central air",2 Garage spaces,16117,186,3%,14230214
+616,Single family residence,2006,Central,Central air,2 Attached garage spaces,36155,142,,71367996
+617,Single family residence,2006,"Central, electric, propane","Central air, electric, heat pump",2 Garage spaces,10890,174,,99381131
+618,Single family residence,1994,Central,Ceiling fan(s),2 Garage spaces,11326,196,3%,14343006
+619,Single family residence,2007,"Electric, heat pump","Central air, electric",3 Garage spaces,44431,131,,99925676
+620,Single family residence,1982,Central,Central air,3 Open parking spaces,32234,163,2.5%,14773764
+621,Single family residence,2012,"Forced air, natural gas",Central air,2 Garage spaces,11326,175,2.5%,98016112
+622,Single family residence,2015,Central,Electric,2 Garage spaces,25700,180,3%,88810365
+623,Single family residence,2007,"Central, heat pump",Central heat pump,Open parking,66647,253,,96829655
+624,"Single family residence, mobile home",1999,"Electric, other",Central air,"Dirt, other",55007,81,,55141532
+625,Single family residence,1937,Natural gas,Central air,2 Attached garage spaces,85813,146,,76339940
+626,Single family residence,2006,Central,"Ceiling fan(s), central air",2 Garage spaces,16988,163,3%,237719232
+627,Single family residence,1985,"Electric, central, heat pump","Ceiling fan(s), central air",4 Carport spaces,49223,225,,69995306
+628,Single family residence,2016,"Electric, heat pump",Heat pump,2 Garage spaces,41382,157,3.00%,101246336
+629,Single family residence,1972,Central,Central air,Garage,20038,128,,69901708
+630,Single family residence,2022,Heat pump,Heat pump,3 Attached garage spaces,25700,160,,103613806
+631,Single family residence,1975,Electric,"Ceiling fan(s), central air",1 Carport space,11761,109,,14976528
+632,Single family residence,1961,"Central, electric",Central air,1 Carport space,18731,147,3%,35825509
+633,Single family residence,1966,Heat pump,"Central air, attic fan, ceiling fan(s)",2 Attached garage spaces,13068,149,3%,14436645
+634,Single family residence,2015,Electric,"Ceiling fan(s), central air",Garage,21780,193,,58501091
+635,Single family residence,1990,"Central, forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,13504,184,3%,51097433
+636,Single family residence,1972,"Central, electric, forced air, hot water",Central air,2 Attached garage spaces,37026,180,3%,14718320
+637,Single family residence,2005,"Forced air, natural gas","Ceiling fan(s), central air",3 Attached garage spaces,48787,227,3%,71756728
+638,Single family residence,2006,"Electric, heat pump","Central air, electric",2 Garage spaces,26136,199,,91029781
+639,Single family residence,1987,Natural gas,Other,2 Attached garage spaces,14810,192,3%,14288115
+640,Single family residence,1991,"Central, natural gas","Ceiling fan(s), central air, zoned",2 Attached garage spaces,11326,164,3.0%,14808681
+641,Single family residence,1969,Electric,Central air,1 Carport space,13068,137,3%,14526052
+642,Single family residence,2001,"Central, electric","Central air, electric, heat pump",Garage,11326,148,,76359527
+643,Single family residence,1997,"Central, forced air","Ceiling fan(s), central air",1 Attached garage space,217800,179,2.5%,49836389
+644,Single family residence,2002,"Electric, heat pump","Electric, heat pump",2 Garage spaces,12197,187,,76359108
+645,Single family residence,1977,"Central, natural gas","Central air, whole house fan",2 Attached garage spaces,21780,231,3%,51108762
+646,Single family residence,1962,"Central, natural gas",Central air,1 Carport space,16117,205,3%,14116979
+647,Single family residence,1986,Central,"Attic fan, ceiling fan(s), central air, whole house fan",2 Attached garage spaces,20038,266,3%,14308608
+648,Single family residence,1980,"Forced air, natural gas","Ceiling fan(s), central air",2 Carport spaces,21344,200,3%,14734637
+649,Single family residence,1998,Central,Central air,4 Garage spaces,74052,193,3%,2063700911
+650,Single family residence,1999,"Central, heat pump",Central electric,Garage,26136,,,105411037
+651,Single family residence,2022,"Electric, heat pump, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,13939,164,,2060673907
+652,Single family residence,1955,"Central, electric","Central air, electric","Attached, garage, off street, rear/side/off street, on street",15682,141,,14176956
+653,Single family residence,1987,Central,Central air,2 Garage spaces,20909,195,2.5%,237722839
+654,Single family residence,1986,"Central, natural gas","Ceiling fan(s), central air",3 Garage spaces,22651,250,3%,14653154
+655,Single family residence,1996,Natural gas,"Ceiling fan(s), central air",2 Attached garage spaces,31363,163,3%,69856621
+656,Single family residence,1996,"Central, forced air, zoned","Ceiling fan(s), central air, whole house fan, zoned",2 Open parking spaces,66211,208,3.0%,227622950
+657,Single family residence,2002,"Central, natural gas, zoned","Ceiling fan(s), central air, zoned",2 Attached garage spaces,11761,191,3%,58598222
+658,Singlefamily,1975,Other,Central,"Carport, garage",130680,108,,105204114
+659,Single family residence,1976,"Central, forced air","Ceiling fan(s), central air",Attached garage,21780,190,,14899124
+660,Single family residence,1999,"Central, natural gas, zoned","Attic fan, ceiling fan(s), central air, zoned",2 Attached garage spaces,20909,178,3%,35816441
+661,Single family residence,2022,"Central, forced air",Electric,3 Garage spaces,38768,199,3.0%,227386413
+662,Singlefamily,2006,"Heat pump, other, electric",Central,2 Parking spaces,5227,117,,93099965
+663,Single family residence,1947,Heat pump,Central air,Carport,96703,70,,14927953
+664,Single family residence,1964,"Electric, forced air","Ceiling fan(s), central air",Concrete,11326,86,,14978547
+665,Single family residence,1992,"Forced air, natural gas",Central air,2 Attached garage spaces,13504,229,3%,14806255
+666,Townhouse,2008,Central,Central air,1 Attached garage space,1176,315,3%,2060774801
+667,Single family residence,1978,No data,No data,1 Garage space,55007,322,,99900545
+668,Single family residence,2001,"Central, natural gas, heat pump, generator",Central electric,Garage,97574,248,,105257841
+669,Condominium,1920,"Central, electric","Central air, electric",On street,55007,364,,2094536240
+670,Single family residence,2018,"Central, electric","Central air, electric",2 Garage spaces,55007,155,,298038797
+671,Single family residence,1977,"Central, gas","Central air, electric",1 Garage space,16553,147,,105236999
+672,Single family residence,1945,Oil,Window unit(s),Carport,46609,139,,105264317
+673,Single family residence,2000,Propane,Window unit(s),Open parking,351529,,2.5%,70010346
+674,Single family residence,1967,Forced air,"Ceiling fan(s), window unit(s)",2 Open parking spaces,17860,203,2%,35887159
+675,Single family residence,2022,"Electric, heat pump, zoned","Ceiling fan(s), central air, zoned",2 Garage spaces,13068,199,3%,227393691
+676,Single family residence,2004,"Central, natural gas","Ceiling fan(s), central air",2 Garage spaces,10018,214,2.5%,71751823
+677,Single family residence,1965,Baseboard,"Ceiling fan(s), central air",1 Carport space,20038,121,,14212706
+678,Single family residence,2002,"Central, heat pump, electric","Central electric, central heat pump",Attached garage,72310,116,,105261468
+679,Mobile home,1996,No data,No data,No data,55007,,3%,69944460
+680,Single family residence,2021,Other,Other,2 Carport spaces,238273,283,3%,2060677592
+681,Single family residence,2000,Central,Central air,2 Attached garage spaces,8712,224,3%,59932858
+682,Single family residence,2005,Heat pump,Heat pump,2 Attached garage spaces,9583,131,,70827340
+683,Single family residence,2004,Electric,Central air,2 Attached garage spaces,29621,174,2.50%,69878800
+684,Single family residence,1780,"None, other",None,On street,3598,552,,52970257
+685,Condominium,1963,Central,"Ceiling fan(s), central air",2 Parking spaces,55007,226,3%,2070580040
+686,Single family residence,2001,"Central, electric","Ceiling fan(s), central air",2 Attached garage spaces,13068,212,3%,14550784
+687,Singlefamily,1999,Other,Central,No data,21780,73,,76592317
+688,Single family residence,2007,"Central, forced air, natural gas","Ceiling fan(s), central air",2 Garage spaces,13939,139,2.5%,87939636
+689,Townhouse,2002,Central,Central air,1 Garage space,1306,197,3%,60831336
+690,Single family residence,2005,"Central, forced air, natural gas, zoned","Ceiling fan(s), central air, zoned",2 Garage spaces,9147,126,3%,237700233
+691,Single family residence,2020,"Central, forced air, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,1742,250,3%,88808710
+692,Single family residence,1995,"Central, natural gas",Central electric,Garage,62291,,,105429797
+693,Single family residence,1977,Central,"Ceiling fan(s), central air",2 Carport spaces,21344,113,3.00%,14905126
+694,Single family residence,1994,"Electric, fireplace(s), forced air, natural gas","Attic fan, central air",2 Attached garage spaces,20909,120,,14985270
+695,Townhouse,1974,"Forced air, heat pump","Central air, heat pump",2 Garage spaces,1568,149,2.5%,54450511
+696,Single family residence,1997,"Central, forced air","Ceiling fan(s), central air, electric air filter",2 Garage spaces,23958,178,2.50%,2062922543
+697,Single family residence,1973,Central,Central air,2 Garage spaces,108900,157,3%,14106156
+698,Single family residence,1993,"Electric, heat pump","Central air, electric",1 Garage space,10890,230,,14131106
+699,Single family residence,1971,"Central, forced air, propane","Central air, electric",Carport,52272,66,,2060678380
+700,Single family residence,1964,"Central, electric",Ceiling fan(s),1 Carport space,22216,166,3%,35955069
+701,Single family residence,1998,"Central, heat pump, propane","Central air, electric",Attached garage,87120,,,101336347
+702,Townhouse,2010,"Central, electric","Central air, electric",2 Garage spaces,2090,139,,108590443
+703,Single family residence,1979,Central,Central air,2 Attached garage spaces,8712,178,2.5%,46091760
+704,Single family residence,1995,Central,"Electric, central air",2 Garage spaces,18731,277,3.0%,337205738
+705,Single family residence,1938,Central,Central air,No data,55007,159,2%,45946980
+706,Single family residence,2005,"Central, electric","Central air, ceiling fan(s)",2 Garage spaces,10018,180,,70741873
+707,Single family residence,1996,Central,Central air,2 Attached garage spaces,10018,231,2.5%,46464844
+708,Single family residence,1984,"Central, electric",Central air,2 Attached garage spaces,10890,282,3%,47500069
+709,Townhouse,2005,"Central individual, electric","Central air, electric",1 Attached garage space,55007,340,2.5%,64430615
+710,Single family residence,1993,"Electric, heat pump",Central air,2 Attached garage spaces,216058,265,2%,44749216
+711,Single family residence,1991,Central,Central air,2 Attached garage spaces,10018,266,3%,46243696
+712,Single family residence,2005,Electric,Central air,2 Garage spaces,55007,153,2%,71035112
+713,Single family residence,2005,Electric,Central air,2 Attached garage spaces,6098,214,2.5%,68971804
+714,Single family residence,1957,Electric,None,No data,9583,184,2.25%,46215921
+715,Single family residence,2020,"Central, electric, heat pump",Central air,2 Attached garage spaces,7405,366,2.5%,66139249
+716,Single family residence,2003,Central,Central air,2 Attached garage spaces,5662,196,2.5%,66161279
+717,Single family residence,2018,Natural gas,Central air,2 Garage spaces,5662,274,2.25%,294889879
+718,Single family residence,1996,Electric,Central air,2 Attached garage spaces,9583,273,3%,46261090
+719,Single family residence,1995,Central,Central air,None,435600,249,3%,48029902
+720,Single family residence,2012,Central,Central air,3 Garage spaces,55007,269,2.5%,98973250
+721,Single family residence,2004,Central,Central air,2 Garage spaces,55007,230,2.5%,66772053
+722,Single family residence,1960,Electric,Central air,2 Attached garage spaces,7405,181,2.00%,46048140
+723,Single family residence,1966,Electric,Electric,1 Garage space,55007,240,2.50%,44548617
+724,Single family residence,1987,Central,Central air,No data,17424,32,3%,45845546
+725,Condominium,1970,Electric,"Ceiling fan(s), central air, electric",1 Garage space,55007,468,2.5%,43828569
+726,Single family residence,2004,Central,Central air,2 Garage spaces,55007,208,2.5%,67406750
+727,Single family residence,1930,"Central, electric",Central air,1 Carport space,10454,361,2.5%,46070621
+728,Single family residence,1973,"Central, electric",Central air,"Concrete, driveway",9147,117,3.00%,43613825
+729,Single family residence,1983,Central,Central air,1 Attached garage space,8276,255,2.5%,46104048
+730,Single family residence,1953,Central,Central air,1 Garage space,8712,178,,47938287
+731,Single family residence,1996,Central,Central air,2 Attached garage spaces,6098,311,,47198737
+732,Single family residence,1914,Central,Central air,No data,55007,57,3%,44484267
+733,Single family residence,2022,"Central, electric","Electric, central air",1 Garage space,55007,162,2.5%,44445343
+734,Single family residence,1999,Central,"Central air, electric",2 Attached garage spaces,8174,162,2.5%,46581581
+735,Single family residence,1980,"Central, electric",Central air,2 Attached garage spaces,7840,262,,44851715
+736,Townhouse,1988,"Central, electric","Central air, electric",1 Garage space,55007,229,2.5%,46552377
+737,Single family residence,1987,"Multi units, central, fireplace(s)","Multi units, central air, ceiling fan(s)",2 Garage spaces,14375,140,2.5%,44684018
+738,Single family residence,1966,Central,Central air,1 Attached garage space,13939,195,,44976578
+739,Single family residence,1988,Central,Central air,2 Attached garage spaces,10890,206,2.5%,47975086
+740,Single family residence,2003,"Central, solar",Central air,2 Garage spaces,55007,187,3%,66141249
+741,Single family residence,1957,Central,Central air,2 Garage spaces,55007,126,2.75%,44530910
+742,"Manufactured home, single family residence",2004,"Central, electric, heat pump",Central air,1 Attached garage space,55007,157,2.5%,55745272
+743,Single family residence,1999,Electric,Central air,2 Attached garage spaces,7405,267,3%,54707234
+744,Single family residence,1989,"Central, electric","Central air, electric",2 Attached garage spaces,11761,184,3.00%,43653197
+745,Single family residence,1956,Electric,"Central air, ceiling fan(s)",Carport,4791,132,,48043811
+746,Single family residence,1972,Electric,Wall/window unit(s),No data,5662,146,,45085050
+747,Single family residence,1987,"Central, fireplace(s)","Central air, ceiling fan(s)",2 Garage spaces,16988,174,1%,44631517
+748,Single family residence,2000,Central,"Central air, ceiling fan(s)",1 Garage space,5227,158,2.5%,45596818
+749,Single family residence,2014,Central,Central air,3 Garage spaces,7800,217,2.75%,125961359
+750,Single family residence,1996,"Central, electric","Ceiling fan(s), central air, electric",2 Attached garage spaces,5596,328,2.5%,42885475
+751,Condominium,2006,"Central, electric",Central air,Assigned,55007,178,,82052263
+752,Single family residence,2004,Central,Central air,3 Garage spaces,55007,79,2.5%,66133798
+753,Single family residence,1979,Central,Central air,Open parking,55007,228,3%,44573859
+754,Single family residence,2008,"Central, electric, fireplace(s)","Central air, ceiling fan(s)",2 Garage spaces,10018,180,,44730260
+755,Single family residence,1925,"Central, wall units / window unit","Central air, wall/window unit(s)",No data,5227,200,2.5%,45715382
+756,Single family residence,1977,Central,Central air,2 Attached garage spaces,55007,195,2.5000%,48088801
+757,Single family residence,1972,"Electric, fireplace(s)","Central air, ceiling fan(s)",2 Attached garage spaces,23522,143,,42754046
+758,Townhouse,1982,Central,Central air,No data,1742,209,2%,44899635
+759,Single family residence,1988,Electric,Central air,1 Attached garage space,10454,223,2.5000%,43515690
+760,Single family residence,2005,Central,Central air,2 Attached garage spaces,6969,150,,68582232
+761,Single family residence,2001,Central,Central air,2 Garage spaces,5502,206,2.5%,44327853
+762,Manufactured home,1986,"Central, electric",Central air,1 Garage space,55007,139,2.5000%,43370712
+763,Single family residence,1955,Other,Other,4 Garage spaces,7767,384,3%,42928221
+764,Single family residence,2007,Central,Central air,2 Attached garage spaces,13504,209,2.5%,82515468
+765,Single family residence,2003,"Central, solar","Central air, ceiling fan(s), electric",2 Garage spaces,17860,233,,2065063778
+766,Single family residence,2001,"Central, electric",Central air,2 Attached garage spaces,15246,149,2.5%,47396641
+767,Single family residence,2007,Electric,"Electric, ceiling fan(s)",2 Attached garage spaces,10890,177,,87656915
+768,Mobilemanufactured,1976,Electric,"Central, wall",Carport,55007,,,2060673849
+769,Single family residence,2010,"Central, electric",Central air,2 Attached garage spaces,10018,182,2.5%,98388098
+770,Single family residence,2022,Central,Central air,2 Attached garage spaces,5227,224,,45082490
+771,Single family residence,1961,Electric,Central air,4 Attached garage spaces,30056,161,2.50%,42778132
+772,Condominium,1973,Central,Central air,Garage,55007,173,,2090287230
+773,Single family residence,1999,Electric,Electric,2 Garage spaces,598079,129,2.50%,223005558
+774,Single family residence,2020,Central,Central air,3 Garage spaces,55007,262,2.5%,306072051
+775,Single family residence,1998,Electric,Central air,2 Garage spaces,7840,179,2%,46325249
+776,Single family residence,1949,None,Wall/window unit(s),1 Carport space,3484,85,2.5%,47728929
+777,Single family residence,1992,Central,Central air,3 Garage spaces,14810,343,2%,44606875
+778,Single family residence,1984,Central,Central air,2 Attached garage spaces,10000,281,2.25%,47826188
+779,Single family residence,2008,Electric,Central air,2 Attached garage spaces,6098,170,,89744501
+780,Condominium,1986,Central,Central air,1 Space,55007,117,3%,42984717
+781,Mobilemanufactured,1998,"Forced air, electric",Central,Carport,55007,101,,2060710441
+782,Single family residence,1959,Multi units,"Multi units, ceiling fan(s)",Open parking,7840,90,2.5%,44665056
+783,Single family residence,2003,Central,Central air,2 Garage spaces,55007,239,2.5%,70412292
+784,Single family residence,1989,Central,Central air,1 Carport space,43996,209,2.5%,45647900
+785,Single family residence,1953,Electric,Central air,1 Carport space,7405,296,,47101749
+786,Single family residence,1958,Central,Central air,2 Garage spaces,55007,161,2.5%,44520576
+787,Condominium,1980,Central,Central air,1 Garage space,55007,448,3%,2085687841
+788,Single family residence,1989,Central,"Ceiling fan(s), central air",2 Attached garage spaces,9471,423,2.5%,46858685
+789,Single family residence,2017,"Central, electric, exhaust fans",Central air,2 Attached garage spaces,17424,201,3%,103339684
+790,Manufactured home,2001,Central,Central air,Open parking,55007,141,2.5000%,43402878
+791,Single family residence,1941,Electric,"Ceiling fan(s), central air, electric",2 Covered parking spaces,5720,,3%,44186779
+792,Single family residence,2008,Central,Central air,3 Garage spaces,55007,88,3%,2094962452
+793,Single family residence,1987,Central,Central air,2 Garage spaces,55007,150,2.5%,44516064
+794,Condominium,1978,"Central, electric",Central air,Open parking,55007,151,2.5%,46081991
+795,Single family residence,2022,Central,Central air,2 Attached garage spaces,54450,221,3%,2066413463
+796,Single family residence,1981,Central,Central air,1 Attached garage space,14375,189,2.5%,45860143
+797,Townhouse,1981,Central,Central individual,2 Carport spaces,30,290,3%,46705182
+798,Single family residence,2022,"Central, electric","Central air, electric",Driveway,6534,164,2%,337139560
+799,Single family residence,1989,Central,Central air,2 Attached garage spaces,15246,222,,47990833
+800,Single family residence,1998,Electric,Central air,1 Attached garage space,7405,329,2.75%,54440809
+801,Single family residence,1979,Electric,Central air,2 Attached garage spaces,43560,224,3%,47469771
+802,Single family residence,1938,Electric,Central air,1 Attached garage space,6098,615,,47191801
+803,Single family residence,2018,Central,Central air,3 Garage spaces,55007,238,2%,306070458
+804,Single family residence,1994,Central electric,"Central electric, ceiling fan(s)",2 Attached garage spaces,12197,191,,44827077
+805,Single family residence,1974,Central electric,Central electric,2 Attached garage spaces,26572,189,,44801745
+806,Single family residence,1984,"Central, electric",Central air,2 Attached garage spaces,13068,242,,46453586
+807,Single family residence,1980,"Central, electric, fireplace(s)","Central air, ceiling fan(s)",2 Attached garage spaces,14375,211,,48062431
+808,Single family residence,1995,Central electric,"Central electric, ceiling fan(s)",2 Attached garage spaces,217800,338,,44805083
+809,Single family residence,1972,"Central, electric","Central air, electric",2 Attached garage spaces,16988,420,3.00%,44286872
+810,Townhouse,1996,Electric,Central air,"2 Or more spaces, other, limited # of vehicle",55007,230,3.0%,44146703
+811,Townhouse,2016,"Central, electric","Central air, electric","2 Or more spaces, guest",55007,249,2.25%,2084955446
+812,Single family residence,2001,Central,Central air,2 Attached garage spaces,16553,162,2.5%,45926449
+813,Condominium,1980,"Central, electric",Central air,Open parking,55007,324,3%,47581497
+814,Single family residence,2013,Heat pump,"Central air, electric","Concrete, driveway",11761,181,3.00%,98382868
+815,Single family residence,1993,Central,Central air,2 Garage spaces,55007,203,2.5%,44428311
+816,Single family residence,2022,"Central, heat pump",Central air,2 Attached garage spaces,12197,225,2.5%,104243428
+817,Single family residence,1959,"Central, electric",Central air,2 Attached garage spaces,14810,"1,637",3%,45784610
+818,Single family residence,1985,Electric,Central air,2 Attached garage spaces,10018,183,2.25%,46419980
+819,Single family residence,1927,Central,Central air,2 Garage spaces,14375,412,3%,45743768
+820,Single family residence,2000,Central,Central air,2 Attached garage spaces,10018,153,3.5%,45919938
+821,Mobilemanufactured,1979,"Forced air, electric",Central,3 Parking spaces,55007,102,,2084055276
+822,Mobilemanufactured,1973,No data,Central,Carport,55007,134,,2060665701
+823,Single family residence,1977,Wall/window,Wall/window unit(s),2 Garage spaces,174240,267,,44791180
+824,Single family residence,1986,Central,Central air,2 Garage spaces,55007,190,3%,43708103
+825,Single family residence,2017,"Central, heat pump",Central air,1 Attached garage space,1742,268,,164055646
+826,Single family residence,2004,Central,Central air,3 Attached garage spaces,8712,239,2.5%,66190561
+827,Single family residence,1980,Central,Central air,2 Attached garage spaces,17424,162,,47347153
+828,Single family residence,1970,"Central, electric",Central air,No data,5227,325,,46978267
+829,Single family residence,1999,Electric,Electric,2 Attached garage spaces,7405,192,2.5000%,43439506
+830,Single family residence,1979,"Central, electric","Electric, central air",2 Garage spaces,43124,217,2.5%,47444762
+831,Single family residence,1965,"Central, electric",Central air,2 Attached garage spaces,16117,217,,44982904
+832,Townhouse,1982,Electric,Electric,"2 Or more spaces, no rv/boats, no trucks/trailers",55007,,3.0%,46531545
+833,Condominium,2006,"Central, electric",Central air,1 Attached garage space,55007,254,3%,71073524
+834,Single family residence,1980,"Central, electric",Central air,2 Attached garage spaces,11326,253,2%,47675669
+835,Single family residence,2006,Heat pump,Central air,2 Attached garage spaces,10018,190,3.00%,81779285
+836,Townhouse,1984,Electric,Electric,No data,55007,181,2.50%,44571261
+837,Single family residence,1975,Central,Central air,Open parking,55007,150,2.5%,44673705
+838,Single family residence,1983,"Central, electric","Ceiling fan(s), electric",2 Garage spaces,4356,135,3.00%,42755314
+839,Single family residence,1995,"Central, electric","Central air, electric","Other, see remarks",435600,203,,81819618
+840,Single family residence,2004,"Central, electric","Central air, electric",2 Attached garage spaces,10628,294,2.5%,68089542
+841,Single family residence,1966,No data,No data,1 Carport space,7405,237,2.5000%,43496954
+842,Single family residence,1974,Heat pump,"Central air, ceiling fan(s)",2 Attached garage spaces,8276,469,,48073385
+843,Single family residence,2022,Central,Central air,2 Attached garage spaces,50530,199,2.5%,338068434
+844,Single family residence,1997,Electric,"Electric, ceiling fan(s)",Attached garage,14810,176,,46019147
+845,Single family residence,2022,"Central, electric","Central air, ceiling fan(s), electric",2 Attached garage spaces,11761,213,2.5%,103258451
+846,Manufactured on land,2000,"Central, none","Central air, none",No covered parking,55007,33,2.5%,47446899
+847,Single family residence,1959,Electric,"Ceiling fan(s), central air, electric",Open parking,6005,383,2.5%,308874667
+848,Single family residence,1959,Central,"Ceiling fan(s), central air",1 Carport space,6210,363,3%,43181553
+849,Single family residence,1988,Central,Central air,1 Attached garage space,15682,162,2.5%,45891610
+850,Single family residence,1985,"Central, electric",Central air,Converted garage,12632,187,2%,47682995
+851,Single family residence,1965,"Central, electric",Ceiling fan(s),1 Attached garage space,10454,254,3%,45493827
+852,Single family residence,2015,"Central, electric",Central air,1 Attached garage space,12632,215,2.5%,130952287
+853,Single family residence,2017,"Central, electric","Electric, central air",2 Garage spaces,19602,155,2.5%,123460532
+854,Single family residence,2000,Central,Central air,2 Garage spaces,24394,170,3%,43722239
+855,Singlefamily,2016,Forced air,Central,1 Parking space,10585,212,,45207219
+856,Single family residence,2005,Central,Central air,2 Attached garage spaces,10018,231,2.5%,70743081
+857,Single family residence,2006,"Central, heat pump",Central air,2 Garage spaces,218236,338,3%,52952061
+858,Single family residence,1979,Central,Central air,1 Attached garage space,5227,225,2.5%,47599851
+859,Singlefamily,1996,Central,"Refrigerated, central air",No data,5227,137,,27453769
+860,Single family residence,1966,"Central, none, other",Wall/window unit(s),2 Garage spaces,6751,152,2.5%,26318670
+861,Single family residence,1991,Natural gas,Electric,2 Garage spaces,5776,96,2.25%,28316718
+862,Single family residence,1986,Electric,Central air,2 Attached garage spaces,7187,187,2.25%,28890959
+863,Single family residence,1958,"Central, natural gas",Central air,1 Attached garage space,8015,208,2.5%,29066454
+864,Single family residence,,Central,"Central air, electric",1 Parking space,26136,131,2.75%,90389487
+865,Single family residence,2015,Electric,"Central air, electric",2 Covered parking spaces,5009,174,2.5%,96506053
+866,Single family residence,1926,"Central, electric","Ceiling fan(s), central air",Open parking,6272,198,3%,26118110
+867,Single family residence,2001,Electric,Central air,3 Attached garage spaces,20909,182,2.25%,67632165
+868,Single family residence,1965,"Central, natural gas","Ceiling fan(s), central air, electric",2 Attached garage spaces,9888,168,3%,28938816
+869,Single family residence,1984,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,7731,143,3%,28471534
+870,Single family residence,1994,"Electric, natural gas","Electric, ceiling fan(s)",2 Attached garage spaces,8359,135,3%,28485964
+871,Single family residence,1985,"Central, electric","Ceiling fan(s), central air, electric",2 Attached garage spaces,7579,195,3%,29215938
+872,Single family residence,2002,Natural gas,"Electric, ceiling fan(s)",1 Attached garage space,10497,140,3%,55479172
+873,Single family residence,1958,Central,Ceiling fan(s),None,5227,182,3%,53078038
+874,Single family residence,1968,Central,"Ceiling fan(s), central air",2 Garage spaces,12632,175,3%,26589553
+875,Single family residence,2013,Central,"Ceiling fan(s), central air",2 Attached garage spaces,5749,197,3%,120743736
+876,Single family residence,1966,Electric,"Electric, 1 unit",2 Garage spaces,10676,139,3.00%,58200794
+877,Single family residence,1984,"Central, natural gas",Central air,2 Garage spaces,9016,112,3%,26152086
+878,Single family residence,2004,"Central, electric","Ceiling fan(s), central air, electric",2 Attached garage spaces,7405,151,3%,83734138
+879,Single family residence,2022,Central,Central air,2 Attached garage spaces,8054,585,,29421289
+880,Single family residence,1962,"Central, gas",Central air,1 Garage space,7840,118,,28826144
+881,Singlefamily,1956,Central,Evaporative cooling,No data,6098,81,,27483483
+882,Single family residence,1977,"Central, natural gas",Central air,1 Attached garage space,6534,160,2.50%,26184125
+883,Manufactured home,1997,"Central, electric","Central air, two window/wall",2 Garage spaces,55007,117,3%,193862406
+884,Singlefamily,2015,Central,Refrigerated,No data,5227,154,,124847552
+885,Single family residence,2004,"Central, electric","Ceiling fan(s), central air",None,5880,140,3%,65066393
+886,Single family residence,2020,Central,Central air,2 Garage spaces,6873,232,,331625825
+887,Single family residence,2020,"Central, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,10018,159,3%,338042104
+888,Single family residence,1989,"Central, electric",Central air,2 Garage spaces,6098,160,,28816234
+889,Single family residence,1979,Gas,Central air,2 Garage spaces,6098,158,,28801654
+890,Single family residence,1973,"Central, natural gas",Central air,"None, converted garage",5488,186,3%,26337956
+891,Townhouse,2021,Electric,Gas,Attached garage,2750,204,3%,337097387
+892,Single family residence,1982,"Electric, propane",Electric,2 Garage spaces,68825,192,2%,29379527
+893,Single family residence,1993,"Central, electric","Central air, electric, 1 unit",2 Attached garage spaces,12197,192,3.00%,26555547
+894,Single family residence,2005,Electric,Electric,2 Attached garage spaces,5035,139,3%,70314069
+895,Single family residence,1955,Central,"Central air, electric, window unit(s)",2 Garage spaces,8537,182,3%,27160550
+896,Single family residence,1926,Central,"Central air, electric, gas",2 Garage spaces,8250,160,3.00%,52088512
+897,Single family residence,1973,"Central, electric",Central air,2 Garage spaces,8712,114,,28853160
+898,Townhouse,1978,Electric,Electric,2 Attached garage spaces,1685,122,3%,28303931
+899,Single family residence,1965,"Central, electric",Central air,Driveway,9234,363,,29515279
+900,Single family residence,1972,Natural gas,Central air,2 Attached garage spaces,11761,230,2.25%,26596976
+901,Single family residence,1956,Central,Central air,2 Attached garage spaces,12197,150,3%,28987936
+902,Single family residence,1994,Electric,"Central air, electric",2 Garage spaces,128502,138,3%,78835990
+903,Single family residence,2015,"Electric, natural gas","Electric, ceiling fan(s)",2 Attached garage spaces,7113,131,3%,246927292
+904,Single family residence,1944,"Central, electric",Central air,2 Garage spaces,10367,328,3%,26204891
+905,Single family residence,2010,"Central, electric, multiple heating units","Central air, electric, 2 units",2 Attached garage spaces,18295,125,3.00%,2070104303
+906,Singlefamily,2019,Central,Central air,No data,6534,171,,243972215
+907,Single family residence,2014,"Central, natural gas, zoned","Ceiling fan(s), central air, electric, zoned",3 Attached garage spaces,16117,441,3%,122952395
+908,Single family residence,2012,Electric,Electric,2 Attached garage spaces,7130,137,3%,72059380
+909,Single family residence,1999,Natural gas,Central air,2 Attached garage spaces,6564,194,3%,29315755
+910,Single family residence,1952,Central,No data,1 Attached garage space,7015,117,,50704704
+911,Singlefamily,2019,Central,"Refrigerated, ceiling fan(s)",No data,4791,159,,251429872
+912,Single family residence,1995,Natural gas,"Electric, attic fan, ceiling fan(s)",3 Garage spaces,10890,100,3%,26526940
+913,Single family residence,1930,Central,"Central air, attic fan",2 Parking spaces,8250,106,3.00%,52103563
+914,Single family residence,1982,"Central, fireplace(s), natural gas",Central air,2 Attached garage spaces,95396,166,2.5%,53310009
+915,Single family residence,1998,"Wood stove, other",Window unit(s),2 Carport spaces,68825,88,3%,2060963443
+916,Single family residence,1960,"Central, natural gas",Central air,2 Attached garage spaces,12632,222,3.00%,26307896
+917,Single family residence,1959,Other,Other,No data,20038,208,3%,27634911
+918,Manufactured home,1998,"Central, electric",Central air,2 Garage spaces,55007,157,3%,84000760
+919,Single family residence,1997,Natural gas,"Electric, ceiling fan(s)",2 Garage spaces,7805,151,3%,27573885
+920,Single family residence,1996,"Central, electric","Ceiling fan(s), central air",2 Attached garage spaces,9452,167,3%,26474984
+921,Single family residence,1948,"Central, electric",Central air,1 Garage space,10018,129,3%,26254926
+922,Single family residence,1969,Central,Central air,2 Attached garage spaces,55007,147,,87571303
+923,Single family residence,2022,Central/electric,Central electric,Open parking,6316,155,,2060705590
+924,Single family residence,2005,Central,"Ceiling fan(s), central air",2 Attached garage spaces,5749,126,3%,70570466
+925,Single family residence,1997,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,7827,198,3%,28764996
+926,Townhouse,2017,"Electric, zoned","Electric, zoned, ceiling fan(s)",Attached garage,2227,195,3%,249894117
+927,Single family residence,1980,Electric,"Electric, ceiling fan(s)",2 Attached garage spaces,6825,141,2.5%,28231628
+928,Single family residence,1975,Electric,Electric,2 Attached garage spaces,21780,120,2.5%,27558860
+929,Single family residence,2001,Central,Central air,No data,270508,234,3.00%,2144743308
+930,Single family residence,1967,"Central, natural gas","Ceiling fan(s), central air, electric",2 Attached garage spaces,10280,119,2%,29148580
+931,Single family residence,1984,"Central, natural gas",Central air,2 Garage spaces,14375,174,3%,26404236
+932,Single family residence,1935,"Central, natural gas",Central air,None,2134,222,2.5%,26210389
+933,Single family residence,2022,"Central, electric",Central air,1 Attached garage space,10890,167,3%,97701866
+934,Single family residence,1975,Electric,Electric,2 Garage spaces,13504,118,3%,27594287
+935,Single family residence,1960,"Central, other",Central air,Garage,6272,147,2.5%,26228301
+936,Single family residence,1998,Central/electric,"Central electric, zoned-2",3 Garage spaces,200376,216,,231975303
+937,Single family residence,1978,Electric,Electric,1 Garage space,16117,110,2%,28193181
+938,Single family residence,1993,Central,Central air,2 Attached garage spaces,7187,140,3%,29266817
+939,Single family residence,2012,"Central, fireplace(s), heat pump","Ceiling fan(s), central air, electric",2 Attached garage spaces,12632,259,,119631692
+940,Single family residence,1987,"Central, electric",Central air,2 Attached garage spaces,6490,193,3%,29246850
+941,Single family residence,1997,Central,Central air,Garage,8197,266,,29469952
+942,Condominium,1979,Central,Central air,1 Carport space,55007,287,3%,26685513
+943,Singlefamily,1965,Central,Refrigerated,No data,55007,143,,27407048
+944,Single family residence,1997,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,7492,137,3%,28530802
+945,Single family residence,2014,"Central, natural gas","Central air, electric",2 Garage spaces,8537,205,,120769738
+946,Single family residence,1973,"Central, electric","Ceiling fan(s), central air, electric",2 Attached garage spaces,11326,169,2.5%,26957117
+947,Single family residence,2002,"Central, electric","Ceiling fan(s), central air, electric",2 Garage spaces,13504,149,2.5%,26835326
+948,Singlefamily,1993,Central,Evaporative cooling,No data,31363,91,,27423679
+949,Single family residence,1975,Electric,Central air,2 Carport spaces,14810,109,2.5%,78824672
+950,Single family residence,1983,Natural gas,"Ceiling fan(s), central air",2 Attached garage spaces,16117,214,3%,29195130
+951,Single family residence,1953,Central,"Ceiling fan(s), central air",2 Garage spaces,9365,166,3.000%,27315652
+952,Single family residence,2010,"Central, natural gas","Central air, electric",2 Attached garage spaces,8276,199,3%,2100971670
+953,Single family residence,1942,Central,Central air,1 Attached garage space,8842,279,3%,29078751
+954,Single family residence,2012,"Central, natural gas","Attic fan, ceiling fan(s), central air, electric",3 Attached garage spaces,14375,263,3%,119834961
+955,Single family residence,1975,"Central, natural gas","Ceiling fan(s), central air, electric",2 Garage spaces,15682,190,2.5%,27260867
+956,Single family residence,1977,Electric,Electric,2 Attached garage spaces,10624,137,3%,28188092
+957,Single family residence,2019,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,4599,178,3%,329225793
+958,Single family residence,2017,"Central, electric",Central air,2 Garage spaces,6969,133,3%,250994925
+959,Single family residence,2008,"Central, heat pump, electric",Central air,2 Garage spaces,4399,209,3%,89614624
+960,Single family residence,1984,"Central, heat pump, electric","13-15 seer ax, ceiling fan(s), two central",2 Attached garage spaces,17424,192,3%,26171753
+961,Multi family,2022,"Central, 2 units, electric",Two central,4 Attached garage spaces,55007,181,2%,2060719652
+962,Single family residence,2014,Electric,Gas,2 Attached garage spaces,7074,159,3.000%,126259700
+963,Single family residence,1993,"Central, electric, fireplace(s), gas jets","Ceiling fan(s), central air",2 Attached garage spaces,14375,198,3%,27291973
+964,Single family residence,2001,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,5623,125,3%,28547534
+965,Single family residence,2006,"Central, fireplace(s)","Ceiling fan(s), central air",2 Attached garage spaces,12632,114,3.00%,193034015
+966,Condominium,1967,"Central, natural gas","Central air, electric","Assigned, covered, gated, parking lot, paved",55007,400,,29462119
+967,Single family residence,1990,"Central, electric",Central air,2 Garage spaces,8189,121,3%,26190563
+968,Single family residence,1960,"Central, electric, fireplace(s)","Ceiling fan(s), central air",2 Garage spaces,15246,205,2.5%,26784699
+969,Single family residence,1972,"Central, fireplace(s), natural gas","Ceiling fan(s), central air, electric",2 Attached garage spaces,9583,166,3%,29190279
+970,Single family residence,1968,"Central, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,10802,140,3%,26328872
+971,Single family residence,1997,"Central, electric, energy star qualified equipment","Central air, electric, energy star qualified equipment",2 Attached garage spaces,5488,167,2.5%,27082664
+972,"Single family residence, residential",1997,Has heating (unspecified type),Central air,"No carport, no garage",9600,120,,52708486
+973,Single family residence,1974,Electric,Electric,2 Attached garage spaces,5000,401,3%,26542356
+974,Single family residence,1940,Central,"Central air, electric",2 Garage spaces,14375,122,3.00%,52063911
+975,Single family residence,1966,"Central, natural gas","Central air, electric",2 Attached garage spaces,11761,178,2.5%,29108978
+976,Condominium,1985,Electric,Electric,1 Garage space,55007,91,2.5%,2061711954
+977,Ranch,1987,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,19602,150,2.50%,28039657
+978,Single family residence,1962,"Central, natural gas",Central air,1 Carport space,12197,201,3.00%,26313562
+979,Single family residence,1970,"Central, natural gas","Ceiling fan(s), central air",1 Attached garage space,9583,192,3%,26337441
+980,Duplex,1981,Electric,"Electric, ceiling fan(s)",1 Attached garage space,55007,130,3%,26846480
+981,Single family residence,1973,Natural gas,Electric,3 Garage spaces,15246,163,3%,28129912
+982,Single family residence,1988,"Central, natural gas",Central air,2 Attached garage spaces,10018,204,,29439004
+983,Ranch,1976,Electric,"Electric, ceiling fan(s)",2 Attached garage spaces,82764,177,3%,26521860
+984,Single family residence,2018,"Central, electric",Central air,2 Garage spaces,9452,157,3%,250995068
+985,Single family residence,1984,"Central, natural gas","Ceiling fan(s), central air",2 Attached garage spaces,7274,151,3%,26179944
+986,Single family residence,2000,"Central, propane owned",Central air,2 Garage spaces,128502,175,3%,26143757
+987,Single family residence,2015,"Central, electric, fireplace(s)","Central air, electric, 1 unit",2 Attached garage spaces,12632,172,3.00%,220255434
+988,Singlefamily,1959,Central,"Central air, electric","Other, additional parking, alley access",8886,86,2.5%,75301128
+989,Single family residence,1980,Natural gas,"Electric, ceiling fan(s)",1 Attached garage space,7418,146,3%,28275381
+990,Single family residence,1975,"Panel, natural gas",Wall/window unit(s),None,7013,189,2.5%,26375124
+991,Single family residence,1995,Natural gas,"Electric, ceiling fan(s)",3 Garage spaces,13504,168,3%,28530325
+992,Single family residence,1984,Natural gas,"Electric, ceiling fan(s)",2 Garage spaces,11761,175,2.5%,28464795
+993,Single family residence,1994,"Central, multiple heating units, natural gas","Central air, electric, 2 units",2 Attached garage spaces,6751,137,3.00%,78863036
+994,Single family residence,1999,Natural gas,"Electric, ceiling fan(s)",2 Attached garage spaces,55007,167,3%,27672217
+995,Single family residence,2019,Natural gas,"Electric, ceiling fan(s)",3 Attached garage spaces,8398,192,3%,251272927
+996,Single family residence,1987,Electric,"Ceiling fan(s), electric",1 Attached garage space,4617,219,3%,29244828
+997,Single family residence,1982,"Natural gas, zoned","Electric, zoned",3 Attached garage spaces,13068,179,3%,28427990
+998,Single family residence,1997,"Central, natural gas",Central air,2 Garage spaces,8755,160,3%,26159848
+999,"Deeded, single family residence",1967,"Baseboard, hot water",No data,1 Attached garage space,15246,148,2.5%,2060675926
+1000,Multifamily,1932,No data,No data,No data,55007,95,,2061726388
+1001,"Single family residence, residential",1970,"Baseboard, hot water, natural gas",Central air,2 Attached garage spaces,13939,134,2.50%,32490969
+1002,"Single family residence, residential",1854,"Propane, baseboard, electric, hot water, radiant floor",Window unit(s),2 Garage spaces,244372,192,3%,124240263
+1003,"Single family residence, residential",1989,"Gas, baseboard, forced air",Central air,2.5 Garage spaces,10018,182,3%,31027190
+1004,Single family residence,1930,"Natural gas, gas, hot water",No data,"No garage, circular driveway",82764,180,,32824539
+1005,Single family residence,1927,"Natural gas, baseboard",Wall unit(s),"Private, driveway",4000,,,31387426
+1006,Singlefamily,1930,No data,No data,Garage - detached,2400,176,,2078094339
+1007,"Single family residence, residential",1945,"Propane, forced air, oil",Wall unit(s),1 Garage space,52272,149,2.50%,32497384
+1008,Single family residence,1930,"Oil, forced air",None,1 Attached garage space,10454,34,,32783448
+1009,Single family residence,1935,"Natural gas, see remarks",No data,1 Garage space,5250,,,32027675
+1010,Singlefamily,1925,No data,No data,No data,1950,446,,30662413
+1011,Singlefamily,1905,No data,No data,No data,2000,"1,103",,30664684
+1012,"Single family residence, residential",1988,"Gas, forced air",Central air,2 Garage spaces,19602,192,3%,30348548
+1013,"Single family residence, residential",1991,"Heat pump, electric, forced air","Heat pump, central air",2 Garage spaces,19166,137,3%,30990262
+1014,Single family residence,1916,"Natural gas, steam",Window unit(s),"No garage, on street",6098,324,,32990300
+1015,Single family residence,1988,"Electric, baseboard",Ductless,Driveway,82328,218,,63667138
+1016,Townhouse,1869,No data,No data,Garage - attached,55007,,,2111758424
+1017,"Single family residence, residential",1932,"Gas, baseboard",No data,2 Garage spaces,135036,75,3%,205945883
+1018,"Single family residence, residential",1951,"Forced air, oil",Central air,1 Garage space,301435,72,3.00%,32431873
+1019,Single family residence,1960,"Natural gas, forced air",Window unit(s),"Private, driveway",8712,,,59353105
+1020,Single family residence,2001,"Natural gas, forced air",Central air,2 Attached garage spaces,5227,333,,59567531
+1021,Single family residence,2005,"Forced air, propane",Central air,Attached garage,57935,251,,71198143
+1022,Cooperative,1962,No data,Central,No data,55007,225,,113087202
+1023,Single family residence,1976,"Natural gas, baseboard",None,1 Garage space,7000,243,,31357075
+1024,Single family residence,1939,"Natural gas, hot water",None,1 Garage space,5250,449,,31235654
+1025,"Single family residence, residential",1850,"Gas, forced air",No data,No garage,3885,81,2.75%,30181140
+1026,"Single family residence, residential",1767,"Radiant floor, forced air",None,2 Garage spaces,31799,84,2.50%,32242800
+1027,"Single family residence, residential",1962,"Forced air, hot water, natural gas",None,2 Attached garage spaces,39640,147,2.50%,32418654
+1028,Single family residence,1996,"Propane, baseboard",None,Driveway,217800,275,,337496303
+1029,Single family residence,1991,"Natural gas, baseboard",None,"Private, driveway",3342,,,30639167
+1030,"Single family residence, residential",1956,"Gas, forced air",Central air,2 Garage spaces,26572,207,3%,30358014
+1031,Single family residence,1966,"Baseboard, oil",Window unit(s),1 Covered parking space,78408,231,2.5%,30101129
+1032,Single family residence,1928,"Natural gas, baseboard",Wall unit(s),1 Garage space,10019,326,,59645289
+1033,Single family residence,1947,"Natural gas, radiant",None,2 Garage spaces,6000,455,,31325563
+1034,"Multi family, residential",1994,"Propane, oil, forced air",No data,2.5 Garage spaces,55007,117,3%,30050185
+1035,Stock cooperative,1949,"Natural gas, hot water",Wall unit(s),"Parking lot, off street",55007,437,,2060667248
+1036,"Single family residence, residential",1930,"Gas, forced air",No data,Detached,3519,106,2.5%,30161285
+1037,"Single family residence, residential",1900,"Gas, forced air",No data,2 Garage spaces,15682,167,3%,30813244
+1038,"Single family residence, residential",1952,"Gas, baseboard",No data,1.5 Garage spaces,5397,146,3%,30397560
+1039,"Single family residence, residential",1900,"Gas, forced air",Central air,2 Garage spaces,26136,127,3%,53797318
+1040,"Single family residence, residential",1984,"Baseboard, hot water, oil",None,5 Open parking spaces,118048,98,2.50%,32252854
+1041,Single family residence,1949,"Oil, forced air",None,1 Garage space,126324,176,,31823356
+1042,"Single family residence, residential",2007,"Baseboard, hot water, oil",Window unit(s),8 Open parking spaces,80586,209,2.50%,30491965
+1043,Singlefamily,1972,"Forced air, oil",No data,2 Parking spaces,13939,598,,32652732
+1044,"Single family residence, residential",1954,"Gas, forced air",Central air,1 Garage space,7200,118,3%,30338805
+1045,Single family residence,1943,"Natural gas, hot water",Central air,1 Attached garage space,6000,,,31222040
+1046,"Single family residence, residential",1973,"Gas, forced air",Central air,2 Garage spaces,14810,135,3%,30921861
+1047,Apartment,1987,"Other, electric",Units,"No garage, assigned, off street",55007,317,,2062760008
+1048,"Single family residence, residential",1956,"Gas, forced air",Central air,2 Garage spaces,37897,145,3%,31028396
+1049,"Single family residence, residential",1966,"Gas, zoned, baseboard, hot water",No data,2.5 Garage spaces,27443,134,3%,30908937
+1050,"Single family residence, residential",2000,Fireplace insert,Central air,3 Attached garage spaces,60548,211,2.50%,32458943
+1051,Single family residence,1860,"Forced air, oil",No data,Attached garage,20473,23,,29996560
+1052,Single family residence,1900,"Natural gas, baseboard",None,"Private, no garage",12197,,,59647208
+1053,"Single family residence, residential",2006,"Forced air, natural gas",Central air,2 Attached garage spaces,12632,213,2.50%,70917850
+1054,Single family residence,2018,"Natural gas, forced air, radiant, energy star qualified equipment",Energy star qualified equipment,2 Attached garage spaces,13068,613,,31076587
+1055,"Single family residence, residential",1827,"Gas, forced air",No data,No garage,12197,90,3%,30035720
+1056,"Single family residence, residential",1923,"Gas, steam",No data,No garage,3023,108,3%,30182315
+1057,Single family residence,1950,"Oil, hot water",None,"Private, no garage",6098,,,59444898
+1058,Singlefamily,1940,"Baseboard, forced air, electric, gas",No data,No data,10258,88,,30522725
+1059,"Single family residence, residential",1985,"Baseboard, oil",None,1 Garage space,101495,191,2.50%,55730470
+1060,"Single family residence, residential",2011,"Forced air, natural gas",Central air,2 Garage spaces,20909,302,2.50%,32458160
+1061,"Single family residence, residential",1900,"Gas, forced air",No data,No garage,12197,46,$1500,30816445
+1062,Single family residence,1896,"Heat pump, electric",Heat pump,2 Garage spaces,175982,462,2%,150850795
+1063,"Single family residence, residential",1901,"Gas, zoned, baseboard",Central air,"Attached, electricity, storage, workshop in garage, driveway, garage door opener",70567,186,2.75%,30360572
+1064,Single family - attached,1999,"Forced air, natural gas",Central air,Open parking,1036,113,,2128461623
+1065,"Single family residence, residential",1950,"Forced air, natural gas","Central air, wall unit(s)",10 Garage spaces,43560,119,2.50%,61828309
+1066,Residential,,No data,No data,No data,195149,195,2.5%,32791238
+1067,"Single family residence, residential",1952,"Hot water, natural gas",Wall unit(s),1 Attached garage space,6534,208,2.50%,29652395
+1068,Single family residence,2022,"Forced air, propane","Ceiling fan(s), central air",2 Attached garage spaces,317988,223,2%,101985960
+1069,Singlefamily,1915,No data,No data,No data,2000,464,,30751024
+1070,"Single family residence, residential",1920,"Gas, forced air",Central air,2 Garage spaces,6625,163,3%,30266734
+1071,"Single family residence, residential",1976,"Gas, baseboard",No data,4 Garage spaces,257004,176,3%,30352106
+1072,Singlefamily,1888,"Baseboard, stove, oil",No data,1 Parking space,348480,83,,29997152
+1073,Single family residence,1970,"Natural gas, steam",Central air,"Private, driveway",3840,,,32059192
+1074,"Single family residence, residential",1900,"Gas, none",Central air,1 Garage space,10890,70,2%,31747521
+1075,"Single family residence, residential",2012,Forced air,Central air,4 Attached garage spaces,119354,143,2.50%,32249993
+1076,Single family residence,1932,"Natural gas, forced air",Central air,1 Attached garage space,7662,338,,31861846
+1077,Condominium,1966,"Natural gas, forced air",Wall unit(s),"Assigned, waitlist",55007,,,2060676235
+1078,Single family residence,1954,Forced air,No data,1 Attached garage space,6969,110,,29763698
+1079,"Single family residence, residential",1957,"Gas, forced air",No data,1.5 Garage spaces,6534,178,3%,30293063
+1080,Single family residence,1978,Electric,None,"Private, driveway, no garage",21780,297,,59500620
+1081,Multi family,1927,"Natural gas, hot water",None,2 Garage spaces,55007,357,,142441519
+1082,Single family residence,1967,"Natural gas, baseboard",Central air,1 Attached garage space,4000,486,,31234935
+1083,"Single family residence, residential",1969,Forced air,Central air,2 Garage spaces,37897,172,2.50%,29705611
+1084,Condominium,1979,Electric,Central air,1 Garage space,55007,,,2075142597
+1085,Cooperative,1937,No data,No data,No data,55007,457,,2060674858
+1086,"Single family residence, residential",1880,"Gas, zoned, baseboard, radiant floor","Attic fan, wall unit(s)",2.5 Garage spaces,23087,176,3%,2061667925
+1087,Single family residence,1915,"Hot water, radiators, propane",Window unit(s),3 Open parking spaces,43560,403,2.5%,32867237
+1088,"Single family residence, residential",2010,"Propane, forced air",No data,"Detached, garage door opener",283576,417,3%,98094437
+1089,"Single family residence, residential",2010,"Gas, forced air",Central air,2 Garage spaces,16988,134,3%,60560375
+1090,Single family residence,1920,"Forced air, oil","Ceiling fan(s), central air",1 Garage space,21780,231,2%,32870168
+1091,"Single family residence, residential",1920,"Gas, forced air",Central air,2 Garage spaces,7840,128,3%,31659282
+1092,Single family residence,2007,"Natural gas, forced air",Central air,2 Attached garage spaces,14810,"1,450",,32717472
+1093,Single family residence,1963,"Oil, baseboard",Ductless,"Private, driveway, storage",10890,,,59551893
+1094,Singlefamily,1960,No data,No data,Garage - attached,1792,388,,30787395
+1095,Single family residence,1920,"Baseboard, oil","Wall unit(s), window unit(s)",2 Garage spaces,196020,143,2%,31837602
+1096,"Single family residence, residential",1880,"Gas, other, see remarks","Other, see remarks",No garage,4809,57,2%,30340905
+1097,"Single family residence, residential",1836,"Propane, forced air",No data,"No garage, driveway",23087,105,3%,61973735
+1098,Single family residence,1983,"Natural gas, solar, baseboard, hot water, radiant",Central air,4 Attached garage spaces,80150,272,,53395137
+1099,"Deeded, single family residence",1890,"Radiator, hot water",No data,No data,10890,195,2.5%,215416089
+1100,Single family residence,2022,"Natural gas, energy star qualified equipment, hot water, hydro air","Central air, , energy star qualified equipment",4 Attached garage spaces,87556,590,,59551236
+1101,Single family residence,1962,"Natural gas, forced air",Central air,"Private, driveway",15246,,,59477297
+1102,"Single family residence, residential",1890,"Gas, forced air",No data,No garage,6534,70,3%,31558278
+1103,"Single family residence, residential",1948,"Gas, forced air",Central air,1 Garage space,5227,123,3%,30400927
+1104,Apartment,1963,"Hot water, natural gas",Units,Open parking,55007,267,,244597458
+1105,"Single family residence, residential",1930,"Wood, baseboard, oil",Window unit(s),4 Open parking spaces,6534,236,2.25%,32927999
+1106,"Single family residence, residential",1945,"Forced air, natural gas",None,1 Garage space,4791,92,2.50%,32473088
+1107,Single family residence,1956,"Natural gas, baseboard",Central air,1 Attached garage space,7000,329,,31347636
+1108,"Single family residence, residential",1973,"Gas, forced air",Central air,1 Garage space,8542,115,3%,31708701
+1109,"Single family residence, residential",1880,"Propane, forced air",None,3 Garage spaces,130680,212,2.50%,32889132
+1110,"Single family residence, residential",1948,"Oil, forced air",No data,1 Garage space,7866,183,3%,31599673
+1111,"Single family residence, residential",1990,"Wood stove, baseboard, oil",None,10 Open parking spaces,3789720,172,2.50%,32428817
+1112,Multi family,1970,"Natural gas, forced air",Central air,Attached garage,55007,397,,32304595
+1113,Single family residence,1962,"Natural gas, baseboard",Window unit(s),1 Attached garage space,17424,200,,31848822
+1114,"Single family residence, residential",1910,Forced air,Window unit(s),1 Attached garage space,7405,45,2.50%,32268242
+1115,Singlefamily,1900,"Forced air, gas",Wall,5 Parking spaces,7919,163,,31797502
+1116,Single family residence,1955,"Oil, hydro air",Energy star qualified equipment,"Private, driveway",9148,,,59358890
+1117,Single family residence,1984,"Oil, baseboard",Central air,2 Attached garage spaces,213444,197,,31847499
+1118,Single family residence,1991,"Oil, baseboard",None,"Private, driveway",7841,364,,32739375
+1119,Single family residence,1945,"Natural gas, hot water",Wall unit(s),1 Attached garage space,2697,726,,2060665738
+1120,Single family residence,1935,"Oil, hot water",Ductless,2 Garage spaces,23958,222,,31910588
+1121,"Single family residence, residential",1959,"Gas, forced air",Central air,2.5 Garage spaces,37026,173,3%,31485481
+1122,Single family residence,2007,"Propane, forced air",Central air,3 Attached garage spaces,40511,304,,72094731
+1123,"Single family residence, residential",1900,Natural gas,None,4 Parking spaces,5227,147,2.25%,32463973
+1124,Single family - detached,1931,"Hot water, natural gas",Units,1 Garage space,4000,528,,32336812
+1125,Single family residence,1960,"Baseboard, oil",Ceiling fan(s),2 Garage spaces,20038,158,2.5%,32843437
+1126,"Townhouse, residential",1987,"Forced air, natural gas",Central air,2 Attached garage spaces,6969,177,2.50%,32932567
+1127,"Single family residence, residential",1900,"Gas, forced air",No data,1 Garage space,4726,74,3%,30475427
+1128,Single family residence,1961,"Natural gas, hot water, steam",Central air,1 Attached garage space,8834,807,,32973309
+1129,Single family residence,1955,"Electric, oil, hot water, steam",None,Driveway,13504,140,,31842976
+1130,"Single family residence, residential",1974,"Forced air, natural gas",Central air,2 Attached garage spaces,17860,172,2.50%,32411399
+1131,Single family - attached,1996,"Forced air, natural gas",Central air,"No garage, off street",1530,429,,32359691
+1132,"Single family residence, residential",1992,"Gas, forced air, hot water, wall furnace",Central air,2 Garage spaces,156380,84,3%,53754481
+1133,"Deeded, single family residence",1795,Radiator,No data,1 Attached garage space,1271952,79,2.5%,29717686
+1134,Singlefamily,1900,Oil,Central,1 Parking space,113256,347,,2060678565
+1135,"Single family residence, residential",1967,"Gas, forced air, hot water",Attic fan,1 Garage space,14375,115,3%,30963682
+1136,"Single family residence, residential",1914,"Gas, forced air",No data,1 Garage space,4133,42,3%,30860007
+1137,Multi family,1945,"Natural gas, baseboard",Window unit(s),1 Attached garage space,55007,744,,31943637
+1138,Single family residence,1930,"Oil, hot water",None,1 Garage space,3000,520,,2060703170
+1139,Single family residence,1951,"Oil, hot water",Wall unit(s),2 Garage spaces,10290,,,31238391
+1140,"Single family residence, residential",1900,"Gas, forced air",No data,1 Garage space,3240,50,3%,30865385
+1141,Single family residence,1984,"Natural gas, forced air",Central air,3 Attached garage spaces,58806,,,59549978
+1142,Cooperative,1905,No data,No data,No data,55007,,,245066787
+1143,"Duplex, multi family",1820,Natural gas,No data,1 Garage space,55007,41,3.00%,53174922
+1144,"Single family residence, residential",1921,"Electric, baseboard",No data,2 Garage spaces,3916,148,2.5%,30224442
+1145,Single family residence,1998,Central,Central air,2 Garage spaces,8276,214,2.5%,19005650
+1146,Single family residence,1960,No data,Central air,2 Garage spaces,11761,177,2.5%,18998060
+1147,Single family residence,1994,Central,"Central air, gas",2 Attached garage spaces,2277,645,2.250%,25569842
+1148,Single family residence,1987,Central,Central air,2 Attached garage spaces,6736,304,2.000%,20257278
+1149,Single family residence,1998,"Central, natural gas","Central air, electric, whole house fan, attic fan",3 Attached garage spaces,7405,425,2.000%,17768483
+1150,Single family residence,2012,Central,Central air,2 Garage spaces,7840,197,3%,95524114
+1151,Condominium,1975,Central,Central air,1 Garage space,55007,371,2.500%,18031254
+1152,Single family residence,2005,Central,Central air,2 Attached garage spaces,437778,449,2.500%,65250827
+1153,Single family residence,1924,Central,Central air,2 Garage spaces,6975,446,2.500%,20092512
+1154,Manufactured home,1997,Central,Wall/window unit(s),3 Carport spaces,55007,,$2000.000,25647312
+1155,Single family residence,1940,Wall furnace,None,None,11326,286,2.5%,26041080
+1156,Singlefamily,1973,"Other, electric, other",None,1 Parking space,69696,180,,16201671
+1157,Single family residence,1955,Central,Central air,2 Attached garage spaces,10367,356,2.5%,26094665
+1158,Single family residence,1990,"Central, fireplace(s)",Central air,2 Attached garage spaces,3698,179,2.500%,136710190
+1159,Single family residence,1987,Has heating (unspecified type),Central heat & cool,2 Attached garage spaces,6500,180,,18777322
+1160,Single family residence,1961,Central,Central air,1 Attached garage space,6098,258,"$10,000",25983786
+1161,Single family residence,1972,Wall furnace,None,2 Attached garage spaces,6098,331,2.5%,18534342
+1162,Single family residence,2008,Central,Central air,3 Attached garage spaces,7260,127,2.500%,89164276
+1163,Single family residence,1952,Central,Central air,2 Garage spaces,6970,464,2.500%,17848687
+1164,Single family residence,1955,Central,Central air,2 Garage spaces,6534,170,2%,18931236
+1165,Single family residence,1953,No data,Wall/window unit(s),1 Attached garage space,7511,363,2.000%,21690081
+1166,Single family residence,1993,Central,Central air,2 Attached garage spaces,7245,143,2.000%,17643447
+1167,Singlefamily,1988,"Wall, electric",None,2 Parking spaces,2400,406,,17394297
+1168,"Residential, manuf/mobl real prop",2004,No data,No data,Garage,55007,168,,64967158
+1169,Single family residence,2006,No data,None,2 Attached garage spaces,3279,488,2.500%,79574244
+1170,Single family residence,1998,"Central, natural gas","Central air, electric",2 Attached garage spaces,7200,314,2.000%,17246613
+1171,Single family residence,1983,"Central, wood stove","Central air, ceiling fan(s)",2 Garage spaces,17424,252,3.000%,83254453
+1172,Manufactured home,1969,Electric,Wall/window unit(s),2 Open parking spaces,55007,,2.250%,79814511
+1173,"Residential, single family residence",1957,No data,No data,Attached garage,7013,343,,20246272
+1174,Manufactured home,1986,"Central, fireplace(s), forced air, natural gas","Central air, wall/window unit(s)",2 Attached garage spaces,55007,144,2.500%,25650866
+1175,Residential,1924,Central,Air conditioning,2 Garage spaces,6468,"1,048",2.5%,20752510
+1176,"Multi family, triplex",1882,No data,No data,No garage,55007,165,,2067229198
+1177,Single family residence,1981,Central,Central air,2 Attached garage spaces,6778,531,2.5%,15780869
+1178,Single family residence,1923,"Central, forced air",Central air,1 Attached garage space,1797,925,2.000%,16974706
+1179,Single family residence,1954,No data,None,No data,6021,401,2.000%,21540462
+1180,Manufactured home,1984,Central heat/gas,Central air/refrig,No data,55007,124,,136691579
+1181,Singlefamily,1953,No data,No data,1 Parking space,9583,313,,2060674705
+1182,Mobilemanufactured,2021,No data,No data,Carport,55007,244,,136698201
+1183,Single family residence,1978,Has heating (unspecified type),Central heat & cool,2 Attached garage spaces,11761,284,,18687692
+1184,Single family residence,2012,Central,Central air,3 Garage spaces,22216,293,2.5%,95059674
+1185,Detached,1947,"Forced air, natural gas",Central forced air,2 Garage spaces,6713,483,2.0%,17151336
+1186,Singlefamily,1952,Forced air,Central,10 Parking spaces,21780,291,,15239265
+1187,Manufactured home,2022,No data,No data,1 Garage space,55007,,3.000%,2060682377
+1188,Single family residence,1958,Wall furnace,Evaporative cooling,2 Attached garage spaces,10762,206,2.500%,17478884
+1189,Single family residence,1952,No data,"Central air, dual",1 Attached garage space,6420,662,2.000%,25207169
+1190,Single family residence,1951,"Central, propane, wood stove",Central air,3 Garage spaces,67082,249,3.000%,63231324
+1191,Single family residence,1936,Central,Central air,2 Attached garage spaces,16117,647,2.000%,21427357
+1192,Manufactured home,2015,Central,Central air,2 Carport spaces,55007,148,3.000%,157966046
+1193,Single family residence,1970,"Forced air, natural gas",Central air,2 Attached garage spaces,18295,584,2.000%,16587252
+1194,Single family residence,1951,"Forced air, natural gas",Central air,2 Garage spaces,8712,261,2.500%,18098928
+1195,Manufactured home,2006,No data,No data,2 Parking spaces,55007,364,2.000%,83269592
+1196,Single family residence,1956,No data,None,2 Attached garage spaces,5097,300,1.500%,20993122
+1197,Single family residence,1991,Has heating (unspecified type),"Central heat & cool, whole house fan",3 Attached garage spaces,300128,273,,19140592
+1198,Manufactured home,1971,Central,Central air,Carport,55007,89,2.500%,2108602911
+1199,Single family residence,1953,"See remarks, wall furnace","Evaporative cooling, wall/window unit(s)",No data,16117,121,2.500%,17504594
+1200,Detached,1975,"Forced air, natural gas",No data,2 Attached garage spaces,9600,821,2.5%,16649404
+1201,Detached,1929,"Fireplace(s), forced air, natural gas",Central forced air,1 Garage space,3570,957,2.5%,16954818
+1202,Single family residence,1982,"Central, forced air, propane",Central air,No data,13939,249,2.500%,17686544
+1203,Single family residence,2000,"Central, fireplace(s), natural gas","Central air, electric",2 Attached garage spaces,3084,296,2.500%,51601102
+1204,Manufactured home,1977,Central,Wall/window unit(s),3 Garage spaces,55007,,$3500.000,89153474
+1205,Single family residence,1954,Forced air,Central air,2 Garage spaces,6647,454,2.500%,21463169
+1206,Single family residence,1982,Central,Central air,2 Attached garage spaces,7841,202,2.000%,17893243
+1207,Single family residence,2001,Central,Central air,3 Attached garage spaces,6970,236,2.000%,54956160
+1208,Single family residence,2002,"Central, fireplace(s), forced air, natural gas","Central air, electric",2 Attached garage spaces,5161,491,2.500%,136962077
+1209,Single family residence,2017,Central,Central air,3 Attached garage spaces,44431,230,2.500%,241482757
+1210,Single family residence,2022,No data,Central air,2 Attached garage spaces,17860,213,2.000%,2062282463
+1211,Manufactured home,1977,"Forced air, natural gas",None,Garage,55007,,3.000%,2120035891
+1212,Single family residence,2008,Central,Central air,2 Attached garage spaces,17424,194,2.000%,89166302
+1213,Detached,1971,"Forced air, natural gas",Other/remarks,2 Garage spaces,5500,588,2.5%,17168392
+1214,Single family residence,1974,"Central, hot water, wood stove, natural gas","Ceiling fan(s), central air",2 Garage spaces,283576,226,2.5%,18200491
+1215,Detached,1960,"Forced air, natural gas",Central forced air,2 Garage spaces,6600,564,2.25%,17114773
+1216,Detached,2006,"Forced air, natural gas",Central forced air,4 Attached garage spaces,16988,280,2.5%,69022737
+1217,Detached,1980,"Forced air, electric","Central forced air, electric",2 Attached garage spaces,19166,357,2.0%,16757247
+1218,"Residential, single family residence",1977,No data,No data,Garage,14810,275,,18981399
+1219,Single family residence,1949,Central,Central air,2 Garage spaces,5293,611,2.500%,20755584
+1220,Single family residence,2007,"Central, fireplace(s), forced air, natural gas","Central air, wall/window unit(s), zoned",3 Attached garage spaces,14375,798,2.500%,79836074
+1221,Condominium,1981,No data,None,No data,55007,341,2.500%,25763146
+1222,Manufactured home,2002,Central heat/gas,"Central air/evap, evap wall/window, wall mount-master",No data,55007,152,,136709331
+1223,Detached,2013,"Forced air, natural gas",Central forced air,2 Attached garage spaces,5227,413,2.5%,95905589
+1224,Single family residence,2019,Central,Central air,3 Garage spaces,9147,247,2.0%,300315805
+1225,Manufactured home,1990,Central,Central air,Open parking,55007,293,2.500%,18166872
+1226,Single family residence,1973,"Forced air, natural gas",No data,No garage,14375,266,,18826626
+1227,Single family residence,2001,"Central, fireplace(s), natural gas",Ceiling fan(s),2 Attached garage spaces,4299,552,2.5%,54388786
+1228,Single family residence,1963,No data,No data,4 Attached garage spaces,135907,795,2.5%,15602793
+1229,Single family residence,2007,"Central, fireplace(s), multiunits, zoned","Ceiling fan(s), central air, whole house fan, multi units, zoned",4 Attached garage spaces,72310,506,2.5%,79794028
+1230,Single family residence,1979,"Fireplace(s), multizone, radiant","Ceiling fan(s), multizone",3 Garage spaces,1011463,669,2.5%,19276250
+1231,Mobilemanufactured,1979,No data,No data,No data,55007,,,145565444
+1232,All other attached,2016,"Forced air, electric",Central forced air,2 Attached garage spaces,228690,386,2.5%,125982397
+1233,Single family residence,2003,"Propane, wall furnace, wood stove",No data,2 Attached garage spaces,1742400,300,,64888779
+1234,Single family residence,1923,No data,None,1 Garage space,2079,962,2.000%,21227616
+1235,Single family residence,1900,None,None,No data,1742,373,2.500%,17841161
+1236,Detached,1991,"Fireplace(s), forced air, natural gas",No data,2 Attached garage spaces,55007,361,2.25%,17131860
+1237,Single family residence,2011,No data,Central air,2 Attached garage spaces,4615,351,2.500%,98328968
+1238,Single family residence,1978,Central,Central air,3 Attached garage spaces,20038,437,2.000%,17816797
+1239,Single family residence,1923,Forced air,Ceiling fan(s),Garage,2482,801,2.5%,24935475
+1240,"Residential, single family residence",2022,Central,"Air conditioning, central air",2 Garage spaces,5244,"1,000",2.5%,20429770
+1241,Condominium,1974,Central,Central air,1 Garage space,55007,37,$1500.000,25691906
+1242,Single family residence,1980,"Propane, central, propane stove","Ceiling fan(s), central air, heat pump",3 Attached garage spaces,16117,226,2.5%,18602717
+1243,Single family residence,1947,Wall furnace,None,Concrete,8537,472,2.500%,21016561
+1244,Residential,1954,Wall,None,2 Attached garage spaces,22651,477,2.5%,20668011
+1245,"Residential, single family residence",1978,None,None,Open parking,217800,326,,16162301
+1246,Single family residence,1952,"Central, fireplace(s)","Ceiling fan(s), central air",2 Garage spaces,36590,336,2.5%,18566359
+1247,Single family residence,1980,"Central, fireplace(s), hot water",Central air,2 Attached garage spaces,22216,236,2.5%,15375002
+1248,Single family residence,1955,Central,Central air,2 Attached garage spaces,10074,520,2.000%,21558710
+1249,Single family residence,2020,Has heating (unspecified type),"Central heat & cool, 13+ seer a/c",2 Attached garage spaces,5501,301,,307022769
+1250,Single family residence,1963,Central,"Ceiling fan(s), central air",2 Carport spaces,10141,258,2.25%,26053123
+1251,Single family residence,1988,"Fireplace(s), forced air",Central air,2 Attached garage spaces,6000,349,2.500%,15397599
+1252,Detached,1961,"Forced air, natural gas",Central forced air,2 Garage spaces,7700,429,2.5%,17131561
+1253,Single family residence,1989,Central,No data,Open parking,10522,134,2.500%,113357975
+1254,Single family residence,1992,Forced air,Central air,2 Attached garage spaces,13504,395,2.750%,18046583
+1255,Single family residence,1958,"Central, fireplace insert, gas","Ceiling fan(s), central air",2 Attached garage spaces,7505,325,2.5%,15262408
+1256,Single family residence,1953,Central,Central air,Open parking,6500,322,2.000%,17556703
+1257,Single family residence,1926,"Fireplace(s), see remarks, wood, floor furnace",None,1 Garage space,3175,814,2.500%,20915044
+1258,Condominium,1969,Central,Central air,1 Carport space,55007,209,2.5%,26000486
+1259,Single family residence,1912,"Natural gas, wall furnace",No data,2 Garage spaces,7287,383,,2060683468
+1260,Detached,1885,"Forced air, electric",No data,3 Garage spaces,131116,338,2.5%,16643614
+1261,"Residential, condominium, townhouse",1972,Central,Ceiling fan(s),3 Attached garage spaces,94961,646,2.5%,20441402
+1262,Single family residence,1979,Central,Central air,2 Attached garage spaces,11326,400,2.5%,25963390
+1263,Single family residence,1957,Forced air,Central air,2 Attached garage spaces,7200,"1,068",2.000%,25251720
+1264,Singlefamily,1978,"Forced air, gas",Evaporative,"Carport, garage",6534,170,,18914024
+1265,Condominium,1994,Central,Central air,2 Garage spaces,55007,552,2.500%,21263414
+1266,Single family residence,1962,"Central, wood, natural gas, forced air",Central air,2 Attached garage spaces,14810,227,,19106619
+1267,Single family residence,1970,"Central, fireplace(s)",Central air,3 Attached garage spaces,13504,469,3.000%,20200289
+1268,Single family residence,1972,"Central, forced air",None,2 Attached garage spaces,5100,589,2.000%,25216009
+1269,Single family residence,1988,"Central, fireplace(s), forced air",Central air,3 Attached garage spaces,15246,385,2.500%,18186547
+1270,Manufactured home,2003,Central,Central air,2 Carport spaces,55007,116,2.500%,2061231499
+1271,Single family residence,1969,Central,Central air,1 Attached garage space,10890,767,2.500%,19900959
+1272,Single family residence,1991,Central,Central air,2 Garage spaces,6098,244,2.5%,19049509
+1273,Single family residence,1969,"Central, forced air","Central air, dual",Garage,16988,320,2.000%,17441134
+1274,Manufactured home,1987,Central,Central air,Open parking,55007,242,3.000%,17884915
+1275,Single family residence,1990,Central,"Ceiling fan(s), central air",2 Garage spaces,44431,436,2.5%,18615881
+1276,Single family residence,1966,Central,No data,2 Attached garage spaces,11761,181,,19178622
+1277,"Residential, single family residence",1973,Central forced air - gas,Central air,3 Attached garage spaces,40075,"1,540",,19742294
+1278,Single family residence,,Fireplace(s),"None, other",2 Open parking spaces,11761,,2.5%,250059294
+1279,Manufactured home,1983,No data,None,2 Carport spaces,55007,200,2.500%,136701465
+1280,Single family residence,1989,Central,Central air,2 Attached garage spaces,8254,255,2.500%,20247573
+1281,Single family residence,1989,No data,Central air,3 Attached garage spaces,6098,278,2.500%,18181634
+1282,Single family residence,1970,Central,Central air,3 Attached garage spaces,13068,757,2.500%,25602988
+1283,Single family residence,1999,Central,"Central air, dual",3 Attached garage spaces,33106,334,2.000%,52468352
+1284,Detached,1924,"Forced air, electric",Wall/window unit(s),1 Garage space,3758,950,2.5%,16973012
+1285,Single family residence,1956,Central,Central air,2 Attached garage spaces,5213,362,2.000%,21390263
+1286,Manufactured home,2021,No data,Wall/window unit(s),Carport,55007,156,2.500%,2072308834
+1287,Single family residence,2000,Central,Central air,3 Attached garage spaces,6856,263,2.5%,51065505
+1288,"Single family residence, residential",1918,Wall furnace,Evaporative cooling,No data,6534,269,3.00%,19062679
+1289,Res income 2-4 units,1954,No data,No data,2 Attached garage spaces,55007,,2.5%,17106715
+1290,Single family residence,1995,Central,"Ceiling fan(s), central air",3 Attached garage spaces,16988,287,2.5%,18594839
+1291,Single family residence,1973,Central,Central air,2 Attached garage spaces,10019,387,2.250%,17927832
+1292,Single family residence,1984,"Central, fireplace(s)",Central air,2 Attached garage spaces,8676,567,2.500%,111916342
+1293,Single family residence,1986,No data,Central air,2 Garage spaces,7840,269,2.5%,18993292
+1294,Single family residence,2010,Has heating (unspecified type),"Central heat & cool, wall/window unit(s)",4 Garage spaces,98881,298,,19139477
+1295,Condominium,1984,No data,Central air,2 Garage spaces,55007,532,2.000%,25662752
+1296,Singlefamily,1959,Forced air,Central,2 Parking spaces,11326,254,,15219837
+1297,Detached,1972,"Fireplace(s), forced air, natural gas",No data,2 Attached garage spaces,5200,388,2.5%,17173210
+1298,Single family residence,1986,"Central, fireplace(s), propane","Central air, ceiling fan(s), multi units, window unit(s)",2 Garage spaces,717869,268,2.500%,83303308
+1299,Single family residence,1996,Multiunits,"Ceiling fan(s), multi units",No garage,287060,350,2.5%,129729342
+1300,Single family residence,1958,"1 Unit, baseboard - hotwater, natural gas","1 Unit, ceiling fan(s), central air",2 Attached garage spaces,14810,,,39790093
+1301,Single family residence,1981,"1 Unit, baseboard - hotwater, zoned","Ceiling fan(s), window unit(s)",1 Attached garage space,87120,,,39949671
+1302,Single family residence,,"Baseboard, natural gas, zoned","Gas, zoned, central air",Attached garage,55007,,,52911235
+1303,Single family residence,1974,"1 Unit, forced air, natural gas","1 Unit, central air",2 Attached garage spaces,20473,,,39400821
+1304,Single family residence,1950,"Baseboard - hotwater, oil tank below ground",1 Unit,1 Garage space,21780,,,39811884
+1305,Single family residence,1972,"Forced air, natural gas","Central a/c, electric",2 Attached garage spaces,26136,,,39629597
+1306,Adult community,1969,Baseboard,Central air,1 Parking space,871,233,,39643100
+1307,Single family residence,1966,"Forced air, zoned, natural gas",Central air,2 Attached garage spaces,21780,,,38729193
+1308,Single family residence,,"Baseboard, natural gas, hot water","Gas, none",Garage,55007,,,39790861
+1309,Single family residence,2003,"90% forced air, natural gas","Central a/c, electric",2 Attached garage spaces,12197,144,,64464983
+1310,Single family residence,,"Electric, natural gas, forced air","Electric, gas, central air",Attached garage,55007,,,38016547
+1311,Single family residence,2015,"Forced air, natural gas",Central air,2 Attached garage spaces,9000,,,150413589
+1312,Single family residence,1942,"Forced air, natural gas",Central air,1 Attached garage space,8276,,,38748900
+1313,Single family residence,1959,"1 Unit, natural gas","1 Unit, central air",1 Attached garage space,16117,,,39510149
+1314,Single family residence,1970,Forced air,Central air,1 Attached garage space,15682,322,,39550937
+1315,Condominium,1989,Natural gas,Central air,"Assigned, none",55007,,,2060673978
+1316,Single family residence,1963,"Baseboard - hotwater, natural gas",Window unit(s),1 Attached garage space,3920,,,39750793
+1317,Single family residence,1960,Forced air,Central air,1 Attached garage space,22651,214,,39270786
+1318,Single family residence,1954,"Forced air, natural gas","Central a/c, electric",2 Open parking spaces,55007,196,,38256808
+1319,Single family residence,1984,"Central, natural gas","Central a/c, electric",2 Attached garage spaces,11326,221,,38101753
+1320,Single family residence,1933,"1 Unit, radiators - hot water, oil tank below ground",No data,1 Attached garage space,4600,,,38724253
+1321,Single family residence,1950,Oil above ground,None,1 Garage space,4791,105,,39280699
+1322,Single family residence,1958,"1 Unit, forced air, natural gas","1 Unit, central air",1 Attached garage space,6098,,,40053577
+1323,Multi family,1850,Baseboard - hotwater,Window unit(s),3 Garage spaces,55007,,,40112684
+1324,Single family residence,1966,"Baseboard - electric, electric","1 Unit, central air",2 Attached garage spaces,43124,,,39434280
+1325,Single family residence,1959,Natural gas,Central air,6 Attached garage spaces,10000,,,38345729
+1326,Single family residence,1972,"Forced air, natural gas","Central a/c, natural gas",2 Attached garage spaces,14810,88,,38410597
+1327,Condominium,,"Natural gas, forced air","Gas, central air",Pkg space in,55007,,,37925195
+1328,Multi family,,Other,No data,Other,55007,,,162154777
+1329,Single family residence,,"Baseboard, natural gas, zoned","Gas, zoned, central air",Attached garage,55007,,,38058405
+1330,Single family residence,1961,"3 Units, baseboard - hotwater, zoned, natural gas","4+ units, wall unit(s)",2 Garage spaces,20038,27,,37959778
+1331,Single family residence,1930,"2 Units, forced air, natural gas","2 Units, central air",1 Garage space,6200,,,38687366
+1332,Single family residence,,"Natural gas, radiators","Gas, central air",Park space,55007,,,52910230
+1333,Single family residence,1950,"Baseboard - hotwater, zoned, natural gas",Window unit(s),1 Attached garage space,17860,,,37952686
+1334,Single family residence,,Baseboard,Central air,2 Parking spaces,55007,,,38932547
+1335,Ranch,1976,"Forced air, natural gas","Central air, electric",1 Attached garage space,10000,,,37789305
+1336,Single family residence,1956,"Forced air, natural gas",Central air,1 Attached garage space,20038,281,,39478757
+1337,Single family residence,1972,"1 Unit, baseboard - hotwater, natural gas",1 Unit,1 Attached garage space,55007,,,2060679490
+1338,Single family residence,1930,"Forced air, natural gas",None,Open parking,23087,100,,38397822
+1339,Single family residence,,"1 Unit, natural gas",See remarks,See remarks,2613,,,38706047
+1340,Single family residence,2001,"Forced air, natural gas","Central a/c, electric",2 Attached garage spaces,10000,200,,39822891
+1341,Condominium,1956,"Electric, baseboard, space/wall/floor","Ceiling fan(s), zoned, other",1 Parking space,55007,507,,38391400
+1342,Condominium,1967,Forced air,Central air,Assigned,55007,366,,39120175
+1343,Single family residence,1923,"Other, central, forced air, propane - owned","Central a/c, electric",Open parking,55007,362,,38128230
+1344,Single family residence,1950,Baseboard hotwater,"Window unit(s), attic fan",1 Attached garage space,19602,352,,39053525
+1345,Single family residence,2022,"2 Units, natural gas","2 Units, zoned",2 Garage spaces,11761,471,,40092428
+1346,Single family residence,1945,Other,Central air,1 Attached garage space,55007,551,,39386563
+1347,Single family residence,1930,"Forced air, natural gas","Central a/c, electric",1 Garage space,18295,190,,38090279
+1348,Single family residence,,"Natural gas, radiators","Gas, wall unit(s), window unit(s)",Tandem,55007,,,38039448
+1349,Single family residence,2007,Forced air,Central air,2 Attached garage spaces,6839,382,,88939322
+1350,Multi family,,"Forced air, natural gas",Central air,None,55007,,,88856440
+1351,Multi family,1902,"1 Unit, radiators - steam",No data,2 Garage spaces,55007,,,38628956
+1352,Single family residence,1946,Forced air,Central air,1 Attached garage space,7767,232,,2060712320
+1353,Single family residence,1988,Forced air,Central air,1 Attached garage space,4600,331,,39125965
+1354,Single family residence,1997,No data,"Multi units, central air",3 Attached garage spaces,90169,,,39230519
+1355,Single family residence,1969,"4+ units, forced air, see remarks, electric","Central air, see remarks",18 Attached garage spaces,579348,417,,52402181
+1356,Triplex,1966,"Baseboard - electric, wall furnace, natural gas, electric","Multi units, electric",Parking lot,55007,,,2075776444
+1357,Single family residence,1902,"Forced air, natural gas",Central air,Open parking,2613,,,38706045
+1358,Single family residence,1975,"Forced air, oil","Central a/c, electric",1 Attached garage space,20038,127,,38790519
+1359,Single family residence,1989,"Forced air, natural gas","Central a/c, electric",Other,11326,192,,38098313
+1360,Single family residence,,Natural gas,Central air,1 Parking space,55007,,,38896704
+1361,Condominium,1988,Forced air,"Central air, ceiling fan(s)",Open parking,55007,171,,39047738
+1362,Single family residence,1989,"Forced air, natural gas","Central a/c, electric",4 Open parking spaces,14810,136,,38760012
+1363,Single family residence,,"Electric, natural gas, solar, zoned","Electric, gas, zoned, central air",Attached garage,55007,,,37990766
+1364,Single family residence,1956,"Radiators - steam, natural gas",Central air,1 Attached garage space,6969,292,,39733728
+1365,Single family residence,1965,"Baseboard - hotwater, zoned, electric","1 Unit, attic fan, ceiling fan(s), central air",2 Attached garage spaces,36590,259,,39508347
+1366,Single family residence,1940,"1 Unit, natural gas",No data,Open parking,12632,87,,39804620
+1367,Single family residence,1980,"1 Unit, baseboard - hotwater",Ceiling fan(s),1 Attached garage space,10454,130,,39501613
+1368,Single family residence,1983,"1 Unit, electric",1 Unit,3 Garage spaces,261796,167,,64852794
+1369,Single family residence,1949,"90% forced air, natural gas","Window unit(s), electric",8 Open parking spaces,63162,208,,38109742
+1370,Single family residence,1974,"Forced air, oil","Central a/c, electric",1 Garage space,10800,198,,38155108
+1371,Single family residence,1971,Forced air,"Central air, ceiling fan(s)",2 Attached garage spaces,40075,,,39864332
+1372,Single family residence,1968,"Forced air, natural gas","Central a/c, electric",1 Attached garage space,11326,182,,38820520
+1373,Single family residence,1923,Baseboard,Central air,2 Attached garage spaces,4791,265,,39318612
+1374,Single family residence,1968,Forced air,Central air,1 Attached garage space,20038,340,,39298700
+1375,Multi family,1920,Forced air,No data,1 Open parking space,55007,61,,38799199
+1376,Single family residence,1968,"1 Unit, forced air, zoned, natural gas","2 Units, central air, zoned",2 Attached garage spaces,33541,,,39453818
+1377,Single family residence,1951,"Forced air, natural gas","None, electric",Open parking,5998,178,,38266974
+1378,Single family residence,1935,"Baseboard - hotwater, zoned, radiators - hot water, natural gas","1 Unit, central air",1 Attached garage space,13939,,,38632618
+1379,Duplex,1920,"Forced air, natural gas","Central a/c, electric",2 Garage spaces,55007,165,,2128545859
+1380,Single family residence,2008,"Forced air, solar","Central a/c, electric, solar photovoltaic",2 Attached garage spaces,26136,135,,87967523
+1381,Single family residence,1946,"Baseboard, see remarks",None,Open parking,5001,240,,39207294
+1382,Single family residence,1979,Forced air,Central air,2 Attached garage spaces,9147,,,39237728
+1383,Single family residence,1999,Natural gas,"2 Units, central air, zoned",3 Attached garage spaces,40075,,,39917766
+1384,Multi family,1920,"Radiators - hot water, electric",Window unit(s),None,55007,255,,37880070
+1385,Single family residence,1956,"Forced air, natural gas","Central a/c, natural gas",Open parking,9378,218,,38281674
+1386,Single family residence,1963,Forced air,Central air,None,6969,301,,39251499
+1387,Adult community,1979,Baseboard,Central air,1 Attached garage space,5662,308,,39525498
+1388,Single family residence,,"Baseboard, natural gas, hot water","Gas, central air, zoned",Garage,55007,,,38019107
+1389,Single family residence,1955,"90% forced air, natural gas",Central a/c,Open parking,13068,189,,38164396
+1390,Single family residence,1915,"1 Unit, forced air, natural gas","1 Unit, central air",1 Garage space,6098,,,38722942
+1391,Single family residence,1920,"Forced air, natural gas","Central a/c, electric",Open parking,6969,218,,38069769
+1392,Single family residence,1925,"Radiator, natural gas","Central a/c, electric",2 Garage spaces,12632,174,,2060682246
+1393,Single family residence,1971,"Forced air, natural gas","Central a/c, electric",2 Attached garage spaces,117176,161,,38318583
+1394,Single family residence,1930,1 Unit,No data,4 Parking spaces,5227,192,,39428667
+1395,Adult community,1970,"Forced air, baseboard",Central air,1 Attached garage space,6969,336,,39532111
+1396,Stock cooperative,,"Natural gas, hot water","Gas, central air, zoned",See remarks,55007,,,2061469414
+1397,Single family residence,,"Forced air, baseboard",Central air,2 Attached garage spaces,22216,527,,39237101
+1398,Multi family,1918,Radiators-steam,None,2 Attached garage spaces,55007,219,,39046676
+1399,Townhouse,1918,"Forced air, natural gas","Central a/c, electric",Open parking,3690,176,,38196155
+1400,Single family residence,,"Baseboard, electric","Electric, wall unit(s), window unit(s)",Attached garage,55007,,2%,37942882
+1401,Single family residence,1935,"Forced air, natural gas","Central a/c, natural gas",Open parking,5101,178,,38279184
+1402,Single family residence,,"1 Unit, natural gas",No data,2 Garage spaces,5000,,,38753607
+1403,"Duplex, single family residence",1907,"1 Unit, radiators - hot water, see remarks, natural gas",Window unit(s),Open parking,2613,257,,37903382
+1404,Single family residence,2005,"Forced air, natural gas",Central air,2 Attached garage spaces,8050,,,68296165
+1405,Single family residence,1937,"1 Unit, radiators - steam, natural gas",Wall unit(s),1 Garage space,4791,,,38023241
+1406,Single family residence,1951,"Radiant, baseboard hotwater",Window unit(s),2 Garage spaces,9601,372,,39079326
+1407,Single family residence,1750,"1 Unit, baseboard - hotwater, natural gas",Central air,2 Garage spaces,91476,218,,39867648
+1408,Single family residence,1930,"Radiators - steam, natural gas",Window unit(s),1 Open parking space,2386217,,,37875771
+1409,Single family residence,1962,"1 Unit, zoned, natural gas",Window unit(s),2 Attached garage spaces,139392,,,39443734
+1410,Single family residence,1950,"Forced air, oil, natural gas available","Central a/c, electric",2 Open parking spaces,7500,152,,38828885
+1411,Single family residence,1940,"Wood stove, other, oil","Central a/c, electric",2 Garage spaces,16553,292,,38136791
+1412,Condominium,1977,"Electric, heat pump",Central air,2 Attached garage spaces,55007,,,2060693330
+1413,Condominium,1973,"90% forced air, natural gas","Central a/c, electric",Parking lot,55007,137,,2060673824
+1414,Single family residence,1960,Forced air,Central air,Open parking,4791,344,,39347072
+1415,Single family residence,1920,Oil above ground,None,1 Garage space,19166,212,,2097713640
+1416,Single family residence,,"Radiators - hot water, natural gas",Window unit(s),1 Attached garage space,11326,167,,39495690
+1417,Single family residence,1966,"Forced air, natural gas","Central a/c, electric",2 Garage spaces,55007,170,,38129308
+1418,Single family residence,2022,Natural gas,"2 Units, central air",2 Attached garage spaces,15682,,,2062547476
+1419,Multi family,,"Natural gas, hot water","Gas, wall unit(s), window unit(s)",Garage,55007,,,39721110
+1420,Single family residence,1900,"Radiator, natural gas","Ceiling fan(s), central a/c, programmable thermostat, electric",2 Garage spaces,55007,87,,39816210
+1421,Single family residence,1953,"Baseboard - hotwater, natural gas",Window unit(s),2 Garage spaces,3920,,,38657176
+1422,Adult community,1998,Forced air,Central air,2 Attached garage spaces,6534,206,,39671326
+1423,Multi family,2005,"2 Units, forced air, natural gas","2 Units, central air",2 Attached garage spaces,55007,,,79891010
+1424,Single family residence,1970,"Forced air, natural gas","Central a/c, electric",2 Attached garage spaces,34412,303,,39036211
+1425,Single family residence,1996,"Forced air, natural gas","Central a/c, ceiling fan(s), electric",4 Open parking spaces,59242,169,,37794477
+1426,Single family residence,,Hot water,No data,1 Attached garage space,1980,455,,38946409
+1427,Single family residence,1960,Forced air,"Central air, wall unit(s)",Attached garage,13504,293,,39151215
+1428,Single family residence,1929,"1 Unit, radiators - steam, natural gas","2 Units, wall unit(s), window unit(s)",1 Garage space,6969,,,38654653
+1429,Single family residence,1972,"Forced air, oil",Central a/c,2 Attached garage spaces,58806,256,,38773146
+1430,Single family residence,1917,"90% forced air, natural gas","Wall unit(s), electric",1 Open parking space,6538,129,,39814407
+1431,Single family residence,1970,Baseboard,Central air,Open parking,12197,347,,39521174
+1432,Single family residence,,"Baseboard, natural gas, forced air, zoned","Gas, zoned, central air",Attached garage,55007,,,38058316
+1433,Single family residence,,"Natural gas, radiators, steam",No data,1 Parking space,5000,,,38921554
+1434,Single family residence,2016,"1 Unit, forced air, natural gas","1 Unit, central air",1 Attached garage space,4356,,,40020475
+1435,Single family residence,1928,"1 Unit, heat pump, electric","2 Units, central air, heat pump",2 Garage spaces,8276,,,38688857
+1436,Single family residence,2001,"Zoned, forced air","Central air, ceiling fan(s), zoned",2 Attached garage spaces,7480,224,,64920677
+1437,Single family residence,1942,"Forced air, oil",None,Open parking,3999,125,,38982392
+1438,Condominium,2015,Forced air,Central air,No data,55007,348,,178430480
+1439,"Adult community, mobile home",1983,"Oil above ground, forced air",Central air,2 Open parking spaces,55007,,,2060965914
+1440,Multi family,1922,"2 Units, baseboard - hotwater, natural gas",Ceiling fan(s),2 Garage spaces,55007,,,2061450315
+1441,Single family residence,2003,"Electric, forced air",Central air,2 Garage spaces,55007,,,118629748
+1442,Single family residence,2001,"Forced air, fireplace(s), gas",Central air,4 Garage spaces,39204,93,,34595243
+1443,Singlefamily,1984,"Other, gas",Central,2 Parking spaces,9147,145,,34996141
+1444,Single family residence,1957,Forced air,Central air,2 Attached garage spaces,8450,80,,34295391
+1445,Single family residence,2001,"Fireplace(s), gas",Central air,2 Attached garage spaces,28314,127,,35143320
+1446,Single family residence,1950,"Forced air, natural gas","Ceiling fan(s), central air",1 Garage space,8712,105,,33225200
+1447,Single family residence,1992,"Forced air, natural gas",Central air,2 Garage spaces,10497,205,,34422799
+1448,Single family residence,1953,"Forced air, gas",Central air,1 Attached garage space,163350,,,33586127
+1449,Single family residence,1984,"Electric, heat pump",Central air,2 Attached garage spaces,13504,125,,33987956
+1450,Single family residence,1936,"Electric, program thermostat","Ceiling fan(s), central air",Open parking,5793,171,,34236348
+1451,Singlefamily,1990,"Forced air, gas",Central,2 Parking spaces,26572,55,,78449974
+1452,Single family residence,1880,"Forced air, oil",Central air,3 Attached garage spaces,217800,158,,35277144
+1453,Single family residence,1997,"Forced air, natural gas",Central air,2 Garage spaces,2047,125,,34236755
+1454,Single family residence,1956,"Forced air, gas",Central air,2 Attached garage spaces,42253,130,,33459678
+1455,Single family residence,1956,None,None,1 Garage space,43560,62,,35618795
+1456,Single family residence,1927,"Forced air, natural gas",Central air,1 Garage space,7501,72,2.75%,34640697
+1457,Single family residence,1920,"Forced air, natural gas",Central air,Open parking,1089,261,,34221270
+1458,Singlefamily,1918,Baseboard,Central,No data,6098,79,,34922670
+1459,Single family residence,1926,"Forced air, gas",Central air,2 Garage spaces,17860,67,,34801206
+1460,Single family residence,1968,"Forced air, natural gas",Central air,2 Attached garage spaces,16117,146,,33918661
+1461,Single family residence,1978,Natural gas,Central air,2 Attached garage spaces,10018,186,,34112830
+1462,Single family residence,1963,"Baseboard, gas, hot water, steam",Wall unit(s),2 Attached garage spaces,47480,95,,35526267
+1463,Single family residence,1960,"Forced air, natural gas",Central air,2 Garage spaces,17424,117,,34338041
+1464,Single family residence,1975,"Forced air, natural gas",Central air,2 Garage spaces,10454,149,,35685461
+1465,Single family residence,1989,"Forced air, gas","Attic fan, central air",2 Attached garage spaces,23958,75,,34801093
+1466,Single family residence,1959,"Forced air, fireplace(s), gas",Central air,2 Attached garage spaces,33541,75,,33611508
+1467,Single family residence,1968,Natural gas,Central air,2 Attached garage spaces,22651,177,,34042249
+1468,Single family residence,1956,"Forced air, natural gas",Central air,Open parking,12632,,,34352419
+1469,Single family residence,1923,"Natural gas, hot water",Central air,2 Off street,5662,198,,33862994
+1470,Single family residence,1983,"Forced air, gas",Central air,2 Attached garage spaces,12632,131,,35713085
+1471,Single family residence,1957,"Forced air, gas",Central air,1 Garage space,8250,,,34505635
+1472,Single family residence,1999,"Forced air, gas",Central air,2 Attached garage spaces,19166,125,,35246549
+1473,Single family residence,1972,"Forced air, gas",Central air,2 Attached garage spaces,20038,130,,35244313
+1474,Single family residence,1960,"Forced air, gas",Window unit(s),2 Garage spaces,54450,108,,34611154
+1475,"Duplex, multi family",1912,"Forced air, gas",None,3 Garage spaces,55007,84,,33494931
+1476,Single family residence,1987,"Forced air, heat pump","Ceiling fan(s), central air",3 Garage spaces,15682,113,,227512188
+1477,Single family residence,1966,"Forced air, natural gas",Central air,2 Attached garage spaces,21780,130,3.00%,33288958
+1478,Single family residence,1869,"Boiler, radiant",Window unit(s),3 Garage spaces,145055,100,,33820692
+1479,Single family residence,1978,"Forced air, gas, heat pump",Central air,2 Attached garage spaces,14375,133,,33589207
+1480,Single family residence,1930,No data,Central air,Open parking,3484,198,,33812520
+1481,Singlefamily,1943,"Forced air, gas",None,1 Parking space,16117,163,,35608339
+1482,Single family residence,2000,"Forced air, propane",Central air,4 Garage spaces,105415,152,3.00%,107213262
+1483,Single family residence,1956,"Forced air, gas",Central air,2 Attached garage spaces,20909,221,,35401467
+1484,Single family residence,2001,"Forced air, natural gas",Central air,2 Attached garage spaces,7840,193,,33737381
+1485,Single family residence,1885,"Forced air, natural gas, steam",Window unit(s),Open parking,7753,43,,34251341
+1486,Single family residence,1918,"Forced air, natural gas",Central air,1 Garage space,5140,162,,34426890
+1487,Single family residence,2004,"Forced air, gas",Central air,3 Attached garage spaces,28314,200,,67330567
+1488,Single family residence,1947,"Forced air, gas",Central air,1 Attached garage space,20909,79,,35387009
+1489,Single family residence,1967,"Forced air, gas",Central air,2 Garage spaces,125453,187,,81723233
+1490,Single family residence,1900,"Gas, forced air",Central air,"Off street, other",19602,120,2.5%,35669041
+1491,Single family residence,1971,"Forced air, gas",Central air,2 Attached garage spaces,9931,124,,33473604
+1492,Single family residence,1969,"Forced air, gas",Central air,4 Attached garage spaces,81893,216,,35380965
+1493,Single family residence,1927,"Forced air, fireplace(s), gas",Window unit(s),1 Attached garage space,3998,92,,96410724
+1494,Single family residence,1983,Electric,Central air,1 Attached garage space,43560,292,,34026268
+1495,"Condominium, multi family",1986,"Electric, forced air",Central air,1 Attached garage space,55007,155,,134244766
+1496,Single family residence,1942,"Forced air, gas",Central air,2 Garage spaces,15246,183,,33606350
+1497,Single family residence,1977,"Electric, geothermal",Central air,2 Garage spaces,226076,200,,34915526
+1498,Single family residence,1923,"Forced air, natural gas","Ceiling fan(s), central air",1 Garage space,4660,225,,34232911
+1499,Single family residence,2003,Natural gas,"Ceiling fan(s), central air",3 Attached garage spaces,366340,242,,118631051
+1500,Single family residence,1993,"Forced air, natural gas",Central air,2 Attached garage spaces,114127,190,,33719608
+1501,Single family residence,2005,"Forced air, natural gas","Central air, attic fan",3 Garage spaces,14810,223,2.5%,91958709
+1502,Singlefamily,1946,"Other, gas",Central,1 Parking space,6534,136,,91969440
+1503,Single family residence,1900,"Hot water, natural gas",Central air,2 Garage spaces,8799,146,2.5%,78978509
+1504,Single family residence,1943,"Forced air, gas",None,1 Garage space,5400,82,,35458732
+1505,Single family residence,1961,"Forced air, gas",Central air,2 Garage spaces,6612,,,33522302
+1506,Single family residence,2015,"Forced air, natural gas",Central air,2 Attached garage spaces,8276,161,,124011978
+1507,Single family residence,1940,"Electric, forced air, heat pump",Central air,Open parking,9147,106,,227509827
+1508,Single family residence,2016,"Forced air, natural gas",Central air,2 Garage spaces,10890,112,,128613620
+1509,Single family residence,1960,"Forced air, gas",Central air,1 Attached garage space,9583,130,,92238630
+1510,Condominium,1984,"Gas, heat pump",Central air,2 Attached garage spaces,55007,157,,33535994
+1511,Single family residence,1969,"Forced air, gas",Central air,2 Garage spaces,64033,180,,33608091
+1512,Single family residence,1920,"Electric, forced air",Central air,2 Garage spaces,9626,66,2.4%,84228443
+1513,"Townhouse, condominium",2005,"Forced air, gas",Central air,2 Attached garage spaces,55007,174,,67330877
+1514,Single family residence,1930,"Forced air, gas",Central air,1 Garage space,5070,127,,33370238
+1515,Single family residence,1941,"Forced air, natural gas",Central air,Open parking,4791,354,,33879521
+1516,Singlefamily,1988,Other,Central,2 Parking spaces,6534,139,,35064814
+1517,Single family residence,1986,"Forced air, gas",Central air,2 Attached garage spaces,10031,140,,34501999
+1518,Single family residence,1974,"Forced air, propane",Central air,2 Garage spaces,87120,148,2%,2060675169
+1519,Single family residence,1972,"Forced air, gas",Central air,2 Attached garage spaces,7840,126,,34582671
+1520,Singlefamily,2013,Forced air,No data,2 Parking spaces,12197,135,,124189017
+1521,Single family residence,1978,"Forced air, fireplace(s), gas","Attic fan, central air",3 Garage spaces,102802,130,,34914163
+1522,Single family residence,1980,"Forced air, gas, heat pump",Central air,2 Attached garage spaces,13068,137,,33454918
+1523,Single family residence,1900,Natural gas,Window unit(s),1 Garage space,4791,135,,2132469387
+1524,Single family residence,1903,"Forced air, gas",Central air,2 Garage spaces,8455,167,,33519254
+1525,Singlefamily,1947,"Forced air, gas",Central,1 Parking space,11761,116,,86618909
+1526,Single family residence,1966,"Forced air, natural gas",Central air,1 Garage space,7797,143,,34272680
+1527,Residential,1954,Forced air,No data,3 Covered parking spaces,55007,117,2%,33113254
+1528,Single family residence,1966,"Forced air, gas",Other,2 Attached garage spaces,8999,103,,33569081
+1529,Single family residence,1975,"Forced air, gas",Central air,2 Attached garage spaces,196456,162,,118520312
+1530,Single family residence,1950,"Forced air, gas",Central air,1 Garage space,5440,76,,33671031
+1531,Condominium,2006,"Forced air, gas furn ef rtd 95%+",Central air,1 Attached garage space,55007,153,,82322732
+1532,Single family residence,1958,"Forced air, gas",Central air,2 Attached garage spaces,15246,172,,34878964
+1533,Single family residence,2008,"Forced air, gas",Central air,2 Attached garage spaces,9565,100,,90188759
+1534,Single family residence,1952,"Baseboard, electric, forced air, gas",Central air,2 Garage spaces,20038,151,,33460121
+1535,Single family residence,1970,"Forced air, gas",Central air,2 Attached garage spaces,27443,152,,35356515
+1536,Single family residence,1966,"Electric, forced air",Central air,2 Attached garage spaces,10737,155,,33523663
+1537,Single family residence,1989,"Forced air, gas",Central air,2 Attached garage spaces,5323,149,,33536282
+1538,Single family residence,1963,"Forced air, natural gas",Central air,1 Garage space,7405,153,,33914511
+1539,Singlefamily,1960,Other,Central,2 Parking spaces,8712,114,,35069798
+1540,Single family residence,1960,"Forced air, natural gas",Central air,2 Garage spaces,12197,93,2.5%,34704067
+1541,Single family residence,1954,Natural gas,Central air,2 Garage spaces,7405,358,,33996234
+1542,Single family residence,1992,"Forced air, natural gas",Central air,2 Attached garage spaces,7405,149,,34060038
+1543,Single family residence,1952,"Forced air, gas",Central air,2 Garage spaces,6621,74,,33681453
+1544,Single family residence,1942,"Forced air, gas",Central air,2 Garage spaces,5401,109,,33689479
+1545,Single family residence,1954,"Forced air, gas",Central air,1 Attached garage space,14375,129,,35332449
+1546,Single family residence,1948,"Forced air, gas",Central air,No garage,6534,121,,33580520
+1547,Single family residence,1918,"Forced air, gas",Central air,2 Garage spaces,4639,83,,35445433
+1548,Single family residence,1950,"Forced air, gas",Central air,2 Garage spaces,5662,98,,33691431
+1549,Single family residence,1965,"Fireplace(s), hot water, other, steam, wood","Window unit(s), wall unit(s)",2 Garage spaces,14810,95,,35221851
+1550,Single family residence,1914,Natural gas,Window unit(s),Open parking,12632,85,,34227908
+1551,Single family residence,1947,"Forced air, propane, wood",Central air,3 Garage spaces,51836,123,,58728587
+1552,Single family residence,1951,"Forced air, gas",Central air,1 Attached garage space,7650,202,,35468509
+1553,Single family residence,1900,"Forced air, natural gas",Central air,2 Off street,4356,218,,33847252
+1554,Single family residence,2008,"Forced air, gas",Central air,"No garage, no driveway",8772,62,,92376319
+1555,Singlefamily,1944,"Other, gas",Central,2 Parking spaces,3715,102,,34158194
+1556,Single family residence,1944,"Forced air, gas",Central air,1 Garage space,4508,128,,33704471
+1557,Single family residence,1954,"Forced air, natural gas",Central air,2 Garage spaces,13504,44,2.5%,34689693
+1558,Single family residence,1928,"Forced air, natural gas",Central air,2 Off street,4791,132,,33869624
+1559,Single family residence,1941,"Electric, radiant","None, attic fan",3.5 Garage spaces,146362,120,2.5%,34734350
+1560,Condo shared wall,1994,"Forced air, natural gas",Central air,1 Attached garage space,55007,155,,34109703
+1561,Single family residence,1970,"Electric, forced air, natural gas",No data,2 Attached garage spaces,192971,57,,2060719818
+1562,Single family residence,1901,"Hot water, natural gas",None,"Asphalt, driveway, none, off street, shared driveway",4800,2,$900.00,34621671
+1563,Singlefamily,1947,Forced air,Central,No data,6751,109,,35109997
+1564,Single family residence,1973,"Fireplace(s), gas",Central air,2 Attached garage spaces,20038,102,,35331493
+1565,Single family residence,1961,Natural gas,Central air,1 Attached garage space,10018,147,,33912630
+1566,Singlefamily,1972,"Forced air, gas",Central,2 Parking spaces,11326,122,,34984756
+1567,"Townhouse, condominium",2006,"Forced air, gas",Central air,1 Garage space,55007,90,,82180489
+1568,"Townhouse, condominium",1974,"Forced air, gas",Central air,1 Garage space,1241,94,,35395228
+1569,Single family residence,1909,Forced air,Central air,3 Garage spaces,16553,358,,34213966
+1570,"Townhouse, single family residence",1998,"Forced air, gas",Central air,2 Attached garage spaces,2282,142,,35367013
+1571,Residential,1951,Forced air,No data,2 Covered parking spaces,30056,119,2.5%,33125767
+1572,Single family residence,1975,"Electric, forced air, oil",Central air,Carport,57499,135,,35330796
+1573,Single family residence,1923,"Forced air, natural gas",Central air,1 Garage space,6098,116,3.00%,33325341
+1574,Single family residence,1960,"Forced air, gas",Central air,1 Garage space,8642,122,,58559724
+1575,Single family residence,1956,"Forced air, natural gas",Central air,3 Garage spaces,27443,154,,35608409
+1576,Single family residence,1964,"Baseboard, gas, hot water, steam",None,2 Attached garage spaces,46174,151,,34154593
+1577,Single family residence,1951,Natural gas,Central air,1 Garage space,7274,103,,34364502
+1578,Single family residence,1803,"Forced air, natural gas",Central air,No garage,435600,195,,333335823
+1579,Single family residence,1968,Forced air,Central air,2 Attached garage spaces,23087,205,,34048484
+1580,Single family residence,1971,"Forced air, gas",Central air,2 Attached garage spaces,16117,219,,35400277
+1581,Single family residence,1948,Forced air,Central air,1 Off street,4791,138,,33870386
+1582,Single family residence,1981,"Baseboard, electric",None,2 Attached garage spaces,37462,141,,91969888
+1583,Single family residence,1956,No data,Central air,2 Garage spaces,13504,182,,33969077
+1584,Condominium,1990,"Electric, forced air",Central air,1 Garage space,55007,141,,51277973
+1585,Residential,,Forced air,No data,2 Attached garage spaces,1,67,3%,97142809
+1586,Single family residence,1960,"Forced air, natural gas",Central air,2 Garage spaces,7840,106,,34736697
+1587,Single family residence,2007,"Forced air, gas",Central air,2 Attached garage spaces,8228,103,,88956813
+1588,Single family residence,1960,"Forced air, gas",Central air,2 Attached garage spaces,11326,148,,34590185
+1589,"Duplex, multi family",1925,"Gas, hot water, steam",Window unit(s),3 Garage spaces,55007,46,,33663104
+1590,Single family residence,1940,"Forced air, oil, pellet stove, wood",None,2 Garage spaces,1010156,171,,203276736
+1591,Condominium,1991,"Forced air, natural gas",Central air,1 Parking space,55007,136,,51278017
+1592,Single family residence,1979,"Forced air, oil",None,2 Attached garage spaces,87120,47,,34146628
+1593,Single family residence,1905,"Forced air, gas",None,"No garage, no driveway",2661,68,,33351933
+1594,Single family residence,2022,"Forced air, propane",Central air,3 Attached garage spaces,19602,238,,2060685609
+1595,Single family residence,1928,"Forced air, natural gas",No data,2 Carport spaces,5227,113,,97155277
+1596,Single family residence,1913,"Gas, hot water, steam",None,2 Garage spaces,6250,75,,33656883
+1597,Singlefamily,1957,Other,Central,2 Parking spaces,7840,62,,33898815
+1598,Single family residence,2003,Heat pump,Heat pump,2 Garage spaces,43560,126,3.00%,116022871
+1599,Single family residence,1958,"Electric, forced air, natural gas","Electric, heat pump",1 Carport space,11326,258,3.00%,77562561
+1600,Single family residence,1960,Heat pump,Heat pump,2 Garage spaces,60984,122,3.00%,115453143
+1601,Single family residence,,"Forced air, gas pack, natural gas",Central air,1 Garage space,15246,113,,105764167
+1602,Single family residence,1984,Heat pump,Heat pump,1 Garage space,17424,61,3.00%,115456771
+1603,Single family residence,2006,"Electric, heat pump",Heat pump,Garage,4400,200,3.00%,84433165
+1604,Single family residence,1990,Heat pump,Heat pump,2 Garage spaces,21780,111,3.00%,116024507
+1605,Single family residence,1983,"Electric, forced air",Electric,No data,6068,166,3.00%,77553084
+1606,Single family residence,1970,"Forced air, heat pump",Heat pump,"Driveway, off street",17424,105,3.00%,115456043
+1607,Single family residence,1977,"Central, electric",Central air,4 Garage spaces,51836,78,,96936980
+1608,Single family residence,2006,"Electric, heat pump","Electric, heat pump",2 Garage spaces,825462,150,3.00%,326675087
+1609,"Single family residence, residential",1914,Forced air,Central air,Open parking,60113,171,3.00%,1364539
+1610,Single family residence,2003,Natural gas,Central air,2 Attached garage spaces,6534,147,,103910048
+1611,Single family residence,1980,Heat pump,Heat pump,2 Garage spaces,452153,177,3.00%,2060711470
+1612,Single family residence,1979,"Forced air, propane tank leased",Electric,1 Garage space,20909,191,3.00%,120261750
+1613,Single family residence,,"Baseboard, forced air, fireplace(s)",Central air,2 Attached garage spaces,175547,65,,234472794
+1614,Single family residence,1976,"Gas pack, natural gas",Central air,2 Carport spaces,14810,71,,115345257
+1615,Single family residence,1993,Heat pump,Central air,2 Attached garage spaces,34848,147,,105923355
+1616,Single family residence,1963,Natural gas,Central air,Open parking,13068,139,,1347589
+1617,Single family residence,1965,"Forced air, natural gas, fireplace(s)",Central air,2 Attached garage spaces,16117,122,,195012638
+1618,Single family residence,1965,"Forced air, natural gas",Central air,2 Attached garage spaces,14375,134,,73490946
+1619,Single family residence,1940,"Electric, natural gas",Central air,Open parking,6969,195,,73609563
+1620,Single family residence,1956,Natural gas,Central air,1 Garage space,11326,137,,73647685
+1621,Single family residence,2008,Heat pump,Electric,2 Garage spaces,66647,122,3.00%,234298218
+1622,Single family residence,1959,"Central, natural gas",Central electric,2 Attached garage spaces,20473,186,,97258452
+1623,Single family residence,1952,"Other, natural gas",Central electric,None,26572,89,,233964206
+1624,Single family residence,2020,"Heat pump, natural gas",Heat pump,Garage,11326,159,3.00%,2081408387
+1625,Single family residence,,"Electric, forced air","Electric, heat pump",1 Garage space,130680,233,3.00%,83411501
+1626,Single family residence,1981,"Electric, forced air",Central air,1 Garage space,8712,166,,114046308
+1627,Single family residence,,"Electric, heat pump",Central air,3 Garage spaces,196020,98,,127153633
+1628,Single family residence,1974,"Heat pump, propane, wall furnace, fireplace(s)",Central air,Open parking,522720,83,,121725052
+1629,Single family residence,1995,"Forced air, natural gas",Central air,2 Attached garage spaces,32670,173,,97257002
+1630,Single family residence,1992,Electric,Central air,2 Attached garage spaces,11326,148,,73447514
+1631,Single family residence,1965,"Forced air, natural gas",Central air,2 Attached garage spaces,33977,134,,96936753
+1632,Single family residence,1968,"Forced air, natural gas",Central air,2 Garage spaces,9147,121,,73496200
+1633,Single family residence,1979,"Electric, forced air, natural gas",Central air,Open parking,8276,134,,73622970
+1634,Single family residence,1955,"Forced air, ductless, natural gas","Central air, minisplit/ductless",Open parking,10454,93,,73573866
+1635,Condominium,1972,"Electric, heat pump",Electric,Other,55007,154,3.00%,96932561
+1636,Singlefamily,2000,"Other, electric, gas",Central,2 Parking spaces,1742400,199,,87848425
+1637,Single family residence,1977,"Forced air, natural gas",Electric,3 Garage spaces,38768,170,3.00%,194825878
+1638,Single family residence,1992,"Heat pump, electric","Central air, heat pump",6 Garage spaces,107593,137,,117786049
+1639,Single family residence,1995,"Propane, wood",Central air,Open parking,101059,86,,115466824
+1640,Single family residence,1910,"Electric, heat pump",Central air,Open parking,8712,155,,95195043
+1641,Single family residence,1997,"Gas forced air, fireplace(s)",Central air,2 Attached garage spaces,618988,290,2.5%,114016083
+1642,Single family residence,1973,"Forced air, natural gas",Central air,1 Attached garage space,10018,165,,105916569
+1643,Single family residence,1954,"Forced air, natural gas","Attic fan, electric",2 Garage spaces,435600,173,2.75%,2065870132
+1644,Single family residence,1999,"Forced air, natural gas",Central air,3 Attached garage spaces,17424,134,,73583753
+1645,Single family residence,1992,Heat pump,Electric,Garage,4070,154,3.00%,1392995
+1646,Singlefamily,1975,Other,Wall,No data,37026,30,,115294383
+1647,"Single family residence, residential",1978,Heat pump,Central air,1 Attached garage space,81022,252,3.00%,1431658
+1648,Single family residence,1927,"Forced air, natural gas",Central air,1 Garage space,5227,251,,73530223
+1649,Single family residence,1959,Natural gas,Electric,Garage,10890,123,3.00%,77574099
+1650,Single family residence,1885,"Natural gas, radiant",Central air,1 Garage space,6534,101,,73666629
+1651,Single family residence,1965,"Forced air, natural gas",Central air,2 Garage spaces,7840,147,,73451821
+1652,Single family residence,1968,"Forced air, natural gas",Central air,Open parking,7840,139,,73652240
+1653,Single family residence,2011,"Electric, heat pump, propane tank owned",Electric,Off street,2526480,215,3.00%,126652375
+1654,Single family residence,1972,"Forced air, natural gas",Central air,2 Attached garage spaces,29185,94,,73652296
+1655,Single family residence,1982,"Electric, heat pump","Electric, heat pump","Driveway, off street",17424,104,3.00%,116032782
+1656,"Single family residence, residential",1955,No data,Central air,1 Attached garage space,7405,212,3.00%,1375639
+1657,Single family residence,1972,"Electric, forced air, heat pump","Central air, heat pump",2 Attached garage spaces,652964,208,,115343387
+1658,Mobilemanufactured,,No data,No data,1 Parking space,55007,71,,194801987
+1659,Condominium,2004,"Forced air, natural gas",Central air,"Off street, no garage",55007,125,,2065153933
+1660,Single family residence,1993,"Forced air, natural gas",Central air,2 Garage spaces,17424,89,,73586529
+1661,Single family residence,1974,"Forced air, heat pump",Electric,Garage,7405,115,3.00%,77551880
+1662,Single family residence,1973,"Forced air, natural gas","Electric, heat pump",Garage,8125,104,2.00%,226793697
+1663,Multi family,,Electric,Central air,No data,55007,88,3.00%,234522175
+1664,Single family residence,1991,"Heat pump, electric",Central air,1 Attached garage space,11761,160,,96939744
+1665,Singlefamily,1856,Propane / butane,Wall,Garage - detached,383328,44,,115294293
+1666,Single family residence,1987,Electric,Electric,Driveway,453024,180,3.00%,91584575
+1667,Single family residence,1965,"Natural gas, heat pump",Central air,Open parking,91476,88,$0,2061254334
+1668,"Single family residence, residential",2003,Forced air,Central air,2 Garage spaces,9583,197,3.00%,60064556
+1669,Single family residence,1992,"Electric, heat pump, wood",Heat pump,Driveway,527076,206,3.00%,234208872
+1670,Single family residence,2020,"Forced air, natural gas",Electric,Garage,7710,139,3.00%,2082411317
+1671,Single family residence,1990,Electric,Central air,Open parking,15246,133,,73541445
+1672,Condominium,1996,"Forced air, natural gas",Central air,Open parking,55007,123,,73495333
+1673,Single family residence,1998,"Central, electric","Central air, central electric, heat pump",2 Attached garage spaces,105851,208,,97273167
+1674,"Single family residence, manufactured home",,"Heat pump, propane tank leased",Window unit(s),Driveway,55007,78,3.00%,222927239
+1675,Single family residence,1923,Heat pump,Heat pump,Garage,161172,125,2.50%,218463427
+1676,Single family residence,2012,"Electric, heat pump",Electric,Garage,12632,171,3.00%,116029586
+1677,"Single family residence, residential",1963,Central,Central air,5 Garage spaces,165092,131,,218407264
+1678,Single family residence,1930,Natural gas,Central air,2 Attached garage spaces,3484,90,,73611461
+1679,Single family residence,2020,Heat pump,Heat pump,2 Garage spaces,7649,241,3.00%,2086225680
+1680,Single family residence,2010,"Heat pump, electric",Central air,3 Attached garage spaces,76230,149,,116236438
+1681,Single family residence,1890,"Forced air, gas",Central air,2 Carport spaces,15682,79,,96933657
+1682,Single family residence,1975,"Forced air, multiple units, propane, wall furnace, fireplace(s)",Central air,Open parking,161172,103,,105764181
+1683,"Single family residence, residential",1973,Forced air,Central air,2 Attached garage spaces,9147,,3.00%,1363695
+1684,Single family residence,,"Electric, forced air",Central air,1 Carport space,5662,105,,105770335
+1685,Single family residence,1940,"Forced air, natural gas",Central air,1 Carport space,6969,149,,73612148
+1686,Single family residence,1985,"Central, furnace, electric, propane, wood",Central air,4.5 Garage spaces,128502,203,,111287960
+1687,Singlefamily,1943,Forced air,Central,1 Parking space,9800,66,,116007183
+1688,Single family residence,1953,"Central, forced air, furnace, natural gas","Central air, central electric, zoned",1 Garage space,27878,102,,112032300
+1689,"Single family residence, residential",1870,Forced air,Central air,1 Garage space,2613,135,3.00%,1369110
+1690,"Residential/farm, single family residence",1933,"Forced air, gas",Window unit(s),Open parking,10890,47,3%,230202133
+1691,"Single family residence, residential",1926,Forced air,Central air,2 Attached garage spaces,6969,204,3.00%,1426846
+1692,"Single family residence, residential",1994,Has heating (unspecified type),Central air,1 Attached garage space,914760,149,,2077777079
+1693,Single family residence,2005,Forced air,Heat pump,Garage,22216,132,3.00%,105938879
+1694,Single family residence,1975,"Forced air, heat pump, natural gas",No data,1 Attached garage space,20473,139,,246165274
+1695,Single family residence,1965,"Central, electric",Central air,2 Attached garage spaces,11761,135,,96950233
+1696,Single family residence,1959,"None, other","None, other",2 Carport spaces,43996,85,2.00%,234209272
+1697,"Single family residence, triplex",1906,Forced air,"Electric, window unit(s)",No data,55007,60,3.00%,1397041
+1698,"Condominium, quadruplex",2007,Electric,Electric,2 Garage spaces,55007,189,2.50%,225984063
+1699,"Single family residence, residential",1968,No data,Central air,1 Garage space,14375,112,3.00%,1412972
+1700,Residential,1994,"Natural gas, forced air",Central electric,2 Attached garage spaces,6000,145,,113290116
+1701,Single family residence,1970,Heat pump,Heat pump,2 Garage spaces,21780,95,3.00%,115457945
+1702,Single family residence,,Heat pump,Heat pump,No data,19166,211,3.00%,225988692
+1703,"Zero lot line, residential",2008,Has heating (unspecified type),Central air,2 Attached garage spaces,22216,160,,105795660
+1704,Single family residence,1961,"Forced air, natural gas",Central air,1 Attached garage space,10890,136,,97260909
+1705,Single family residence,2007,"Heat pump, electric",Heat pump,2 Attached garage spaces,44867,119,,96956117
+1706,Single family residence,1997,"Electric, heat pump",Central air,Open parking,30056,158,,115431648
+1707,Single family residence,,"Forced air, natural gas",Electric,Driveway,14810,122,3.00%,233957136
+1708,Single family residence,1973,Electric,Electric,Driveway,7405,187,3.00%,77533884
+1709,Single family residence,1965,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,37462,167,,105872404
+1710,Single family residence,2002,Heat pump,Heat pump,2 Garage spaces,27007,134,3.00%,115371458
+1711,Single family residence,1987,Forced air,Central air,2 Attached garage spaces,11761,120,,131990919
+1712,Single family residence,1992,"Forced air, natural gas",Central air,2 Garage spaces,48352,198,,218990775
+1713,Single family residence,1940,"Electric, forced air","Electric, heat pump",2 Carport spaces,13068,171,3.00%,326142348
+1714,Single family residence,1955,"Electric, heat pump",Electric,Garage,43560,125,3.00%,333112455
+1715,Single family residence,1993,No data,Central air,2 Attached garage spaces,13939,146,,73625159
+1716,Single family residence,1998,"Electric, forced air",Electric,Garage,15246,115,3.00%,115445795
+1717,Single family residence,,Forced air,Heat pump,Garage,28314,124,3.00%,126650888
+1718,Single family residence,,"Heat pump, electric",Central air,None,43560,62,,115247283
+1719,"Residential/farm, single family residence",1998,"Heat pump, electric",Heat pump,2 Garage spaces,1143886,81,3%,115269673
+1720,Single family residence,1962,Electric,Electric,Garage,24394,123,3.00%,77560862
+1721,Single family residence,1993,"Electric, natural gas",Electric,2 Garage spaces,5371,182,3.00%,77549766
+1722,Single family residence,1965,Natural gas,Electric,2 Carport spaces,22216,103,3.00%,230199790
+1723,Single family residence,2012,Heat pump,Heat pump,2 Garage spaces,8000,158,3.00%,98537687
+1724,Single family residence,1985,Electric,Electric,"Driveway, off street",50094,91,2.50%,2062351297
+1725,Single family residence,1993,"Other, natural gas",Central air,None,16988,167,,115246178
+1726,"Single family residence, residential",2018,"Heat pump, forced air, electric",Central air,Open parking,104544,,3.00%,234240613
+1727,Residential,1920,"Natural gas, other-see remarks, fireplace",Central electric,1 Garage space,16988,52,,115421567
+1728,Quadruplex,1885,"Forced air, natural gas, other",Wall/window unit(s),6 Parking spaces,55007,114,,2105900285
+1729,Single family residence,2006,"Central, heat pump, electric","Central air, heat pump",Attached garage,50965,217,,306348451
+1730,Manufactured home,2014,Heat pump,Heat pump,2 Garage spaces,55007,95,,105865541
+1731,Single family residence,1966,"Forced air, natural gas",Central air,1 Attached garage space,14375,136,,73511119
+1732,Single family residence,2014,"Electric, forced air, natural gas",Central air,2 Attached garage spaces,98446,136,,113383433
+1733,Single family residence,1971,"Electric, forced air",Central air,1 Attached garage space,22216,139,,105874903
+1734,Quadruplex,1890,"Forced air, natural gas, other","Other, wall/window unit(s)",No garage,55007,125,,2086802348
+1735,Single family residence,1910,"Furnace, natural gas",Central air,None,5227,96,,2060796002
+1736,Singlefamily,1986,"Baseboard, other",Other,None,1205305,134,,110362801
+1737,"Single family residence, residential",1994,"Heat pump, electric",Central air,2 Attached garage spaces,9583,183,3.00%,1413895
+1738,Single family residence,1969,"Forced air, natural gas",Central air,2 Garage spaces,15246,115,,73632021
+1739,Single family residence,1963,"Forced air, natural gas",Electric,1 Garage space,13068,153,3.00%,96965136
+1740,Single family residence,1910,Floor furnace,None,2 Garage spaces,22216,36,$1000.00,2061291744
+1741,Residential,1962,"Natural gas, forced air, fireplace",Central electric,2 Attached garage spaces,26572,134,,215061824
+1742,Single family residence,1930,None,None,Driveway,20038,30,3.00%,233920453
+1743,"Patio home, residential, single family residence",2020,No data,Central air,2 Attached garage spaces,4791,,3.00%,306438043
+1744,Single family residence,1950,"Baseboard, electric, gas",Central air,None,43560,121,,97267546
+1745,Residential,1986,"Natural gas, forced air, fireplace",Central electric,2 Attached garage spaces,7980,136,,96914479
+1746,Single family residence,1963,"Forced air, natural gas",Electric,"Driveway, off street",6861,151,3.00%,77523070
+1747,Single family residence,1900,"Electric, forced air, natural gas",Central air,Open parking,68389,54,,95200143
+1748,Single family residence,2017,"Electric, forced air",Electric,1 Garage space,55007,139,3.00%,2093557352
+1749,Single family residence,1945,Heat pump,Central air,None,3049200,93,$0,2083893342
+1750,Single family residence,2014,None,None,Off street,235660,50,2.00%,2060682428
